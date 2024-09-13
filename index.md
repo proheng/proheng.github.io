@@ -1,7 +1,7 @@
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.pages %}
     <li>
-      <a href="{{ post.url }}">{{post.date | date_to_long_string }} {{ post.title }}</a>
+      <a href="{{ page.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
