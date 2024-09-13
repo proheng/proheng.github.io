@@ -1,6 +1,6 @@
 <ul>
-    <li> {% link about.md %} </li>
-    <li> {% link posts.md %} </li>
+    <li> {% link about %} </li>
+    <li> {% link posts %} </li>
 </ul>
 
 
