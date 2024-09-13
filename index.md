@@ -1,9 +1,6 @@
 <ul>
-  {% for page in site.pages %}
-    <li>
-      <a href="{{ page.url }}">{{ page.title }}</a>
-    </li>
-  {% endfor %}
+    <li> {% link about.html %} </li>
+    <li> {% link posts.html %} </li>
 </ul>
 
 
