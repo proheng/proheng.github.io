@@ -54,7 +54,7 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 ## 运动如何提升抗压能力
 
-轻微的压力可以激活神经元内在的修复和恢复机制。常规有氧锻炼可以让大脑保持冷静，能够在心率、应激激素等出现严重反应之前，应对更多的压力。它提高了生理反应的阈值。
+轻微的压力可以激活神经元内在的修复和恢复机制。运动能让身体和大脑产生应对压力的反应。常规有氧锻炼可以让大脑保持冷静，能够在心率、应激激素等出现严重反应之前，应对更多的压力。它提高了生理反应的阈值。换句话说，常规有氧运动能ti
 
 锻炼产生的轻微压力能激活某种使细胞免受疾病或损伤打击的蛋白质，并以这种方式巩固大脑神经细胞的基本结构。因此，锻炼也同样提高了神经元的压力阈值。
 
@@ -74,8 +74,8 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 我个人总结是，我们要做到压力适度，不要把自己处在压力超出自己能够的环境下，学会把压力拆解，也不能让自己长期处在压力状态下啊。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjMyOTg4MzEsMTI1NDQyMjQxOSwtMj
-EyMDI4MTQ0MSwtMTg3MDAzMzc3NCwtNDUxNDI3MjAsMTc4NTcx
-ODM2MCwtMTQ2NzYwMTkzNywtMjExMDQ0OTcwOCwtMTA1MTU2Nj
-MzMl19
+eyJoaXN0b3J5IjpbLTU1NTk1MDQxNywxMjU0NDIyNDE5LC0yMT
+IwMjgxNDQxLC0xODcwMDMzNzc0LC00NTE0MjcyMCwxNzg1NzE4
+MzYwLC0xNDY3NjAxOTM3LC0yMTEwNDQ5NzA4LC0xMDUxNTY2Mz
+MyXX0=
 -->
