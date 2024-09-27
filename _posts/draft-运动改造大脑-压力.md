@@ -34,6 +34,7 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 ### 压力可以促进记忆力，也能引起应激反应 
 
 
+
 我个人总结，要做到压力适度，不要把自己处在压力超出自己能够的环境下，学会把压力拆解，也不能让自己长期处在压力状态下啊。
 
 ### 压力也是人类成长的推动力
@@ -55,7 +56,7 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTQyNzIwLDE3ODU3MTgzNjAsLTQ1MT
-QyNzIwLC0xNDY3NjAxOTM3LC0yMTEwNDQ5NzA4LC0xMDUxNTY2
-MzMyXX0=
+eyJoaXN0b3J5IjpbLTE4NzAwMzM3NzQsLTQ1MTQyNzIwLDE3OD
+U3MTgzNjAsLTE0Njc2MDE5MzcsLTIxMTA0NDk3MDgsLTEwNTE1
+NjYzMzJdfQ==
 -->
