@@ -59,6 +59,7 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 作者提出
 > 我喜欢把这些要素看成是时刻保持警戒、准备迎战下一次压力的军队。增加这些要素的最佳方法就是给自己一点儿压力：让大脑学习、限制饮食、运动，或者就像麦特森和妈妈会提醒我们的那样，多吃蔬菜。所有这些活动都在考验细胞，它们产生的代谢废品足以引发压力。这看似有些自相矛盾：没有压力，我们就不会拥有出色的适应和生长能力。**没有小挫折，就不会成功**。
 
+除此之外，对老鼠的实验证明，如果让那些已患有慢性压力的老鼠开始运动，就能让它们已经萎缩的海马复原。
 
 # 亮点摘抄
 
@@ -71,8 +72,8 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 我个人总结是，我们要做到压力适度，不要把自己处在压力超出自己能够的环境下，学会把压力拆解，也不能让自己长期处在压力状态下啊。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njc5MjIzMDQsMTI1NDQyMjQxOSwtMj
-EyMDI4MTQ0MSwtMTg3MDAzMzc3NCwtNDUxNDI3MjAsMTc4NTcx
-ODM2MCwtMTQ2NzYwMTkzNywtMjExMDQ0OTcwOCwtMTA1MTU2Nj
-MzMl19
+eyJoaXN0b3J5IjpbNjI4MTYwNjE5LC0xNjY3OTIyMzA0LDEyNT
+Q0MjI0MTksLTIxMjAyODE0NDEsLTE4NzAwMzM3NzQsLTQ1MTQy
+NzIwLDE3ODU3MTgzNjAsLTE0Njc2MDE5MzcsLTIxMTA0NDk3MD
+gsLTEwNTE1NjYzMzJdfQ==
 -->
