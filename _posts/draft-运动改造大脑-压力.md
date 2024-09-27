@@ -36,7 +36,10 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 我个人总结，要做到压力适度，不要把自己处在压力超出自己能够的环境下，学会把压力拆解，也不能让自己长期处在压力状态下啊。
 
-### 
+### 压力也是人类成长的推动力
+
+
+### 现在的文明让我们忽略我们对自己身体的感知
 
 总结来说，压力是一把双刃剑，我们可以利用它来磨练提升自己的战斗力，但是，不小心，它也可以成为伤自己的利器。
 
@@ -52,6 +55,6 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzU2MzA0LC0xNDY3NjAxOTM3LC0yMT
+eyJoaXN0b3J5IjpbLTQ1MTQyNzIwLC0xNDY3NjAxOTM3LC0yMT
 EwNDQ5NzA4LC0xMDUxNTY2MzMyXX0=
 -->
