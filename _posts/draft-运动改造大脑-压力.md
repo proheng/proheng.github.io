@@ -67,6 +67,7 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 > 一些ADHD患者会给人以**压力成瘾者**的印象，其原因是这些神经递质失调。他们必须遭受压力才能集中注意力，而这是其做事拖拉的主要因素之一。人们学会做事拖拉，一直到迫在眉睫之际，压力才会打开去甲肾上腺素和多巴胺的闸门，这时人们才会坐下来认真做事。对压力的需要还解释了为什么ADHD患者有时候似乎是在自我折磨。当一切都很好时，他们需要挑起事端，在潜意识里找到一种创造危机的方法。
  
+我现在才知道，拖延症，原来都有sheng yi
 
 > 正如慢性压力过程那样，要是整个过程一直持久不衰，那么皮质醇的这种作用会导致以腹部脂肪的形式蓄积过剩的能量。​（皮质醇持续不断的作用也解释了为什么有些马拉松运动员尽管一直在训练，却仍有小肚腩，他们的身体从来没有机会充分恢复。​）
 > 大脑是葡萄糖的重要消费客户，尽管只占我们身体重量的3%，但会消耗掉可用能量的20%。
@@ -104,8 +105,8 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTIwNzA0NywtMTY2NzkyMjMwNCwxMj
-U0NDIyNDE5LC0yMTIwMjgxNDQxLC0xODcwMDMzNzc0LC00NTE0
-MjcyMCwxNzg1NzE4MzYwLC0xNDY3NjAxOTM3LC0yMTEwNDQ5Nz
-A4LC0xMDUxNTY2MzMyXX0=
+eyJoaXN0b3J5IjpbLTIxMTQ0MDI4OTMsLTE2Njc5MjIzMDQsMT
+I1NDQyMjQxOSwtMjEyMDI4MTQ0MSwtMTg3MDAzMzc3NCwtNDUx
+NDI3MjAsMTc4NTcxODM2MCwtMTQ2NzYwMTkzNywtMjExMDQ0OT
+cwOCwtMTA1MTU2NjMzMl19
 -->
