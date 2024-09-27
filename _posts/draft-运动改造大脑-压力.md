@@ -61,11 +61,13 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 除此之外，对老鼠的实验证明，如果让那些已患有慢性压力的老鼠开始运动，就能让它们已经萎缩的海马复原。所以，运动能够有效帮助慢性压力者走入被动面对压力的循环中。因为，运动能改变我们的想法和感受，给我们的身体和思想注入动力，推动我们那会主动权，获得掌控力，从而，我们大脑所能感受到的压力就变小了。
 
-一项研究
+一项研究也表明，在公司里，运动可以减少压力，从而提高员工的工作效率。
 
 # 亮点摘抄
 
- 
+
+
+> 在35项研究中，有23项证实，不运动的女性罹患乳腺癌的风险增加了；经常运动的人患结肠癌的风险降低了50%；65岁以上经常运动的男性患晚期致命性前列腺癌的风险降低了70%
 
 # 个人感受和思考
 
@@ -73,9 +75,11 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 
 我个人总结是，我们要做到压力适度，不要把自己处在压力超出自己能够的环境下，学会把压力拆解，也不能让自己长期处在压力状态下啊。
+
+**越感到疲倦或压力，越不要随波逐流，放纵享乐，f越需要运动和社交来减压**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTE3NTIyNjMsLTE2Njc5MjIzMDQsMT
-I1NDQyMjQxOSwtMjEyMDI4MTQ0MSwtMTg3MDAzMzc3NCwtNDUx
-NDI3MjAsMTc4NTcxODM2MCwtMTQ2NzYwMTkzNywtMjExMDQ0OT
-cwOCwtMTA1MTU2NjMzMl19
+eyJoaXN0b3J5IjpbLTY4MTM1MjUzOCwtMTY2NzkyMjMwNCwxMj
+U0NDIyNDE5LC0yMTIwMjgxNDQxLC0xODcwMDMzNzc0LC00NTE0
+MjcyMCwxNzg1NzE4MzYwLC0xNDY3NjAxOTM3LC0yMTEwNDQ5Nz
+A4LC0xMDUxNTY2MzMyXX0=
 -->
