@@ -33,7 +33,7 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 ### 压力可以促进记忆力，也能引起应激反应 
 
-当我们感受到压力的时候，身体有什么感受呢？是不是心跳会加速，思想变得警觉，呼吸也会加快呢？这些都是我们大脑在调度身体进行应激反应的过程。大脑会唤起身体一系列
+当我们感受到压力的时候，身体有什么感受呢？是不是心跳会加速，思想变得警觉，呼吸也会加快呢？这些都是我们大脑在调度身体进行应激反应的过程。大脑会唤起身体一系列生理反应，务求转化出更多的糖分，通过血液输送到需要，提供肌肉和思维充分的能量
 
 我个人总结，要做到压力适度，不要把自己处在压力超出自己能够的环境下，学会把压力拆解，也不能让自己长期处在压力状态下啊。
 
@@ -56,7 +56,7 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTYxOTIzNSwtMTg3MDAzMzc3NCwtND
-UxNDI3MjAsMTc4NTcxODM2MCwtMTQ2NzYwMTkzNywtMjExMDQ0
-OTcwOCwtMTA1MTU2NjMzMl19
+eyJoaXN0b3J5IjpbODE3Mzc1OTE4LC0xODcwMDMzNzc0LC00NT
+E0MjcyMCwxNzg1NzE4MzYwLC0xNDY3NjAxOTM3LC0yMTEwNDQ5
+NzA4LC0xMDUxNTY2MzMyXX0=
 -->
