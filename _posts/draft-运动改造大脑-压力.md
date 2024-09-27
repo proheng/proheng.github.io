@@ -74,6 +74,7 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 > 用于运行的能量预算是固定的，因此大脑已进化至在必要时挪用能量资源，这意味着心理过程具有竞争性。身体绝不可能使所有的神经元同时发出信号，所以假如一个神经元网络活跃起来，它的发生必定以抑制另一个神经元网络作为代价。
 > 慢性压力的问题之一是，一旦下丘脑–垂体–肾上腺轴消耗大量能量来保持系统的警觉状态，那么大脑的思维功能所需的能量就会被侵占。
  
+ 慢性压力并不是一个词组，
  
 > 运动可以增加全身的血流量以及可利用的葡萄糖，它们都是细胞生存的必需品。更多血液携带更多氧气，而细胞需要氧气把葡萄糖转换成三磷酸腺苷以维持生存。大脑把血液从前额叶皮质输送到中脑，那里是我们多次提到的海马和杏仁核的所在地。这种优先顺序模式或许可以用来解释为什么研究人员发现在剧烈运动期间，较高的认知功能会被削弱。
 
@@ -105,8 +106,8 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjMxNTg4NSwtMTY2NzkyMjMwNCwxMj
-U0NDIyNDE5LC0yMTIwMjgxNDQxLC0xODcwMDMzNzc0LC00NTE0
-MjcyMCwxNzg1NzE4MzYwLC0xNDY3NjAxOTM3LC0yMTEwNDQ5Nz
-A4LC0xMDUxNTY2MzMyXX0=
+eyJoaXN0b3J5IjpbLTgyNTQ3NzA1OSwtNjY2MzE1ODg1LC0xNj
+Y3OTIyMzA0LDEyNTQ0MjI0MTksLTIxMjAyODE0NDEsLTE4NzAw
+MzM3NzQsLTQ1MTQyNzIwLDE3ODU3MTgzNjAsLTE0Njc2MDE5Mz
+csLTIxMTA0NDk3MDgsLTEwNTE1NjYzMzJdfQ==
 -->
