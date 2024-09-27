@@ -11,7 +11,7 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 ## 重新认识压力
 
-我们一般怎么形容压力呢？[ChatGPT给了你一些词语来形容，看合不合用](https://chatgpt.com/share/66f5fb09-c714-800c-9159-6045b302b1ef){target="_blank"}？有没有留意到我们描述压力的状态，都是从主观感觉上描述的。换句话来说，对于同一个处境，不同人的感觉的压力的程度是不同的。
+我们一般怎么形容压力呢？[ChatGPT给了你一些词语来形容，看合不合用](https://chatgpt.com/share/66f5fb09-c714-800c-9159-6045b302b1ef){target="_blank"}？有没有留意到我们描述压力的状态，都是从主观感觉上描述的。换句话来说，对于同一个处境，不同人的感觉的压力的程度是不同的。值得留意的是，作者在英文原版用的是词是**stress**，而不是**pressure**。在
 
 作者提出了一个新的压力定义：*身体平衡状态的一个威胁。它是一种对反应的考验，一种对适应的要求。任何会引起大脑细胞活动的事情都是压力的形式。对一个发送信号的神经元来说，它需要能量，而且燃烧能量的过程还会使细胞受损。压力感是一种我们对大脑细胞承受压力的情绪回应。* 
 
@@ -39,6 +39,6 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5NDY0MzA5LC0xNDY3NjAxOTM3LC0yMT
-EwNDQ5NzA4LC0xMDUxNTY2MzMyXX0=
+eyJoaXN0b3J5IjpbMjEwMDYwNzYwOSwtMTQ2NzYwMTkzNywtMj
+ExMDQ0OTcwOCwtMTA1MTU2NjMzMl19
 -->
