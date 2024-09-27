@@ -96,10 +96,9 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 压力是一把双刃剑，我们可以利用它来磨练提升自己的战斗力，但是，不小心，它也可以成为伤自己的利器。
 
+我个人总结是，我们需要时刻感知身体对压力的反应，让压力适度地作用在自己身上。不要把自己处在压力超出能力的环境下，尽可能学会把压力拆解，也不能让自己长期处在压力状态下啊。
 
-我个人总结是，我们要做到压力适度，不要把自己处在压力超出自己能够的环境下，学会把压力拆解，也不能让自己长期处在压力状态下啊。
-
-**越感到疲倦或压力，越不要随波逐流，放纵享乐，反而越需要运动和社交来减压**
+最后一个建议，**越感到疲倦或压力，越不要随波逐流或放纵享乐，反而越需要运动和社交。**
 
 
 
@@ -111,9 +110,9 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NTY1NzU1OSwtMTEzMjUxOTg4NywtNj
-Y2MzE1ODg1LC0xNjY3OTIyMzA0LDEyNTQ0MjI0MTksLTIxMjAy
-ODE0NDEsLTE4NzAwMzM3NzQsLTQ1MTQyNzIwLDE3ODU3MTgzNj
-AsLTE0Njc2MDE5MzcsLTIxMTA0NDk3MDgsLTEwNTE1NjYzMzJd
-fQ==
+eyJoaXN0b3J5IjpbMzg5NDk4MDI0LC0xMTMyNTE5ODg3LC02Nj
+YzMTU4ODUsLTE2Njc5MjIzMDQsMTI1NDQyMjQxOSwtMjEyMDI4
+MTQ0MSwtMTg3MDAzMzc3NCwtNDUxNDI3MjAsMTc4NTcxODM2MC
+wtMTQ2NzYwMTkzNywtMjExMDQ0OTcwOCwtMTA1MTU2NjMzMl19
+
 -->
