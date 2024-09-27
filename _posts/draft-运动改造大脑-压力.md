@@ -92,6 +92,7 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 # 个人感受和思考
 
+压力其实是个人的外界的主观感受。个人感知到的压力大与小，和我们的态度和情绪jii
 总结来说，压力是一把双刃剑，我们可以利用它来磨练提升自己的战斗力，但是，不小心，它也可以成为伤自己的利器。
 
 
@@ -109,7 +110,7 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjQyOTE2MywtMTEzMjUxOTg4NywtNj
+eyJoaXN0b3J5IjpbLTk3Njc4MjkyMCwtMTEzMjUxOTg4NywtNj
 Y2MzE1ODg1LC0xNjY3OTIyMzA0LDEyNTQ0MjI0MTksLTIxMjAy
 ODE0NDEsLTE4NzAwMzM3NzQsLTQ1MTQyNzIwLDE3ODU3MTgzNj
 AsLTE0Njc2MDE5MzcsLTIxMTA0NDk3MDgsLTEwNTE1NjYzMzJd
