@@ -35,7 +35,7 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 当我们感受到压力的时候，身体有什么感受呢？是不是心跳会加速，思想变得警觉，呼吸也会加快呢？这些都是我们大脑在调度身体进行应激反应的过程。大脑会唤起身体一系列生理反应，务求转化出更多的糖分，通过血液输送到相对应的人体器官，提供充分的能量准备“战斗或逃跑”。一切都是为了生存的需要。
 
-与此同时，在应激反应过程中，身体释放出的皮质醇（**cortisol**）有助于促成记忆的形成。所以，一定的压力能让人产生记忆。但是，如果身体长期处于压力的情绪到中，皮质醇过度释放，反而会抑制记忆，破坏神经元zhi jian
+与此同时，在应激反应过程中，身体释放出的皮质醇（**cortisol**）有助于促成记忆的形成。所以，一定的压力能让人产生记忆。因此，在适度的压力下学习，大脑能更容易记住学习内容。但是，如果身体长期处于压力的情绪到中，皮质醇过度释放，反而会抑制记忆，破坏神经元之间的连接。这也意思了，为什么慢性压力下的人很难学习性知识？为什么心情沮丧的人会出现学习困难？不仅仅是因为因
 
 我个人总结，要做到压力适度，不要把自己处在压力超出自己能够的环境下，学会把压力拆解，也不能让自己长期处在压力状态下啊。
 
@@ -58,7 +58,7 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODU5OTU4NSwtMjEyMDI4MTQ0MSwtMT
-g3MDAzMzc3NCwtNDUxNDI3MjAsMTc4NTcxODM2MCwtMTQ2NzYw
-MTkzNywtMjExMDQ0OTcwOCwtMTA1MTU2NjMzMl19
+eyJoaXN0b3J5IjpbLTE0ODEyNTIzNDQsLTIxMjAyODE0NDEsLT
+E4NzAwMzM3NzQsLTQ1MTQyNzIwLDE3ODU3MTgzNjAsLTE0Njc2
+MDE5MzcsLTIxMTA0NDk3MDgsLTEwNTE1NjYzMzJdfQ==
 -->
