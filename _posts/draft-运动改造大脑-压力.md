@@ -10,7 +10,7 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 ## 重新认识压力
 
-我们一般怎么形容压力呢？G ha
+我们一般怎么形容压力呢？[ChatGPT给了你一些词语来形容，看合不合用](https://chatgpt.com/share/66f5fb09-c714-800c-9159-6045b302b1ef){target=""}？
 
 ## 压力的积极作用
 
@@ -28,6 +28,6 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzY5OTg4MTUsLTIxMTA0NDk3MDgsLT
-EwNTE1NjYzMzJdfQ==
+eyJoaXN0b3J5IjpbLTM2Nzg4MTQ3NCwtMjExMDQ0OTcwOCwtMT
+A1MTU2NjMzMl19
 -->
