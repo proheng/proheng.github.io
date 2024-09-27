@@ -92,7 +92,7 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 # 个人感受和思考
 
-压力其实是个人的外界的主观感受。个人感知到的压力大与小，和我们的态度，情绪以及身体紧密相连。用积极的态度和正面的情绪，主动地处理压力，会带来正反馈，h
+压力其实是个人的外界的主观感受。个人感知到的压力大与小，和我们的态度，情绪以及身体紧密相连。用积极的态度和正面的情绪，主动地处理压力，会带来正反馈和提升，产生良性循环。反之，身体有可能进入被动或逃避压力，有可能导致慢性压力，进入坏循环。
 
 总结来说，压力是一把双刃剑，我们可以利用它来磨练提升自己的战斗力，但是，不小心，它也可以成为伤自己的利器。
 
@@ -111,9 +111,9 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTM0ODAwNjUsLTExMzI1MTk4ODcsLT
-Y2NjMxNTg4NSwtMTY2NzkyMjMwNCwxMjU0NDIyNDE5LC0yMTIw
-MjgxNDQxLC0xODcwMDMzNzc0LC00NTE0MjcyMCwxNzg1NzE4Mz
-YwLC0xNDY3NjAxOTM3LC0yMTEwNDQ5NzA4LC0xMDUxNTY2MzMy
-XX0=
+eyJoaXN0b3J5IjpbMTgzOTYwOTczMywtMTEzMjUxOTg4NywtNj
+Y2MzE1ODg1LC0xNjY3OTIyMzA0LDEyNTQ0MjI0MTksLTIxMjAy
+ODE0NDEsLTE4NzAwMzM3NzQsLTQ1MTQyNzIwLDE3ODU3MTgzNj
+AsLTE0Njc2MDE5MzcsLTIxMTA0NDk3MDgsLTEwNTE1NjYzMzJd
+fQ==
 -->
