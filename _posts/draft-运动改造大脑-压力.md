@@ -82,7 +82,7 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 > 对所有人来说，无论天性如何，无论其受过何种教育，当他们的沮丧之情得不到宣泄、失去控制感以及得不到社会支持时，他们就会显现出慢性压力导致的不良特征。从根本上说，如果丧失了希望，我们的大脑就不会停止应激反应。
  
- 希望，希望，希望，《流浪地球》说得好，
+ 希望，希望，希望，《流浪地球》说得好，“你听着亲爱的，我们必须抱有希望，这并不是因为希望真的存在，而是因为我们要做高贵的人。在前太阳时代，做一个高贵的人必须拥有金钱、权力或才能，而在今天只要拥有希望，希望是这个时代的黄金和宝石，不管活多长，我们都要拥有它！明天把这话告诉孩子。」
  
 > 慢性压力与一些最致命的疾病有关。 失控的应激反应可以把脂肪储存在上腹部。
 > 运动是付诸行动的典型例子——用身体来处理我们的情感，而不是用语言。最终，心理分析师的沙发不能解决我们的所有问题
@@ -108,8 +108,9 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzI1MTk4ODcsLTY2NjMxNTg4NSwtMT
-Y2NzkyMjMwNCwxMjU0NDIyNDE5LC0yMTIwMjgxNDQxLC0xODcw
-MDMzNzc0LC00NTE0MjcyMCwxNzg1NzE4MzYwLC0xNDY3NjAxOT
-M3LC0yMTEwNDQ5NzA4LC0xMDUxNTY2MzMyXX0=
+eyJoaXN0b3J5IjpbLTE2NjQxNzI1MDEsLTExMzI1MTk4ODcsLT
+Y2NjMxNTg4NSwtMTY2NzkyMjMwNCwxMjU0NDIyNDE5LC0yMTIw
+MjgxNDQxLC0xODcwMDMzNzc0LC00NTE0MjcyMCwxNzg1NzE4Mz
+YwLC0xNDY3NjAxOTM3LC0yMTEwNDQ5NzA4LC0xMDUxNTY2MzMy
+XX0=
 -->
