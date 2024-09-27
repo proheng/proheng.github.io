@@ -37,7 +37,7 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 与此同时，在应激反应过程中，身体释放出的皮质醇（**cortisol**）有助于促成记忆的形成。所以，一定的压力能让人产生记忆。因此，在适度的压力下学习，大脑能更容易记住学习内容。但是，如果身体长期处于压力的情绪到中，皮质醇过度释放，反而会抑制记忆，破坏神经元之间的连接。这也意思了，为什么慢性压力下的人很难学习性知识？为什么心情沮丧的人会出现学习困难？不仅仅是因为缺乏动力，而是神经元无法正常连接，也就是说是学不进去。
 
-另外，过量的皮质醇
+另外，皮质醇能抑制胰岛素受体工作，还有储存能量，把蛋白质转化成葡萄糖，并且开始chun bei
 
 我个人总结，要做到压力适度，不要把自己处在压力超出自己能够的环境下，学会把压力拆解，也不能让自己长期处在压力状态下啊。
 
@@ -60,7 +60,7 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTI2MDY2OCwtMjEyMDI4MTQ0MSwtMT
-g3MDAzMzc3NCwtNDUxNDI3MjAsMTc4NTcxODM2MCwtMTQ2NzYw
-MTkzNywtMjExMDQ0OTcwOCwtMTA1MTU2NjMzMl19
+eyJoaXN0b3J5IjpbLTIwMjE1ODI1ODEsLTIxMjAyODE0NDEsLT
+E4NzAwMzM3NzQsLTQ1MTQyNzIwLDE3ODU3MTgzNjAsLTE0Njc2
+MDE5MzcsLTIxMTA0NDk3MDgsLTEwNTE1NjYzMzJdfQ==
 -->
