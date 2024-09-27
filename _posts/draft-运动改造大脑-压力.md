@@ -78,7 +78,7 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
  
 > 运动可以增加全身的血流量以及可利用的葡萄糖，它们都是细胞生存的必需品。更多血液携带更多氧气，而细胞需要氧气把葡萄糖转换成三磷酸腺苷以维持生存。大脑把血液从前额叶皮质输送到中脑，那里是我们多次提到的海马和杏仁核的所在地。这种优先顺序模式或许可以用来解释为什么研究人员发现在剧烈运动期间，较高的认知功能会被削弱。
 
-运动可以削弱我们的认知能力，在打破
+运动可以削弱我们的认知能力，在打破慢性压力的坏循环中是起了积极作用，运动时候，我们对压力的认知或者压力给我们精神上的感觉被削弱了，也就是，我们感知不到太大压力了。不是好事吗？
 
 > 对所有人来说，无论天性如何，无论其受过何种教育，当他们的沮丧之情得不到宣泄、失去控制感以及得不到社会支持时，他们就会显现出慢性压力导致的不良特征。从根本上说，如果丧失了希望，我们的大脑就不会停止应激反应。
  
@@ -107,8 +107,8 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDkyMjgxMTQsLTY2NjMxNTg4NSwtMT
-Y2NzkyMjMwNCwxMjU0NDIyNDE5LC0yMTIwMjgxNDQxLC0xODcw
-MDMzNzc0LC00NTE0MjcyMCwxNzg1NzE4MzYwLC0xNDY3NjAxOT
-M3LC0yMTEwNDQ5NzA4LC0xMDUxNTY2MzMyXX0=
+eyJoaXN0b3J5IjpbLTExNDIxODg2OSwtNjY2MzE1ODg1LC0xNj
+Y3OTIyMzA0LDEyNTQ0MjI0MTksLTIxMjAyODE0NDEsLTE4NzAw
+MzM3NzQsLTQ1MTQyNzIwLDE3ODU3MTgzNjAsLTE0Njc2MDE5Mz
+csLTIxMTA0NDk3MDgsLTEwNTE1NjYzMzJdfQ==
 -->
