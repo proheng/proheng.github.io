@@ -22,7 +22,7 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 ## 压力没有好坏，只有必需
 
-提起”压力“两个字，我们普遍觉得都是负面的。 但作者提出，并没有标准可以划分什么是好的压力，什么是坏压力。一切都是chu jue yu
+提起”压力“两个字，我们普遍觉得都是负面的。 但作者提出，并没有标准可以划分什么是好的压力，什么是坏压力。一切都是由我们自主的态度所引起，如果我们从积极的角度看待压力，压力就是好的，相反亦然。而且，作者还说，
 
 
 ## 什么样的压力会有产生副作用
@@ -39,6 +39,6 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2MjY0MTk5LC0xNDY3NjAxOTM3LC0yMT
-EwNDQ5NzA4LC0xMDUxNTY2MzMyXX0=
+eyJoaXN0b3J5IjpbLTQ2OTczOTkxMywtMTQ2NzYwMTkzNywtMj
+ExMDQ0OTcwOCwtMTA1MTU2NjMzMl19
 -->
