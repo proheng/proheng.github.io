@@ -35,6 +35,8 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 当我们感受到压力的时候，身体有什么感受呢？是不是心跳会加速，思想变得警觉，呼吸也会加快呢？这些都是我们大脑在调度身体进行应激反应的过程。大脑会唤起身体一系列生理反应，务求转化出更多的糖分，通过血液输送到相对应的人体器官，提供充分的能量准备“战斗或逃跑”。一切都是为了生存的需要。
 
+与此同时，在应激反应过程中，身体释放出的皮质醇（**cortisol**）有助于促成记忆的形成。
+
 我个人总结，要做到压力适度，不要把自己处在压力超出自己能够的环境下，学会把压力拆解，也不能让自己长期处在压力状态下啊。
 
 ### 压力也是人类成长的推动力
@@ -56,7 +58,7 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjAyODE0NDEsLTE4NzAwMzM3NzQsLT
-Q1MTQyNzIwLDE3ODU3MTgzNjAsLTE0Njc2MDE5MzcsLTIxMTA0
-NDk3MDgsLTEwNTE1NjYzMzJdfQ==
+eyJoaXN0b3J5IjpbMjcyNjU4NzIzLC0yMTIwMjgxNDQxLC0xOD
+cwMDMzNzc0LC00NTE0MjcyMCwxNzg1NzE4MzYwLC0xNDY3NjAx
+OTM3LC0yMTEwNDQ5NzA4LC0xMDUxNTY2MzMyXX0=
 -->
