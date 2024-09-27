@@ -39,7 +39,7 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 ### 现在的文明的问题
 
-作者专门用了yi je s
+作者专门用了一节书说明现在文明社会（我觉得是都市生活）的压力问题。我觉得也是
 
 
 
@@ -58,8 +58,8 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 我个人总结是，我们要做到压力适度，不要把自己处在压力超出自己能够的环境下，学会把压力拆解，也不能让自己长期处在压力状态下啊。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0MjU5Njg4LDEyNTQ0MjI0MTksLTIxMj
-AyODE0NDEsLTE4NzAwMzM3NzQsLTQ1MTQyNzIwLDE3ODU3MTgz
-NjAsLTE0Njc2MDE5MzcsLTIxMTA0NDk3MDgsLTEwNTE1NjYzMz
-JdfQ==
+eyJoaXN0b3J5IjpbMTQ4MjIzNzQ4OCwxMjU0NDIyNDE5LC0yMT
+IwMjgxNDQxLC0xODcwMDMzNzc0LC00NTE0MjcyMCwxNzg1NzE4
+MzYwLC0xNDY3NjAxOTM3LC0yMTEwNDQ5NzA4LC0xMDUxNTY2Mz
+MyXX0=
 -->
