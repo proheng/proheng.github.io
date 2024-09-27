@@ -88,7 +88,7 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 > 运动是付诸行动的典型例子——用身体来处理我们的情感，而不是用语言。最终，心理分析师的沙发不能解决我们的所有问题
 > 在35项研究中，有23项证实，不运动的女性罹患乳腺癌的风险增加了；经常运动的人患结肠癌的风险降低了50%；65岁以上经常运动的男性患晚期致命性前列腺癌的风险降低了70%
 
-运动
+
 
 # 个人感受和思考
 
@@ -109,9 +109,9 @@ title:  二读《运动改造大脑》- 《01 学习 越动越多的脑细胞》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjg4MDE5LC0xMTMyNTE5ODg3LC02Nj
-YzMTU4ODUsLTE2Njc5MjIzMDQsMTI1NDQyMjQxOSwtMjEyMDI4
-MTQ0MSwtMTg3MDAzMzc3NCwtNDUxNDI3MjAsMTc4NTcxODM2MC
-wtMTQ2NzYwMTkzNywtMjExMDQ0OTcwOCwtMTA1MTU2NjMzMl19
-
+eyJoaXN0b3J5IjpbLTcyNjQyOTE2MywtMTEzMjUxOTg4NywtNj
+Y2MzE1ODg1LC0xNjY3OTIyMzA0LDEyNTQ0MjI0MTksLTIxMjAy
+ODE0NDEsLTE4NzAwMzM3NzQsLTQ1MTQyNzIwLDE3ODU3MTgzNj
+AsLTE0Njc2MDE5MzcsLTIxMTA0NDk3MDgsLTEwNTE1NjYzMzJd
+fQ==
 -->
