@@ -46,7 +46,7 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 普遍认为，身体是生物体，心理是思想，两者之间没有太大关系。到目前为止，大多数权威医疗机构都忽略或者否定，运动（锻炼身体）对治疗广泛焦虑症的正面作用。
 
-但是，心理学些
+但是，心脏病学家特别注意到焦虑是心脏疾病的危险因素，随后证实了，体育锻炼可以使焦虑症状的发生率减少50%以上。这个证据支持体育锻炼是减轻慢性焦虑的一种方法。
 
 ## 跑赢恐惧
 
@@ -73,8 +73,8 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMjEyMDc4OCwtMjA4NTg5NjE5LC0zNT
-MyNTQ1MjUsMTc3NTM2ODIxLDEwNjc1MTM4ODQsNzM4MDc2NjA4
-LDE3NTY5MDUyODMsLTExNDc5ODI0NzMsMTg3OTY1MDE2MSw3MD
-k5MzgxMl19
+eyJoaXN0b3J5IjpbLTEwNjE5OTc0ODIsLTIwODU4OTYxOSwtMz
+UzMjU0NTI1LDE3NzUzNjgyMSwxMDY3NTEzODg0LDczODA3NjYw
+OCwxNzU2OTA1MjgzLC0xMTQ3OTgyNDczLDE4Nzk2NTAxNjEsNz
+A5OTM4MTJdfQ==
 -->
