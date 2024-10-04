@@ -21,7 +21,12 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 ## 焦虑和恐惧
 
-作为精神科教授，作者着重谈的是病态上的研究，jiao lu
+作为精神科教授，作者着重谈的是病态上的研究，广泛性焦虑症和恐惧症。
+
+**广泛性焦虑症(generalized anxiety disorder)**主要临床表现是持续性担忧，其特征是过分和不切实际的担忧，表现出一系列躯体和心境症状。
+大多数时候，患有恐惧症（包括特定恐惧症）的人表面上看似很轻松，但会突发具有严重后果的恐惧感和生理性疼痛，而这种疼痛有可能被误诊为心脏病发作。
+
+
 
 ## 身体真的可以影响心理
 
@@ -50,7 +55,7 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxNjQ2NjUwLDE3NzUzNjgyMSwxMDY3NT
-EzODg0LDczODA3NjYwOCwxNzU2OTA1MjgzLC0xMTQ3OTgyNDcz
-LDE4Nzk2NTAxNjEsNzA5OTM4MTJdfQ==
+eyJoaXN0b3J5IjpbMTU2NDMwOTgzNSwxNzc1MzY4MjEsMTA2Nz
+UxMzg4NCw3MzgwNzY2MDgsMTc1NjkwNTI4MywtMTE0Nzk4MjQ3
+MywxODc5NjUwMTYxLDcwOTkzODEyXX0=
 -->
