@@ -37,6 +37,7 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 如果恐惧是永恒的，消除焦虑的答案就存在于被称为“恐惧消退”(fear extinction)的神经机制内。尽管我们无法抹去原始的恐惧记忆，但我们实际上可以通过建立一个新的记忆并不断强化它，来覆盖掉恐惧记忆。一般的非药物疗法就是我们常听到的“认知行为疗法”(cognitive behavioral therapy，CBT)，用中性或有益的记忆替代大脑中的恐惧记忆。也是我们大众普遍了解的，和心理医生谈心。心理医生帮助我们重新连接正确的认知解读，把触发器与典型的反应断开，也就是说，看到蜘蛛与感到恐怖及心率加快之间的联系被减弱了。科学家称之为重新归因(reattribution)。
 
+当然，
   
 
 运动能够辅助大脑建立并且强化新的记忆神经回路
@@ -69,8 +70,8 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjMwODQ1ODAsLTIwODU4OTYxOSwtMz
-UzMjU0NTI1LDE3NzUzNjgyMSwxMDY3NTEzODg0LDczODA3NjYw
-OCwxNzU2OTA1MjgzLC0xMTQ3OTgyNDczLDE4Nzk2NTAxNjEsNz
-A5OTM4MTJdfQ==
+eyJoaXN0b3J5IjpbLTk2MzQyNTcyMywtMjA4NTg5NjE5LC0zNT
+MyNTQ1MjUsMTc3NTM2ODIxLDEwNjc1MTM4ODQsNzM4MDc2NjA4
+LDE3NTY5MDUyODMsLTExNDc5ODI0NzMsMTg3OTY1MDE2MSw3MD
+k5MzgxMl19
 -->
