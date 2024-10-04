@@ -12,7 +12,7 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 ## 艾米的故事
 
-艾米，在她的离婚官司上，邀请力
+艾米，在她的离婚官司上，邀请了作者作为证人加入她的律师团，为她的精神状态作证。艾米是一个害羞和焦虑的女人，对每件事都you xing chong
 
 ## 焦虑和恐惧
 
@@ -43,6 +43,6 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTU3NzI1NzAsMTc1NjkwNTI4MywtMT
-E0Nzk4MjQ3MywxODc5NjUwMTYxLDcwOTkzODEyXX0=
+eyJoaXN0b3J5IjpbMTQyNTAxNjAyMiwxNzU2OTA1MjgzLC0xMT
+Q3OTgyNDczLDE4Nzk2NTAxNjEsNzA5OTM4MTJdfQ==
 -->
