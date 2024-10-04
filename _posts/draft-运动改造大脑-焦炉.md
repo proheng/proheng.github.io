@@ -29,7 +29,7 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 故事的主人公，艾米是广泛性焦虑症合并轻微恐惧症（包括社交恐惧症）的典型病例。
 
-当然，我们大多数正常人并没有到患上这个两个病症的地步，但是焦虑的情绪和kong ju
+当然，我们大多数正常人并没有到患上这个两个病症的地步，但是焦虑的情绪和恐惧的情绪是会时常发生在脑海里的。如果判断zi ji
 
 
 
@@ -60,7 +60,7 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0OTA2MiwxNzc1MzY4MjEsMTA2NzUxMz
-g4NCw3MzgwNzY2MDgsMTc1NjkwNTI4MywtMTE0Nzk4MjQ3Mywx
-ODc5NjUwMTYxLDcwOTkzODEyXX0=
+eyJoaXN0b3J5IjpbLTYwOTk1MDcwNCwxNzc1MzY4MjEsMTA2Nz
+UxMzg4NCw3MzgwNzY2MDgsMTc1NjkwNTI4MywtMTE0Nzk4MjQ3
+MywxODc5NjUwMTYxLDcwOTkzODEyXX0=
 -->
