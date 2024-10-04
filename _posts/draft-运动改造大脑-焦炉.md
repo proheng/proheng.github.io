@@ -12,6 +12,7 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 ## 艾米的故事
 
+艾米是作者的患者，
 
 ## 焦虑和恐惧
 
@@ -42,6 +43,6 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NjkwNTI4MywtMTE0Nzk4MjQ3MywxOD
-c5NjUwMTYxLDcwOTkzODEyXX0=
+eyJoaXN0b3J5IjpbLTE4NzQ4MzgzNjAsMTc1NjkwNTI4MywtMT
+E0Nzk4MjQ3MywxODc5NjUwMTYxLDcwOTkzODEyXX0=
 -->
