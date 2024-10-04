@@ -42,8 +42,11 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 重点是，运动，它能够辅助大脑建立并且强化新的记忆神经回路，帮助断开或弱化原有的记忆回路。
 
 
-
 ## 身体真的可以影响心理
+
+普遍认为，身体是生物体，心理是思想，两者之间没有太大关系。到目前为止，大多数权威医疗机构都忽略或者否定，运动（锻炼身体）对治疗广泛焦虑症的正面作用。
+
+但是，心理学些
 
 ## 跑赢恐惧
 
@@ -70,7 +73,7 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjE0NDY3NywtMjA4NTg5NjE5LC0zNT
+eyJoaXN0b3J5IjpbLTMyMjEyMDc4OCwtMjA4NTg5NjE5LC0zNT
 MyNTQ1MjUsMTc3NTM2ODIxLDEwNjc1MTM4ODQsNzM4MDc2NjA4
 LDE3NTY5MDUyODMsLTExNDc5ODI0NzMsMTg3OTY1MDE2MSw3MD
 k5MzgxMl19
