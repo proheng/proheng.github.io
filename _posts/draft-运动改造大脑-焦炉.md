@@ -61,7 +61,7 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 ## 艾米的故事后续
 
-艾米在接受作者9个月的zhi liao
+艾米在接受作者9个月的治疗期间，逐步用运动代替了药物。她发现，运动能帮助她镇静下来，
 
 
 
@@ -102,7 +102,7 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDAwNjUxMCwtMTQ1MDM4Njg3MywtMj
+eyJoaXN0b3J5IjpbMTUzNzIwNDIzOSwtMTQ1MDM4Njg3MywtMj
 A4NTg5NjE5LC0zNTMyNTQ1MjUsMTc3NTM2ODIxLDEwNjc1MTM4
 ODQsNzM4MDc2NjA4LDE3NTY5MDUyODMsLTExNDc5ODI0NzMsMT
 g3OTY1MDE2MSw3MDk5MzgxMl19
