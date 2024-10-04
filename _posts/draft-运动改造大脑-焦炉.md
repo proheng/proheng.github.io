@@ -24,9 +24,9 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 作为精神科教授，作者着重谈的是病态上的研究，广泛性焦虑症和恐惧症。
 
 **广泛性焦虑症(generalized anxiety disorder)**主要临床表现是持续性担忧，其特征是过分和不切实际的担忧，表现出一系列躯体和心境症状。
-大多数时候，患有恐惧症（包括特定恐惧症）的人表面上看似很轻松，但会突发具有严重后果的恐惧感和生理性疼痛，而这种疼痛有可能被误诊为心脏病发作。
 
-**恐惧症(Phobia)**是焦虑症的一种具体表现类型，恐惧症与其他类型的焦虑症的主要区别在于恐惧症有明确的触发对象或情境。（[焦虑症与恐惧症的区别](https://chatgpt.com/share/66ff8e46-b210-800c-a9de-a6f9b8878e75){:target="_blank"}）
+
+**恐惧症(Phobia)**是焦虑症的一种具体表现类型，恐惧症与其他类型的焦虑症的主要区别在于恐惧症有明确的触发对象或情境。（[焦虑症与恐惧症的区别](https://chatgpt.com/share/66ff8e46-b210-800c-a9de-a6f9b8878e75){:target="_blank"}）大多数时候，患有恐惧症（包括特定恐惧症）的人表面上看似很轻松，但会突发具有严重后果的恐惧感和生理性疼痛，而这种疼痛有可能被误诊为心脏病发作。
 
 
 
@@ -59,7 +59,7 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDU2NDE4MCwxNzc1MzY4MjEsMTA2Nz
-UxMzg4NCw3MzgwNzY2MDgsMTc1NjkwNTI4MywtMTE0Nzk4MjQ3
-MywxODc5NjUwMTYxLDcwOTkzODEyXX0=
+eyJoaXN0b3J5IjpbODc1ODc1MTkyLDE3NzUzNjgyMSwxMDY3NT
+EzODg0LDczODA3NjYwOCwxNzU2OTA1MjgzLC0xMTQ3OTgyNDcz
+LDE4Nzk2NTAxNjEsNzA5OTM4MTJdfQ==
 -->
