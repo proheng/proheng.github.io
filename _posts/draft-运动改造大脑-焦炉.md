@@ -16,6 +16,8 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 艾米是一个害羞和焦虑的女人，对每件事都忧心忡忡。由于富有的丈夫对她越来越没有兴趣，责骂越累越厉害，离婚是她不希望的，但是看起来是不可避免。这样导致她一直处于被动和逃避的状态，她的种种表现都现实她想可能在官司上败诉，有可能失去孩子的监护权，另外，法庭怀疑她可能有精神问题，因此她的必须在法定监护人监控下才能探视孩子。这无疑是让她的处境更加被动和糟糕。
 
+在法庭上，作者为艾米作证，对话如下，确实值得我们深思。
+
 ## 焦虑和恐惧
 
 ## 身体真的可以影响心理
@@ -45,7 +47,7 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTM2ODIxLDEwNjc1MTM4ODQsNzM4MD
-c2NjA4LDE3NTY5MDUyODMsLTExNDc5ODI0NzMsMTg3OTY1MDE2
-MSw3MDk5MzgxMl19
+eyJoaXN0b3J5IjpbLTg4MDIwNzQ3MywxNzc1MzY4MjEsMTA2Nz
+UxMzg4NCw3MzgwNzY2MDgsMTc1NjkwNTI4MywtMTE0Nzk4MjQ3
+MywxODc5NjUwMTYxLDcwOTkzODEyXX0=
 -->
