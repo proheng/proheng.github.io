@@ -70,7 +70,10 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 # 摘抄
 
+> 大多数时候，患有恐惧症（包括特定恐惧症）的人表面上看似很轻松，但会突发具有严重后果的恐惧感和生理性疼痛，而这种疼痛有可能被误诊为心脏病发作。
 
+
+ 
 > 这对儿童来说尤为重要，因为有焦虑症的儿童比他们的同龄人更有可能在今后出现抑郁症。有一项长期研究，对**700**名儿童进行跟踪随访，直到其成年。那些童年有过焦虑症的人，成年后大多数再也没有发生过焦虑症，但那些成年后患有某种情绪障碍的人，有**2/3**在青春期前就有焦虑症了。更糟的是，尽管焦虑症是相对容易治疗的疾病，但在儿童中往往被漏诊。感到焦虑的孩子正安静地坐在教室后排，这太可怕了。没有人发觉有什么不对劲，因为这些孩子的表现都很好。但与此同时，焦虑正在他们的大脑中形成一种消极思考的模式，而且这种模式逐渐根深蒂固，最终让孩子们在未来陷入麻烦中。
 
 儿童在认识这个世界的时候，很可能出现偏差，或者由于某些成年人看起来无关紧要的事物，而引起过度反应，导致错误的记忆回路产生了。在日不一日的刺激和滚雪球下，焦虑症和恐惧症就这样形成了。当然，这是我个人非常不专业的解释，但是小孩子的心理发展，我们是不能忽略的。不应该用成年人的思想去理解小孩子。
@@ -102,9 +105,11 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwNzc2NDI4LC0xNDUwMzg2ODczLC0yMD
-g1ODk2MTksLTM1MzI1NDUyNSwxNzc1MzY4MjEsMTA2NzUxMzg4
-NCw3MzgwNzY2MDgsMTc1NjkwNTI4MywtMTE0Nzk4MjQ3MywxOD
-c5NjUwMTYxLDcwOTkzODEyXX0=
+eyJoaXN0b3J5IjpbLTIwODYwNzg2NTQsLTE0NTAzODY4NzMsLT
+IwODU4OTYxOSwtMzUzMjU0NTI1LDE3NzUzNjgyMSwxMDY3NTEz
+ODg0LDczODA3NjYwOCwxNzU2OTA1MjgzLC0xMTQ3OTgyNDczLD
+E4Nzk2NTAxNjEsNzA5OTM4MTJdfQ==
 -->
