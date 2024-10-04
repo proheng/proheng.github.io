@@ -61,9 +61,11 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 ## 艾米的故事后续
 
-艾米在接受作者9个月的治疗期间，逐步用运动代替了药物。她发现，运动能帮助她镇静下来，更好得思考，审视观察自我。因为，能够更有效地了解自己的内心和行为，她逐步找到了控制
+艾米在接受作者9个月的治疗期间，逐步用运动代替了药物。她发现，运动能帮助她镇静下来，更好得思考，审视观察自我。因为，能够更有效地了解自己的内心和行为，她逐步找到了控制情绪，驾驭起伏的办法。渐渐地她也认识到，
 
+> 离婚就像一场地震，几乎把她的生活夷为平地，但运动巩固了她的地基；她知道未来还会有余震，不过她感到自己有足够的力量来面对它们。
 
+在我看来，外界的环境没有变好，但是她内心变得qing
 
 
 # 摘抄
@@ -102,8 +104,8 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjA4NTA3NjYsLTE0NTAzODY4NzMsLT
-IwODU4OTYxOSwtMzUzMjU0NTI1LDE3NzUzNjgyMSwxMDY3NTEz
-ODg0LDczODA3NjYwOCwxNzU2OTA1MjgzLC0xMTQ3OTgyNDczLD
-E4Nzk2NTAxNjEsNzA5OTM4MTJdfQ==
+eyJoaXN0b3J5IjpbLTM2MjgxNzE2OSwtMTQ1MDM4Njg3MywtMj
+A4NTg5NjE5LC0zNTMyNTQ1MjUsMTc3NTM2ODIxLDEwNjc1MTM4
+ODQsNzM4MDc2NjA4LDE3NTY5MDUyODMsLTExNDc5ODI0NzMsMT
+g3OTY1MDE2MSw3MDk5MzgxMl19
 -->
