@@ -35,7 +35,15 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 焦虑症如此难以治疗的原因是，与生存有关的记忆超过了实际存在的记忆。比如，你每晚下班回家时总是会经过一所房子，有一天晚上，一条狗从房子里冲出来袭击了你。从那时起，你就会绕开那所房子而选择其他道路，因为和你每次安全经过那所房子的记忆相比，与袭击有关的记忆太深刻了。哪怕你已经有所防备，哪怕你是地球上逻辑思维最强的人，经过那所房子时，你还是会有点儿提心吊胆。一旦恐惧的记忆被建立，这个特别的回路就会永驻在大脑中。换言之，恐惧是永久性的。
 
+如果恐惧是永恒的，消除焦虑的答案就存在于被称为“恐惧消退”(fear extinction)的神经机制内。尽管我们无法抹去原始的恐惧记忆，但我们实际上可以通过建立一个新的记忆并不断强化它，来覆盖掉恐惧记忆。一般的非药物疗法就是我们常听到的“认知行为疗法”(cognitive behavioral therapy，CBT)，用中性或有益的记忆替代大脑中的恐惧记忆。有的人
 
+  
+
+通过连接正确的认知解读，把触发器与典型的反应断开，也就是说，看到蜘蛛与感到恐怖及心率加快之间的联系被减弱了。科学家称之为重新归因(reattribution)。
+
+  
+
+运动能够辅助大脑建立并且强化新的记忆神经回路
 
 
 ## 身体真的可以影响心理
@@ -65,8 +73,8 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4MDczMjM3LC0yMDg1ODk2MTksLTM1Mz
-I1NDUyNSwxNzc1MzY4MjEsMTA2NzUxMzg4NCw3MzgwNzY2MDgs
-MTc1NjkwNTI4MywtMTE0Nzk4MjQ3MywxODc5NjUwMTYxLDcwOT
-kzODEyXX0=
+eyJoaXN0b3J5IjpbLTE3ODU0NjMyODUsLTIwODU4OTYxOSwtMz
+UzMjU0NTI1LDE3NzUzNjgyMSwxMDY3NTEzODg0LDczODA3NjYw
+OCwxNzU2OTA1MjgzLC0xMTQ3OTgyNDczLDE4Nzk2NTAxNjEsNz
+A5OTM4MTJdfQ==
 -->
