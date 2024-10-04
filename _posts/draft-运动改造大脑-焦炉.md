@@ -64,6 +64,17 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 儿童在认识这个世界的时候，很可能出现偏差，或者由于某些成年人看起来无关紧要的事物，而引起过度反应，导致错误的记忆回路产生了。在日不一日的刺激和滚雪球下，焦虑症和恐惧症就这样形成了。当然，这是我个人非常不专业的解释，但是小孩子的心理发展，我们是不能忽略的。不应该用成年人的思想去理解小孩子。
 
+> 运动是我们应对每天生活中各种焦虑的简易方法，它对身体和大脑都十分有效。
+> 
+> 1. 分散注意力。
+> 2. 缓解肌肉紧张。
+> 3. 增加大脑资源
+> 4. 提供不同的结果
+> 5. 变更神经回路
+> 6. 提高恢复能力
+> 7. 让你自由
+
+运动不仅仅是锻炼身体，而且是锻炼大脑的活力。
 
 
 
@@ -81,8 +92,8 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjAzNjc2LC0xNDUwMzg2ODczLC0yMD
-g1ODk2MTksLTM1MzI1NDUyNSwxNzc1MzY4MjEsMTA2NzUxMzg4
-NCw3MzgwNzY2MDgsMTc1NjkwNTI4MywtMTE0Nzk4MjQ3MywxOD
-c5NjUwMTYxLDcwOTkzODEyXX0=
+eyJoaXN0b3J5IjpbMTQwODcyMjU5OCwtMTQ1MDM4Njg3MywtMj
+A4NTg5NjE5LC0zNTMyNTQ1MjUsMTc3NTM2ODIxLDEwNjc1MTM4
+ODQsNzM4MDc2NjA4LDE3NTY5MDUyODMsLTExNDc5ODI0NzMsMT
+g3OTY1MDE2MSw3MDk5MzgxMl19
 -->
