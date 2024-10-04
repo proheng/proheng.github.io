@@ -32,7 +32,7 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 当然，我们大多数正常人并没有到患上这个两个病症的地步，但是焦虑的情绪和恐惧的情绪是会时常发生在脑海里的。如果判断而且区分自己到底是暂时的情绪反应还是临床症状，我个人不是医生，但是，个人认为，两个方面可以做出基本判定，**1 时间的持续性**，**2 身体上的反应**。个人认为，从时间持续性来说，不良的情绪不会一直困扰着一个人，以至于让一个人不理智地逃避生活，被动地反应，失去行动力和目标感，还有对生活的掌控力。我们可能为人生的一些大决定大事件而焦虑，但是负面的情绪不会持续不断，总会有雨过天晴的时候。从身体上的反应来说，焦虑和恐惧的情绪可能会在短时间内让我们不安，心跳加速，寝食难安。但是不会导致我们因为自己有心脏病，而要去看医生。
 
 
-关于焦虑症和恐惧症的形成有基因和性别的
+关于焦虑症和恐惧症的形成，一定程度和基因和性别有关，研究发现某些人天生比较敏感，容易产生焦虑或恐惧情绪，根据书里说，FD
 
 ## 身体真的可以影响心理
 
@@ -61,8 +61,8 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY3MTE0OSwtMjA4NTg5NjE5LC0zNT
-MyNTQ1MjUsMTc3NTM2ODIxLDEwNjc1MTM4ODQsNzM4MDc2NjA4
-LDE3NTY5MDUyODMsLTExNDc5ODI0NzMsMTg3OTY1MDE2MSw3MD
-k5MzgxMl19
+eyJoaXN0b3J5IjpbLTc1NjYzMDQsLTIwODU4OTYxOSwtMzUzMj
+U0NTI1LDE3NzUzNjgyMSwxMDY3NTEzODg0LDczODA3NjYwOCwx
+NzU2OTA1MjgzLC0xMTQ3OTgyNDczLDE4Nzk2NTAxNjEsNzA5OT
+M4MTJdfQ==
 -->
