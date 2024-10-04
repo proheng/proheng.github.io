@@ -15,6 +15,8 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 ## 焦虑和恐惧
 
+## 身体真的可以影响心理
+
 ## 
 
 
@@ -38,6 +40,6 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDc5ODI0NzMsMTg3OTY1MDE2MSw3MD
-k5MzgxMl19
+eyJoaXN0b3J5IjpbMzA4ODEzOTIzLC0xMTQ3OTgyNDczLDE4Nz
+k2NTAxNjEsNzA5OTM4MTJdfQ==
 -->
