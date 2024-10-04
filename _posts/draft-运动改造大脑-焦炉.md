@@ -50,8 +50,9 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 但是，心脏病学家特别注意到焦虑是心脏疾病的危险因素，随后证实了，体育锻炼可以使焦虑症状的发生率减少50%以上。这个证据支持体育锻炼是减轻慢性焦虑的一种方法。就在近十年里，科学家逐渐认识到，一种来自心脏的分子是如何牵动着我们的情绪。心脏专家发现运动后释放出的心钠素，能有效起了镇静作用，从而降低焦虑感。“心钠素或许是心脏与焦虑行为之间的生理连接”
 
 
+## 运动代替药物
 
-## 跑赢恐惧
+运动虽然不能完全药物，但是有实验研究证明，运动说带来的
 
 ## 艾米的故事后续
 
@@ -92,8 +93,8 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODcyMjU5OCwtMTQ1MDM4Njg3MywtMj
-A4NTg5NjE5LC0zNTMyNTQ1MjUsMTc3NTM2ODIxLDEwNjc1MTM4
-ODQsNzM4MDc2NjA4LDE3NTY5MDUyODMsLTExNDc5ODI0NzMsMT
-g3OTY1MDE2MSw3MDk5MzgxMl19
+eyJoaXN0b3J5IjpbMjg3MDcyNTUsLTE0NTAzODY4NzMsLTIwOD
+U4OTYxOSwtMzUzMjU0NTI1LDE3NzUzNjgyMSwxMDY3NTEzODg0
+LDczODA3NjYwOCwxNzU2OTA1MjgzLC0xMTQ3OTgyNDczLDE4Nz
+k2NTAxNjEsNzA5OTM4MTJdfQ==
 -->
