@@ -34,7 +34,7 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 关于焦虑症和恐惧症的形成，一定程度是与基因和性别有关，研究发现某些人天生比较敏感，容易产生焦虑或恐惧情绪，另外，根据书里说，女性患焦虑和抑郁的风险是男性的两倍。当然，所有人都会有风险从焦虑或恐惧情绪发展成为相关的心理病症。主要是因为大脑认知上出现问题，认为某些事情或状况会威胁到生存，这些事情不知不觉间进入了记忆中，因此，记忆不断不断给杏仁核强化，严重到，前额叶皮质也失去对杏仁核的控制，无法只会其安定下来。整个人进入“战斗或逃跑”（**Fight-or-flight**）的应激状态，焦虑感像被滚雪球一样，不断增加。
 
-焦虑症如此难以治疗的原因是，与生存有关的记忆超过了实际存在的记忆。
+焦虑症如此难以治疗的原因是，与生存有关的记忆超过了实际存在的记忆。比如，你每晚下班回家时总是会经过一所房子，有一天晚上，一条狗从房子里冲出来袭击了你。从那时起，你就会绕开那所房子而选择其他道路，因为和你每次安全经过那所房子的记忆相比，与袭击有关的记忆太深刻了。哪怕你已经有所防备，哪怕你是地球上逻辑思维最强的人，经过那所房子时，你还是会有点儿提心吊胆。一旦恐惧的记忆被建立，这个特别的回路就会永驻在大脑中。换言之，恐惧是永久性的。
 
 ## 身体真的可以影响心理
 
@@ -63,8 +63,8 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMTY3OTIwNiwtMjA4NTg5NjE5LC0zNT
-MyNTQ1MjUsMTc3NTM2ODIxLDEwNjc1MTM4ODQsNzM4MDc2NjA4
-LDE3NTY5MDUyODMsLTExNDc5ODI0NzMsMTg3OTY1MDE2MSw3MD
-k5MzgxMl19
+eyJoaXN0b3J5IjpbMTQxMDc4MDAxLC0yMDg1ODk2MTksLTM1Mz
+I1NDUyNSwxNzc1MzY4MjEsMTA2NzUxMzg4NCw3MzgwNzY2MDgs
+MTc1NjkwNTI4MywtMTE0Nzk4MjQ3MywxODc5NjUwMTYxLDcwOT
+kzODEyXX0=
 -->
