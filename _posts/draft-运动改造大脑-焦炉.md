@@ -65,7 +65,7 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 > 离婚就像一场地震，几乎把她的生活夷为平地，但运动巩固了她的地基；她知道未来还会有余震，不过她感到自己有足够的力量来面对它们。
 
-在我看来，外界的环境没有变好，但是她内心变得qing
+在我看来，外界的环境没有变好，但是通过运动，她的内心变得强大了，情绪又了把控，重新掌握了自己生活，变得自信和乐观。思想geng
 
 
 # 摘抄
@@ -104,7 +104,7 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjgxNzE2OSwtMTQ1MDM4Njg3MywtMj
+eyJoaXN0b3J5IjpbLTMxMDQyNTkyNCwtMTQ1MDM4Njg3MywtMj
 A4NTg5NjE5LC0zNTMyNTQ1MjUsMTc3NTM2ODIxLDEwNjc1MTM4
 ODQsNzM4MDc2NjA4LDE3NTY5MDUyODMsLTExNDc5ODI0NzMsMT
 g3OTY1MDE2MSw3MDk5MzgxMl19
