@@ -121,7 +121,9 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 # 个人感受和思考
 
 
-焦虑和kong
+焦虑和恐惧情绪是偶然的，不需要过多紧张，但是，我们需要防微杜渐，及早做出干预，避免成为病症。
+最好的干预方法就是有规律的，中强度的有氧运动。
+当然，认知行为的疏导也很重要的
 
 
 
@@ -140,5 +142,5 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjkwMzIyMzYsMTQ4NDAwMjQ2OF19
+eyJoaXN0b3J5IjpbMTIxNDAwNzk1OCwxNDg0MDAyNDY4XX0=
 -->
