@@ -21,7 +21,7 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 ## 焦虑和恐惧
 
-作为精神科教授，作者zhu
+作为精神科教授，作者着重谈的是病态上的研究，
 
 ## 身体真的可以影响心理
 
@@ -50,7 +50,7 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjM1MjgxOSwxNzc1MzY4MjEsMTA2Nz
+eyJoaXN0b3J5IjpbMTY5NDY0MTc5MCwxNzc1MzY4MjEsMTA2Nz
 UxMzg4NCw3MzgwNzY2MDgsMTc1NjkwNTI4MywtMTE0Nzk4MjQ3
 MywxODc5NjUwMTYxLDcwOTkzODEyXX0=
 -->
