@@ -52,8 +52,18 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 ## 运动代替药物
 
-运动虽然不能完全药物，但是有实验研究证明，运动说带来的
+运动虽然不能完全药物，但是有实验研究能证明，运动可以比药物做得更好，而且没有药物的副作用。1997年，首项针对运动与药物对临床恐惧症的疗效的随机、安慰剂和对照组的比较研究开始了。德国精神病学家安德里亚斯·布鲁克斯(Andreas Brooks)主持了一项为期10周的实验。他把46名轻度恐惧症患者分成三组：有规律运动组、每天一片氯丙咪嗪（丙咪嗪的近亲）组以及每天一片安慰剂组。
+  
 
+**第**10**周结束时，在各方面测试中，氯丙咪嗪组和运动组停留在相同的改善水平上。两组的被试都有了好转。**
+
+  
+
+**丙咪嗪会带来口干、盗汗、眩晕、震颤、勃起功能障碍及恶心等明显副作用**
+
+  
+
+6**个月的后续随访中，运动组的患者最健康，而且他们的焦虑得分最低**
 ## 艾米的故事后续
 
 
@@ -93,8 +103,8 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3MDcyNTUsLTE0NTAzODY4NzMsLTIwOD
-U4OTYxOSwtMzUzMjU0NTI1LDE3NzUzNjgyMSwxMDY3NTEzODg0
-LDczODA3NjYwOCwxNzU2OTA1MjgzLC0xMTQ3OTgyNDczLDE4Nz
-k2NTAxNjEsNzA5OTM4MTJdfQ==
+eyJoaXN0b3J5IjpbMTg5NjkwMTY3MiwtMTQ1MDM4Njg3MywtMj
+A4NTg5NjE5LC0zNTMyNTQ1MjUsMTc3NTM2ODIxLDEwNjc1MTM4
+ODQsNzM4MDc2NjA4LDE3NTY5MDUyODMsLTExNDc5ODI0NzMsMT
+g3OTY1MDE2MSw3MDk5MzgxMl19
 -->
