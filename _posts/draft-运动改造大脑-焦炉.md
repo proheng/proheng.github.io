@@ -56,6 +56,7 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 第10周结束时，在各方面测试中，氯丙咪嗪组和运动组停留在相同的改善水平上。两组的被试都有了好转。但是，药物，丙咪嗪会带来口干、盗汗、眩晕、震颤、勃起功能障碍及恶心等明显副作用。6个月的后续随访中，运动组的患者最健康，而且他们的焦虑得分最低。**这不仅给广泛焦虑症患者带来了相当大的益处，对正常人也是如此。所有人在每天的生活中都会遇到令人恐惧和焦虑的事情，运动时一个很好的缓解方案。**
 
+有证据表明，只有**剧烈运动**才能降低其对焦虑的生理觉醒的敏感度。
 
 ## 艾米的故事后续
 
@@ -96,8 +97,8 @@ title:  二读《运动改造大脑》- 《02 压力 最艰巨的挑战》
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0MTUxNzcyLC0xNDUwMzg2ODczLC0yMD
-g1ODk2MTksLTM1MzI1NDUyNSwxNzc1MzY4MjEsMTA2NzUxMzg4
-NCw3MzgwNzY2MDgsMTc1NjkwNTI4MywtMTE0Nzk4MjQ3MywxOD
-c5NjUwMTYxLDcwOTkzODEyXX0=
+eyJoaXN0b3J5IjpbLTYyOTQ4MzA5NywtMTQ1MDM4Njg3MywtMj
+A4NTg5NjE5LC0zNTMyNTQ1MjUsMTc3NTM2ODIxLDEwNjc1MTM4
+ODQsNzM4MDc2NjA4LDE3NTY5MDUyODMsLTExNDc5ODI0NzMsMT
+g3OTY1MDE2MSw3MDk5MzgxMl19
 -->
