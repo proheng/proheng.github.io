@@ -6,13 +6,14 @@ title:  二读《运动改造大脑》- 《06 成瘾 拿回自己的主动权》
 # 内容概述
 
 提到成瘾，我们的父辈一般会联想到烟瘾，酒瘾，毒瘾等等。不少人很自信的说，我没有这些问题。然而，我们现在不得不重新给“成瘾”更广泛的定义。因为，现在社会出现越来越多“欲罢不能”的行为，购物狂，工作狂，过度嗜吃，电子游戏上瘾，社交媒体上瘾等等。所以，对于层出不穷的诱惑，我们最好还是不要过度自信。
-
+现在，科学家们对上瘾行为在生物学角度上也有了更清晰的认识。简单来说，上瘾行为共同的特征是jiang li xi tong
 # 摘抄
 
 
 # 个人感受和思考
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2Nzg3OTY2LC0yMDUxOTc2MTk1LC0zND
-E1MDU5NywyMDAxMTE1MDM1LDY5ODkwMjYwNl19
+eyJoaXN0b3J5IjpbOTUxNTMxNTk2LDE4Njc4Nzk2NiwtMjA1MT
+k3NjE5NSwtMzQxNTA1OTcsMjAwMTExNTAzNSw2OTg5MDI2MDZd
+fQ==
 -->
