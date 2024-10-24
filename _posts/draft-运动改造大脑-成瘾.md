@@ -15,7 +15,8 @@ title:  二读《运动改造大脑》- 《06 成瘾 拿回自己的主动权》
 
 ## 成瘾行为如何产生
 
-
+阅读关于大脑工作机理的部分时候，由于我对大脑的认识不足，往往yi zhi ban x要解释清楚
+[伏核体与奖励机制](https://chatgpt.com/share/67199096-a158-800c-a6a0-e0dcbef66ee9){:target="_blank"}
 
 ## 戒掉成瘾行为
 
@@ -27,7 +28,7 @@ title:  二读《运动改造大脑》- 《06 成瘾 拿回自己的主动权》
 # 个人感受和思考
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3MDQyMTM5LC03MDM4NTc0MjcsMTg2Nz
-g3OTY2LC0yMDUxOTc2MTk1LC0zNDE1MDU5NywyMDAxMTE1MDM1
-LDY5ODkwMjYwNl19
+eyJoaXN0b3J5IjpbNjcyMzAyNTEwLDYyNzA0MjEzOSwtNzAzOD
+U3NDI3LDE4Njc4Nzk2NiwtMjA1MTk3NjE5NSwtMzQxNTA1OTcs
+MjAwMTExNTAzNSw2OTg5MDI2MDZdfQ==
 -->
