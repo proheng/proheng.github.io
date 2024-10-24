@@ -21,7 +21,10 @@ title:  二读《运动改造大脑》- 《06 成瘾 拿回自己的主动权》
 
 这里我们需要先了解4个大脑区域，他们是[前额叶皮质，杏仁核，海马体，伏核体](https://chatgpt.com/share/671992e1-5ac0-800c-b5fc-f6585de85bf0){:target="_blank"}。简单总结，前额叶皮质是思考，杏仁核是处理情绪，尤其是负面情绪，海马体是记忆，伏核体是奖励反馈。记住这四个区域，我们可以先看看成瘾如何产生。
 
+这里我简单画了两个流程图，
 ![4个大脑区域通过奖励机制共同作用，对某个外界刺激产生上瘾](/assets/运动改造大脑-上瘾行为.png）
+
+
 
 ## 戒瘾会发生什么事
 
@@ -39,7 +42,8 @@ title:  二读《运动改造大脑》- 《06 成瘾 拿回自己的主动权》
 # 个人感受和思考
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0Mjk0NDM4OCwtMjQ2NDc5MDU1LDYyNz
-A0MjEzOSwtNzAzODU3NDI3LDE4Njc4Nzk2NiwtMjA1MTk3NjE5
-NSwtMzQxNTA1OTcsMjAwMTExNTAzNSw2OTg5MDI2MDZdfQ==
+eyJoaXN0b3J5IjpbOTIyNjU2NzQzLDE5NDI5NDQzODgsLTI0Nj
+Q3OTA1NSw2MjcwNDIxMzksLTcwMzg1NzQyNywxODY3ODc5NjYs
+LTIwNTE5NzYxOTUsLTM0MTUwNTk3LDIwMDExMTUwMzUsNjk4OT
+AyNjA2XX0=
 -->
