@@ -30,7 +30,9 @@ title:  二读《运动改造大脑》- 《06 成瘾 拿回自己的主动权》
 
 ## 戒瘾会发生什么事
 
-那么，如果对外界刺激的需求得不到满足，我们的大脑会发生什么事呢？也就是，如果我们把上瘾行为突然戒掉，会怎么样呢？
+那么，如果对外界刺激的需求得不到满足，我们的大脑会发生什么事呢？也就是，如果我们粗暴地把上瘾行为突然戒掉，会怎么样呢？
+
+
  
 2. 
 [伏核体与奖励机制](https://chatgpt.com/share/67199096-a158-800c-a6a0-e0dcbef66ee9){:target="_blank"}
@@ -45,8 +47,8 @@ title:  二读《运动改造大脑》- 《06 成瘾 拿回自己的主动权》
 # 个人感受和思考
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjUyMDI3MCwxOTQyOTQ0Mzg4LC0yND
-Y0NzkwNTUsNjI3MDQyMTM5LC03MDM4NTc0MjcsMTg2Nzg3OTY2
-LC0yMDUxOTc2MTk1LC0zNDE1MDU5NywyMDAxMTE1MDM1LDY5OD
-kwMjYwNl19
+eyJoaXN0b3J5IjpbMjYxNTY4MDczLDE5NDI5NDQzODgsLTI0Nj
+Q3OTA1NSw2MjcwNDIxMzksLTcwMzg1NzQyNywxODY3ODc5NjYs
+LTIwNTE5NzYxOTUsLTM0MTUwNTk3LDIwMDExMTUwMzUsNjk4OT
+AyNjA2XX0=
 -->
