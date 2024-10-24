@@ -23,7 +23,7 @@ title:  二读《运动改造大脑》- 《06 成瘾 拿回自己的主动权》
 
 这里我简单画了两个流程图，
 - 第一幅图描述了，当我们第一次遇到有有可能上瘾的外界刺激时候，我们大脑区域怎样协同把这个外界的刺激和奖励联系了起来，并且记住这次的体验，把他理解成为对自己（大脑）的奖赏。
-- 第二幅图描述了，当我们无聊空虚或者感觉闷闷不乐的时候，我们大脑会寻找记忆中的乐子（就是能产生奖励的记忆体验），结果，上次的外界刺激被读取出来，我们大脑就会指挥我们去寻求上次的刺激体验，当体验再一次得到满足，大脑就会再一次在记忆里加强这部分的记忆。在不断的重复下，这部分记忆和神经回路越来越强，以致我们无法自拔。
+- 第二幅图描述了，当我们无聊空虚或者感觉闷闷不乐的时候，我们大脑会寻找记忆中的乐子（就是能产生奖励的记忆体验），结果，上次的外界刺激被读取出来，我们大脑就会指挥我们去寻求上次的刺激体验，当体验再一次得到满足，大脑就会再一次在记忆里加强这部分的记忆。这过程也可以算是上瘾发作。在不断的重复下，这部分记忆和神经回路越来越强，以致我们无法自拔。
 
 ![4个大脑区域通过奖励机制共同作用，对某个外界刺激产生上瘾](/assets/运动改造大脑-上瘾行为.png）
 
@@ -47,8 +47,8 @@ title:  二读《运动改造大脑》- 《06 成瘾 拿回自己的主动权》
 # 个人感受和思考
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxNTY4MDczLDE5NDI5NDQzODgsLTI0Nj
-Q3OTA1NSw2MjcwNDIxMzksLTcwMzg1NzQyNywxODY3ODc5NjYs
-LTIwNTE5NzYxOTUsLTM0MTUwNTk3LDIwMDExMTUwMzUsNjk4OT
-AyNjA2XX0=
+eyJoaXN0b3J5IjpbLTgwMzA0OTMzOCwyNjE1NjgwNzMsMTk0Mj
+k0NDM4OCwtMjQ2NDc5MDU1LDYyNzA0MjEzOSwtNzAzODU3NDI3
+LDE4Njc4Nzk2NiwtMjA1MTk3NjE5NSwtMzQxNTA1OTcsMjAwMT
+ExNTAzNSw2OTg5MDI2MDZdfQ==
 -->
