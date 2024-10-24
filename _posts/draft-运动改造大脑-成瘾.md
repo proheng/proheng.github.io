@@ -19,7 +19,11 @@ title:  二读《运动改造大脑》- 《06 成瘾 拿回自己的主动权》
 
 首先，列举一些大脑的区域，不同区域负责不同功能，他们协同工作执行奖励机制。同样，奖励机制的失控和这些区域的协同关系息息相关。
 
-1. 前额叶皮质 
+这里我们需要先了解4个大脑区域，他们是[前额叶皮质，杏仁核，海马体，伏核体](https://chatgpt.com/share/671992e1-5ac0-800c-b5fc-f6585de85bf0){:target="_blank"}。简单总结，前额叶皮质是思考的fu wei
+
+
+ 
+2. 
 [伏核体与奖励机制](https://chatgpt.com/share/67199096-a158-800c-a6a0-e0dcbef66ee9){:target="_blank"}
 
 ## 戒掉成瘾行为
@@ -32,7 +36,7 @@ title:  二读《运动改造大脑》- 《06 成瘾 拿回自己的主动权》
 # 个人感受和思考
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQyMjMzODMsNjI3MDQyMTM5LC03MD
-M4NTc0MjcsMTg2Nzg3OTY2LC0yMDUxOTc2MTk1LC0zNDE1MDU5
-NywyMDAxMTE1MDM1LDY5ODkwMjYwNl19
+eyJoaXN0b3J5IjpbLTM5MzIyNjU5Miw2MjcwNDIxMzksLTcwMz
+g1NzQyNywxODY3ODc5NjYsLTIwNTE5NzYxOTUsLTM0MTUwNTk3
+LDIwMDExMTUwMzUsNjk4OTAyNjA2XX0=
 -->
