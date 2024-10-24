@@ -17,8 +17,9 @@ title:  二读《运动改造大脑》- 《06 成瘾 拿回自己的主动权》
 
 在阅读关于大脑工作机理的内容时，由于我对大脑的认识不足，往往一知半解。但是，关于成瘾问题，我花了一些精力，尝试简单地解释给大家，而且不犯一些基本的常识性的错误。因为，成瘾问题，我们每个人都有可能不经意地沾染上。以下的内容能帮助大家提升对成瘾的认识。
 
-首先，列举一些大脑的区域，不同区域负责不同功能，他们协同工作执行jiang
-要解释清楚
+首先，列举一些大脑的区域，不同区域负责不同功能，他们协同工作执行奖励机制。同样，奖励机制的失控和这些区域的协同关系息息相关。
+
+1. 前额叶皮质 
 [伏核体与奖励机制](https://chatgpt.com/share/67199096-a158-800c-a6a0-e0dcbef66ee9){:target="_blank"}
 
 ## 戒掉成瘾行为
@@ -31,7 +32,7 @@ title:  二读《运动改造大脑》- 《06 成瘾 拿回自己的主动权》
 # 个人感受和思考
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjI1NjA1MCw2MjcwNDIxMzksLTcwMz
-g1NzQyNywxODY3ODc5NjYsLTIwNTE5NzYxOTUsLTM0MTUwNTk3
-LDIwMDExMTUwMzUsNjk4OTAyNjA2XX0=
+eyJoaXN0b3J5IjpbLTExOTQyMjMzODMsNjI3MDQyMTM5LC03MD
+M4NTc0MjcsMTg2Nzg3OTY2LC0yMDUxOTc2MTk1LC0zNDE1MDU5
+NywyMDAxMTE1MDM1LDY5ODkwMjYwNl19
 -->
