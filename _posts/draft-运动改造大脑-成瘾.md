@@ -15,7 +15,8 @@ title:  二读《运动改造大脑》- 《06 成瘾 拿回自己的主动权》
 
 ## 成瘾行为如何产生
 
-在阅读关于大脑工作机理的内容时，由于我对大脑的认识不足，往往一知半解。但是，我希望能简单地解释给大家，er qi
+在阅读关于大脑工作机理的内容时，由于我对大脑的认识不足，往往一知半解。但是，关于成瘾问题，我花了一些精力，尝试简单地解释给大家，而且不犯一些基本的常识性的错误。因为，成瘾问题，我们每个人dou you k
+
 
 要解释清楚
 [伏核体与奖励机制](https://chatgpt.com/share/67199096-a158-800c-a6a0-e0dcbef66ee9){:target="_blank"}
@@ -30,7 +31,7 @@ title:  二读《运动改造大脑》- 《06 成瘾 拿回自己的主动权》
 # 个人感受和思考
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDMwMDY0NCw2MjcwNDIxMzksLTcwMz
-g1NzQyNywxODY3ODc5NjYsLTIwNTE5NzYxOTUsLTM0MTUwNTk3
-LDIwMDExMTUwMzUsNjk4OTAyNjA2XX0=
+eyJoaXN0b3J5IjpbLTE2ODc0OTE2NzMsNjI3MDQyMTM5LC03MD
+M4NTc0MjcsMTg2Nzg3OTY2LC0yMDUxOTc2MTk1LC0zNDE1MDU5
+NywyMDAxMTE1MDM1LDY5ODkwMjYwNl19
 -->
