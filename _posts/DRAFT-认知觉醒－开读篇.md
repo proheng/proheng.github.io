@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  二读《运动改造大脑》
+title:  《人之觉醒》－开读篇
 ---
 
 # 为什么要读这本书
+# 这本书说了什么
+# 阅读计划
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjM1MzA1OV19
+eyJoaXN0b3J5IjpbLTU5MjA4Mjc4Nl19
 -->
