@@ -60,7 +60,7 @@ title:  《认知觉醒》－开读篇
  
 - 《心态－学习的视角》“他数学好，你语文好，我心态好”。这一定程度上不是自嘲，有好心态的加持护航，你的学习会更持久，你也能坚韧合理地面对挫败。这也是正面学习的秘诀。
 
-- 《环境－学习的助推》心理，心态主内，环境则主外。没有人否认图书馆比菜市场更适合写出一篇好论文。除了实体环境，这一章还提到精神层面的环境，就是打造顶级的朋友圈。当然这不是社交媒体里的互相关注，而是通过阅读好书，从作者那里提升自己的精神环境。
+- 《环境－学习的助推》心理和心态主**内**，环境则主**外**。没有人否认，在图书馆比在菜市场更适合写出一篇好论文。除了实体环境，这一章还提到精神层面的环境，就是打造顶级的朋友圈。当然这不是社交媒体里的互相关注，而是通过阅读好书，来链接顶级大师们的思想，提升自己的精神环境。
 
 
 # 阅读计划
@@ -73,10 +73,10 @@ title:  《认知觉醒》－开读篇
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1MjcyOTE0LC0yMzYzMTEyMjMsLTE4NT
-cyNDYxNDEsLTE3MjcyMjQzNDIsLTQ3MTUzMDE4LC0xMTQ2MjA3
-NzM3LC02MzE5MzAzOTEsLTE1NDI5Mzg5MTMsLTE5MzY3NTIyMz
-ksLTk5MDQzNTA1MSwtMTA1NTk1NDYwOCwtMjAwNzQwNDc0Mywt
-MTE5NzIwMjg4MywtNjIxNzI5ODY1LDIwNzUzMDQzNjAsLTEzNz
-E4MzYyMl19
+eyJoaXN0b3J5IjpbLTExNTA2NTc1MzIsLTIzNjMxMTIyMywtMT
+g1NzI0NjE0MSwtMTcyNzIyNDM0MiwtNDcxNTMwMTgsLTExNDYy
+MDc3MzcsLTYzMTkzMDM5MSwtMTU0MjkzODkxMywtMTkzNjc1Mj
+IzOSwtOTkwNDM1MDUxLC0xMDU1OTU0NjA4LC0yMDA3NDA0NzQz
+LC0xMTk3MjAyODgzLC02MjE3Mjk4NjUsMjA3NTMwNDM2MCwtMT
+M3MTgzNjIyXX0=
 -->
