@@ -53,7 +53,7 @@ title:  《认知觉醒》－开读篇
 
 心法部分在更为广阔和深层的维度提出建议，包括心理，心态，环境。
 
-- 《心理－学习动力》帮助我们
+- 《心理－学习动力》帮助我们找到学习的意义，我们做任何事都动力都离不开意义。
 - 《心态－学习的视角》
 - 《环境－学习的助推》
 
@@ -70,9 +70,9 @@ title:  《认知觉醒》－开读篇
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3NTk5MjI5LC00NzE1MzAxOCwtMTE0Nj
-IwNzczNywtNjMxOTMwMzkxLC0xNTQyOTM4OTEzLC0xOTM2NzUy
-MjM5LC05OTA0MzUwNTEsLTEwNTU5NTQ2MDgsLTIwMDc0MDQ3ND
-MsLTExOTcyMDI4ODMsLTYyMTcyOTg2NSwyMDc1MzA0MzYwLC0x
-MzcxODM2MjJdfQ==
+eyJoaXN0b3J5IjpbLTE3MjcyMjQzNDIsLTQ3MTUzMDE4LC0xMT
+Q2MjA3NzM3LC02MzE5MzAzOTEsLTE1NDI5Mzg5MTMsLTE5MzY3
+NTIyMzksLTk5MDQzNTA1MSwtMTA1NTk1NDYwOCwtMjAwNzQwND
+c0MywtMTE5NzIwMjg4MywtNjIxNzI5ODY1LDIwNzUzMDQzNjAs
+LTEzNzE4MzYyMl19
 -->
