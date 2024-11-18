@@ -65,7 +65,7 @@ title:  《认知觉醒》－开读篇
 
 # 阅读计划
 
-在接下来的每一个星期，我会每一章的阅读内容。
+在接下来的每一个星期，我会分享一章的阅读内容。让大家通过我的分享，既可以快速了解这个完整的方法论体系，也可以获得更多我个人对
 
 
 
@@ -75,10 +75,10 @@ title:  《认知觉醒》－开读篇
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODg5MDIyNSwtMjM2MzExMjIzLC0xOD
-U3MjQ2MTQxLC0xNzI3MjI0MzQyLC00NzE1MzAxOCwtMTE0NjIw
-NzczNywtNjMxOTMwMzkxLC0xNTQyOTM4OTEzLC0xOTM2NzUyMj
-M5LC05OTA0MzUwNTEsLTEwNTU5NTQ2MDgsLTIwMDc0MDQ3NDMs
-LTExOTcyMDI4ODMsLTYyMTcyOTg2NSwyMDc1MzA0MzYwLC0xMz
-cxODM2MjJdfQ==
+eyJoaXN0b3J5IjpbLTEwODUzMDU1MjEsLTIzNjMxMTIyMywtMT
+g1NzI0NjE0MSwtMTcyNzIyNDM0MiwtNDcxNTMwMTgsLTExNDYy
+MDc3MzcsLTYzMTkzMDM5MSwtMTU0MjkzODkxMywtMTkzNjc1Mj
+IzOSwtOTkwNDM1MDUxLC0xMDU1OTU0NjA4LC0yMDA3NDA0NzQz
+LC0xMTk3MjAyODgzLC02MjE3Mjk4NjUsMjA3NTMwNDM2MCwtMT
+M3MTgzNjIyXX0=
 -->
