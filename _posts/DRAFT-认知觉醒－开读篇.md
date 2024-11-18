@@ -67,16 +67,16 @@ title:  《认知觉醒》－开读篇
 
 在接下来的每一个星期，我会按顺序分享一章书的阅读内容。让大家通过我的分享，既可以快速地了解这个完整的方法论体系，也可以获得我运用这个体系的心得和更多的外部知识链接。
 
-值得注意的是：如果你是父母，在阅读这本书的过程中，你确实会获得不少新知。一方面心想，我如果读书的时候如果能知道这些就好了，另一方面心想，还不迟，我可以让我孩子知道。我在阅读过程中不断克制自己的第二种想法。努力不直接灌输这些新知识给我孩子，也不会用书中的建议去“鸡”我的娃。
+值得注意的是：如果你是父母，在阅读这本书的过程中，你确实会获得不少新知。一方面心想，我如果读书的时候能知道这些就好了，另一方面心想，还不迟，我可以让我孩子知道。但是，我在阅读的过程中，需要不断克制自己的第二种想法。努力地不直接灌输这些新知识给我孩子，也不以书中的建议去“鸡”我的娃。
 
-听起来很矛盾，既然学到为什么不用。其实，我一定会用，但是，我只会用在我自己身上。原因其一，学习是主动行为，而非被动行为。这本书无时无刻强调这一点，而且以这一点作为基本前提。其二，从学习这套方法论，到为己所用，必须经历**领悟习得**这个阶段，需要的时间因人而异，收获也不尽相同。我期待在我个人习得的过程中，潜移默化地告知我的孩子，带领他们一起进步，而不是教条主义地再一次推送式教育。
+听起来很矛盾，既然学到了，为什么不用。其实，我一定会用，但是，我只会用在我自己身上，shi。原因其一，学习是主动行为，而非被动行为。这本书无时无刻强调这一点，而且以这一点作为基本前提。其二，从学习这套方法论，到为己所用，必须经历**领悟习得**这个阶段，需要的时间因人而异，收获也不尽相同。我期待在我个人习得的过程中，潜移默化地告知我的孩子，带领他们一起进步，而不是教条主义地再一次推送式教育。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNDc3NzE0OSwtMjM2MzExMjIzLC0xOD
-U3MjQ2MTQxLC0xNzI3MjI0MzQyLC00NzE1MzAxOCwtMTE0NjIw
-NzczNywtNjMxOTMwMzkxLC0xNTQyOTM4OTEzLC0xOTM2NzUyMj
-M5LC05OTA0MzUwNTEsLTEwNTU5NTQ2MDgsLTIwMDc0MDQ3NDMs
-LTExOTcyMDI4ODMsLTYyMTcyOTg2NSwyMDc1MzA0MzYwLC0xMz
-cxODM2MjJdfQ==
+eyJoaXN0b3J5IjpbLTE5MjU2NTI5MTYsLTIzNjMxMTIyMywtMT
+g1NzI0NjE0MSwtMTcyNzIyNDM0MiwtNDcxNTMwMTgsLTExNDYy
+MDc3MzcsLTYzMTkzMDM5MSwtMTU0MjkzODkxMywtMTkzNjc1Mj
+IzOSwtOTkwNDM1MDUxLC0xMDU1OTU0NjA4LC0yMDA3NDA0NzQz
+LC0xMTk3MjAyODgzLC02MjE3Mjk4NjUsMjA3NTMwNDM2MCwtMT
+M3MTgzNjIyXX0=
 -->
