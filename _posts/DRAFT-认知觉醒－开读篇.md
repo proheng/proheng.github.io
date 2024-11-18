@@ -40,10 +40,10 @@ title:  《认知觉醒》－开读篇
 # 阅读计划
 
 
-值得注意的是：如果是阅读这本书的时候，
+值得注意的是：如果是父母，在阅读这本书的过程中，
 不成为我“鸡娃”的根据，因为，学习是主动行为，而非被动行为。因此学习到这套方法论，为个人所用，从**知道**，经过**领悟**，最后到达**做到**。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyMjAxOTY2LC0xMDU1OTU0NjA4LC0yMD
-A3NDA0NzQzLC0xMTk3MjAyODgzLC02MjE3Mjk4NjUsMjA3NTMw
-NDM2MCwtMTM3MTgzNjIyXX0=
+eyJoaXN0b3J5IjpbLTk5MDQzNTA1MSwtMTA1NTk1NDYwOCwtMj
+AwNzQwNDc0MywtMTE5NzIwMjg4MywtNjIxNzI5ODY1LDIwNzUz
+MDQzNjAsLTEzNzE4MzYyMl19
 -->
