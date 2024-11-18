@@ -26,7 +26,7 @@ title:  《认知觉醒》－开读篇
 
 > 从脑科学、认知科学、心理学、行学科学、社会学等领域的知识出发，把底层的学习规律和心理规律描述出来，让你了解学习背后的奥秘，从而提升你学习的内动力、专注力、自控力，提高情绪的积极性、稳定性和开放性。
 
-当然，这本书也承认，正为学霸是
+当然，这本书也承认，正为学霸是可遇不可求的是，但是，正如
 
 
 # 这本书说了什么
@@ -48,8 +48,8 @@ title:  《认知觉醒》－开读篇
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5Mjc4NDA2LC0xOTM2NzUyMjM5LC05OT
-A0MzUwNTEsLTEwNTU5NTQ2MDgsLTIwMDc0MDQ3NDMsLTExOTcy
-MDI4ODMsLTYyMTcyOTg2NSwyMDc1MzA0MzYwLC0xMzcxODM2Mj
-JdfQ==
+eyJoaXN0b3J5IjpbLTE1NDI5Mzg5MTMsLTE5MzY3NTIyMzksLT
+k5MDQzNTA1MSwtMTA1NTk1NDYwOCwtMjAwNzQwNDc0MywtMTE5
+NzIwMjg4MywtNjIxNzI5ODY1LDIwNzUzMDQzNjAsLTEzNzE4Mz
+YyMl19
 -->
