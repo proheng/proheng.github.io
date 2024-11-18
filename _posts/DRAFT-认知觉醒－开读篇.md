@@ -33,7 +33,7 @@ title:  《认知觉醒》－开读篇
 
 “伴随一生的学习方法论”，如本书的副标题所示，这个方法论不仅仅适用于在校生，也适用我们每一位好学的小伙伴，大叔大婶，老大爷大妈。更重要的是，他让你重新找回学习的动力和兴趣。
 
-本书不仅从方法方面提出科学的建议（**学习技法**），更重要的是，还帮助读者获得积极的，更为广阔和持久的提升。（**学习心法**）。诚然，我们从小收到的学习建议都十分片面和零碎，不能成为一体的系统。这本书之所以能获得微信读书“神作”的评价，也
+本书不仅从方法方面提出科学的建议（**学习技法**），更重要的是，还帮助读者获得积极的，更为广阔和持久的提升。（**学习心法**）。诚然，我们从小收到的学习建议都十分片面和零碎，不能成为一体的系统。这本书的书名超越了一般的学习层面，以更高的认知层面来《认知觉醒》之所以能获得微信读书“神作”的评价
 
 ![思维导图](/assets/%E8%84%91%E5%9B%BE%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92.PNG)
 
@@ -50,7 +50,7 @@ title:  《认知觉醒》－开读篇
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQ3NDM1MTQsLTExNDYyMDc3MzcsLT
+eyJoaXN0b3J5IjpbLTE2ODM1NDA2MDcsLTExNDYyMDc3MzcsLT
 YzMTkzMDM5MSwtMTU0MjkzODkxMywtMTkzNjc1MjIzOSwtOTkw
 NDM1MDUxLC0xMDU1OTU0NjA4LC0yMDA3NDA0NzQzLC0xMTk3Mj
 AyODgzLC02MjE3Mjk4NjUsMjA3NTMwNDM2MCwtMTM3MTgzNjIy
