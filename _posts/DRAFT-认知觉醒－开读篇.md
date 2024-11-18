@@ -26,13 +26,13 @@ title:  《认知觉醒》－开读篇
 
 > 从脑科学、认知科学、心理学、行学科学、社会学等领域的知识出发，把底层的学习规律和心理规律描述出来，让你了解学习背后的奥秘，从而提升你学习的内动力、专注力、自控力，提高情绪的积极性、稳定性和开放性。
 
-当然，这本书也承认，成为学霸是一件可遇不可求的事。但是，不用气馁，这本书的方法论能让你能够运用更为科学的方法，怀着正面积极的态度来求学。我个人认为，人本好学，充满好奇心，但长期的被动学习，失衡的压力，还偏离的学习观，早早就压死了我们好奇心。与其成为一个学习机器或者百科全书，我更希望成为一个有思想的人，对知识孜孜不倦，能感悟着知识带个自己的提升和力量，甚至还可以帮助到身边的人。
+当然，这本书也承认，成为学霸是一件可遇不可求的事。但是，不用气馁，这本书的方法论能让你能够运用更为科学的方法，怀着正面积极的态度来求学。我个人认为，人本好学，充满好奇心，但长期的被动学习，失衡的压力，和偏离的学习观，早早地压死了我们好奇心。与其成为一个学习机器或者百科全书，我更希望成为一个有思想的人，对知识孜孜不倦，能感悟着知识带个自己的提升和力量，甚至还可以帮助到身边的人。
 
 
 # 这本书说了什么
 
 
-诚然，我们从小收到的学习建议都十分片面和零碎，不能成为一体的系统。本书不仅从方法方面提出科学的建议（**学习技法**），更重要的是，还帮助读者获得积极的，更为广阔和持久的提升。（**学习心法**）。
+诚然，我们从小收到的学习建议都十分片面和零碎，不能成为一体的系统。本书不仅从方法方面提出科学的建议（**《学习技法》**），更重要的是，还帮助读者获得积极的，更为广阔和zheng she的提升。（**《学习心法》**）。
 
 “伴随一生的学习方法论”，如本书的副标题所示，这个方法论不仅仅适用于在校生，也适用我们每一位好学的小伙伴，大叔大婶，老大爷大妈。更重要的是，他让你重新找回学习的动力和兴趣。
 
@@ -73,10 +73,10 @@ title:  《认知觉醒》－开读篇
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwMjQ1NTYsLTIzNjMxMTIyMywtMTg1Nz
-I0NjE0MSwtMTcyNzIyNDM0MiwtNDcxNTMwMTgsLTExNDYyMDc3
-MzcsLTYzMTkzMDM5MSwtMTU0MjkzODkxMywtMTkzNjc1MjIzOS
-wtOTkwNDM1MDUxLC0xMDU1OTU0NjA4LC0yMDA3NDA0NzQzLC0x
-MTk3MjAyODgzLC02MjE3Mjk4NjUsMjA3NTMwNDM2MCwtMTM3MT
-gzNjIyXX0=
+eyJoaXN0b3J5IjpbLTQ1NDA3ODk2MSwtMjM2MzExMjIzLC0xOD
+U3MjQ2MTQxLC0xNzI3MjI0MzQyLC00NzE1MzAxOCwtMTE0NjIw
+NzczNywtNjMxOTMwMzkxLC0xNTQyOTM4OTEzLC0xOTM2NzUyMj
+M5LC05OTA0MzUwNTEsLTEwNTU5NTQ2MDgsLTIwMDc0MDQ3NDMs
+LTExOTcyMDI4ODMsLTYyMTcyOTg2NSwyMDc1MzA0MzYwLC0xMz
+cxODM2MjJdfQ==
 -->
