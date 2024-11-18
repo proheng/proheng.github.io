@@ -42,8 +42,9 @@ title:  《认知觉醒》－开读篇
 左板块是“技法”，又板块是“心法”。
 
 ## 技法
+在提出科学建议前，作者用尽可能简单易懂的语言介绍我们大脑的结构和工作特点（《大脑－学习的基石》）。基于对
 
-## 
+## 心法
 
 
 # 阅读计划
@@ -58,9 +59,9 @@ title:  《认知觉醒》－开读篇
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzk1MzY4LC0xMTQ2MjA3NzM3LC02Mz
-E5MzAzOTEsLTE1NDI5Mzg5MTMsLTE5MzY3NTIyMzksLTk5MDQz
-NTA1MSwtMTA1NTk1NDYwOCwtMjAwNzQwNDc0MywtMTE5NzIwMj
-g4MywtNjIxNzI5ODY1LDIwNzUzMDQzNjAsLTEzNzE4MzYyMl19
-
+eyJoaXN0b3J5IjpbLTE2NzU0MDk4MTEsLTExNDYyMDc3MzcsLT
+YzMTkzMDM5MSwtMTU0MjkzODkxMywtMTkzNjc1MjIzOSwtOTkw
+NDM1MDUxLC0xMDU1OTU0NjA4LC0yMDA3NDA0NzQzLC0xMTk3Mj
+AyODgzLC02MjE3Mjk4NjUsMjA3NTMwNDM2MCwtMTM3MTgzNjIy
+XX0=
 -->
