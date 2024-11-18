@@ -44,11 +44,11 @@ title:  《认知觉醒》－开读篇
 
 在提出科学建议前，作者用简单易懂的语言介绍我们大脑的结构和工作特点（《大脑－学习的基石》）。基于对大脑的认识，我们就更好地理解下面四个核心问题：清晰，专注，反馈和匹配。
 
-- 《清晰－学习的窍门》让我们看出学习的真正意义就是把不懂的搞懂，拨开迷雾见青天。因此，清晰是主导求学始末都目标，除了学习的内容要清晰，我们的情绪处理，行动规划和执行都力求清晰可控。成者，事半功倍。
+- 《清晰－学习的窍门》让我们看出学习的真正意义就是把不懂的搞懂，拨开迷雾见青天。因此，清晰是主导求学始末都思想状态，除了学习的内容要清晰，我们的情绪处理，行动规划和执行都力求清晰可控。成者，事半功倍。
 
-- 《专注－学习的核心》专注是一个过程，如果做到符合大脑科学的专注和高效。这部分内容不容错过。尤其对贪玩的人来说。
+- 《专注－学习的核心》专注是一个过程，如何做到符合大脑科学的专注和高效？这部分内容不容错过，尤其对贪玩的人来说。
 
-- 《反馈－学习方法》每一次反馈都是一次进步的机会，我们从每次反馈中获益能决定我们进步的速度。大脑对反馈也是有一套被证实的科学理论。
+- 《反馈－学习方法》每一次反馈都是一次进步的机会，我们从每一次反馈中的获益能决定我们进步的速度。大脑对反馈也是有一套被证实的科学理论。
 
 - 《匹配－学习规律》欲速则不达，在这个讲求速度效率的时代，从个人学习方面，我们讲求的是配速，而不是高速。长跑的人都知道，找到自己的最佳配速，才能跑得远跑出自己的最佳状态。求学亦如此。
 
@@ -73,10 +73,10 @@ title:  《认知觉醒》－开读篇
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NzU0NTMxMiwtMjM2MzExMjIzLC0xOD
-U3MjQ2MTQxLC0xNzI3MjI0MzQyLC00NzE1MzAxOCwtMTE0NjIw
-NzczNywtNjMxOTMwMzkxLC0xNTQyOTM4OTEzLC0xOTM2NzUyMj
-M5LC05OTA0MzUwNTEsLTEwNTU5NTQ2MDgsLTIwMDc0MDQ3NDMs
-LTExOTcyMDI4ODMsLTYyMTcyOTg2NSwyMDc1MzA0MzYwLC0xMz
-cxODM2MjJdfQ==
+eyJoaXN0b3J5IjpbLTE5MzIzMDk2NTYsLTIzNjMxMTIyMywtMT
+g1NzI0NjE0MSwtMTcyNzIyNDM0MiwtNDcxNTMwMTgsLTExNDYy
+MDc3MzcsLTYzMTkzMDM5MSwtMTU0MjkzODkxMywtMTkzNjc1Mj
+IzOSwtOTkwNDM1MDUxLC0xMDU1OTU0NjA4LC0yMDA3NDA0NzQz
+LC0xMTk3MjAyODgzLC02MjE3Mjk4NjUsMjA3NTMwNDM2MCwtMT
+M3MTgzNjIyXX0=
 -->
