@@ -34,16 +34,18 @@ title:  《认知觉醒》－开读篇
 
 # 这本书说了什么
 
+
+
 ![思维导图](/assets/%E8%84%91%E5%9B%BE%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92.PNG)
 
 
 # 阅读计划
 
 
-值得注意的是：如果是父母，在阅读这本书的过程中，
+值得注意的是：如果是父母，在阅读这本书的过程中，你确实会获得不少新知，一方面心想，我如果读书的时候如果能知道这些就好了，另一方面心想，还不迟，我可以让我
 不成为我“鸡娃”的根据，因为，学习是主动行为，而非被动行为。因此学习到这套方法论，为个人所用，从**知道**，经过**领悟**，最后到达**做到**。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDQzNTA1MSwtMTA1NTk1NDYwOCwtMj
-AwNzQwNDc0MywtMTE5NzIwMjg4MywtNjIxNzI5ODY1LDIwNzUz
-MDQzNjAsLTEzNzE4MzYyMl19
+eyJoaXN0b3J5IjpbLTE0ODQ3Njk2OTksLTk5MDQzNTA1MSwtMT
+A1NTk1NDYwOCwtMjAwNzQwNDc0MywtMTE5NzIwMjg4MywtNjIx
+NzI5ODY1LDIwNzUzMDQzNjAsLTEzNzE4MzYyMl19
 -->
