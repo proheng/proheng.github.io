@@ -31,10 +31,9 @@ title:  《认知觉醒》－开读篇
 
 # 这本书说了什么
 
+“伴随一生的学习方法论”，如本书的副标题所示，这个方法论不仅仅适用于在校生，也适用于我们每一位好学的小伙伴，大叔大婶，大爷大妈。更重要的是，他让你重新找回学习的动力和兴趣。
 
-诚然，我们从小收到的学习建议都十分片面和零碎，不能成为一体的系统。本书不仅从方法方面提出科学的建议（**《学习技法》**），更重要的是，还帮助读者获得积极的，更为广阔和zheng she的提升。（**《学习心法》**）。
-
-“伴随一生的学习方法论”，如本书的副标题所示，这个方法论不仅仅适用于在校生，也适用我们每一位好学的小伙伴，大叔大婶，老大爷大妈。更重要的是，他让你重新找回学习的动力和兴趣。
+诚然，我们从小收到的学习建议都十分片面和零碎，不能成为一体的系统。本书不仅从方法方面提出科学的建议（**《学习技法》**），更重要的是，还帮助读者获得积极的，更为广阔和终身的提升。（**《学习心法》**）。
 
 以下是我按照书里的章节划分所建立的思维导图。
 ![思维导图](/assets/%E8%84%91%E5%9B%BE%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92.PNG)
@@ -73,10 +72,10 @@ title:  《认知觉醒》－开读篇
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDA3ODk2MSwtMjM2MzExMjIzLC0xOD
-U3MjQ2MTQxLC0xNzI3MjI0MzQyLC00NzE1MzAxOCwtMTE0NjIw
-NzczNywtNjMxOTMwMzkxLC0xNTQyOTM4OTEzLC0xOTM2NzUyMj
-M5LC05OTA0MzUwNTEsLTEwNTU5NTQ2MDgsLTIwMDc0MDQ3NDMs
-LTExOTcyMDI4ODMsLTYyMTcyOTg2NSwyMDc1MzA0MzYwLC0xMz
-cxODM2MjJdfQ==
+eyJoaXN0b3J5IjpbLTEzMDE1NjQ1ODksLTIzNjMxMTIyMywtMT
+g1NzI0NjE0MSwtMTcyNzIyNDM0MiwtNDcxNTMwMTgsLTExNDYy
+MDc3MzcsLTYzMTkzMDM5MSwtMTU0MjkzODkxMywtMTkzNjc1Mj
+IzOSwtOTkwNDM1MDUxLC0xMDU1OTU0NjA4LC0yMDA3NDA0NzQz
+LC0xMTk3MjAyODgzLC02MjE3Mjk4NjUsMjA3NTMwNDM2MCwtMT
+M3MTgzNjIyXX0=
 -->
