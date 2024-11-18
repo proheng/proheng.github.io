@@ -58,7 +58,7 @@ title:  《认知觉醒》－开读篇
 
 - 《心理－学习动力》帮助我们找到学习的意义，我们做任何事都牵连着事情意义。简单来说就是，为啥要做这件事。为什么要学习（“为中国之崛起”就是一个意义），为什么要学某些知识，为什么要学习这个方法论。这一章帮助我们找到属于自己的学习意义，从内至外推动我们的学习行为。
  
-- 《心态－学习的视角》
+- 《心态－学习的视角》“他数学好，你语文好，我心态好”。这一定程度上不是自嘲，好的心态
 
 - 《环境－学习的助推》
 
@@ -75,9 +75,9 @@ title:  《认知觉醒》－开读篇
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTcyNDYxNDEsLTE3MjcyMjQzNDIsLT
-Q3MTUzMDE4LC0xMTQ2MjA3NzM3LC02MzE5MzAzOTEsLTE1NDI5
-Mzg5MTMsLTE5MzY3NTIyMzksLTk5MDQzNTA1MSwtMTA1NTk1ND
-YwOCwtMjAwNzQwNDc0MywtMTE5NzIwMjg4MywtNjIxNzI5ODY1
-LDIwNzUzMDQzNjAsLTEzNzE4MzYyMl19
+eyJoaXN0b3J5IjpbNzg4MDIwNzg5LC0xODU3MjQ2MTQxLC0xNz
+I3MjI0MzQyLC00NzE1MzAxOCwtMTE0NjIwNzczNywtNjMxOTMw
+MzkxLC0xNTQyOTM4OTEzLC0xOTM2NzUyMjM5LC05OTA0MzUwNT
+EsLTEwNTU5NTQ2MDgsLTIwMDc0MDQ3NDMsLTExOTcyMDI4ODMs
+LTYyMTcyOTg2NSwyMDc1MzA0MzYwLC0xMzcxODM2MjJdfQ==
 -->
