@@ -11,7 +11,7 @@ title:  《认知觉醒》－开读篇
 
 我们获得了良好的教育，社会获得了全面的提升，这样的良性循环加深了人们对持续加强教育的需求。家长们越发希望自己的孩子能更好受到教育，日后成为有用的人，成就一番事业。目前社会需要的是人才标准更高更全面。他们应该有扎实的知识储备，快速的学习能力，高效而且有益的人际沟通能力，更稳定的情感管理，敢于创新尝试和开拓的进取精神，对自己的成败有合理的态度和行动要求。
 
-然而，时常有人会因为以下的情况感到无能为力，甚至焦虑或抑郁。
+然而，在求学过程中，时常有人会因为以下的情况感到无能为力，甚至焦虑或抑郁。
 
 >- 感受不到学习的意义，缺乏学习内动力；
 >- 强烈希望自己变好，但只知道盲目努力；
@@ -36,7 +36,7 @@ title:  《认知觉醒》－开读篇
 
 # 阅读计划
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjIxODg5MDksLTEwNTU5NTQ2MDgsLT
-IwMDc0MDQ3NDMsLTExOTcyMDI4ODMsLTYyMTcyOTg2NSwyMDc1
-MzA0MzYwLC0xMzcxODM2MjJdfQ==
+eyJoaXN0b3J5IjpbMTUzMzUwMjc1NCwtMTA1NTk1NDYwOCwtMj
+AwNzQwNDc0MywtMTE5NzIwMjg4MywtNjIxNzI5ODY1LDIwNzUz
+MDQzNjAsLTEzNzE4MzYyMl19
 -->
