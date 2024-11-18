@@ -46,15 +46,19 @@ title:  《认知觉醒》－开读篇
 
 - 《清晰－学习的窍门》让我们看出学习的真正意义就是把不懂的搞懂，拨开迷雾见青天。因此，清晰是主导求学始末都目标，除了学习的内容要清晰，我们的情绪处理，行动规划和执行都力求清晰可控。成者，事半功倍。
 - 《专注－学习的核心》专注是一个过程，如果做到符合大脑科学的专注和高效。这部分内容不容错过。尤其对贪玩的人来说。
+
 - 《反馈－学习方法》每一次反馈都是一次进步的机会，我们从每次反馈中获益能决定我们进步的速度。大脑对反馈也是有一套被证实的科学理论。
+
 - 《匹配－学习规律》欲速则不达，在这个讲求速度效率的时代，从个人学习方面，我们讲求的是配速，而不是高速。长跑的人都知道，找到自己的最佳配速，才能跑得远跑出自己的最佳状态。求学亦如此。
 
 ## 心法
 
 心法部分在更为广阔和深层的维度提出建议，包括心理，心态，环境。
 
-- 《心理－学习动力》帮助我们找到学习的意义，我们做任何事都牵连着事情意义。简单来说就是，为啥要做这件事。为什么要学习（“为中国之崛起”就是一个意义），为什么要学化学（）
+- 《心理－学习动力》帮助我们找到学习的意义，我们做任何事都牵连着事情意义。简单来说就是，为啥要做这件事。为什么要学习（“为中国之崛起”就是一个意义），为什么要学某些知识，为什么要学习这个方法论。这一章帮助我们找到属于自己的学习意义，从内至外推动我们的学习行为。
+ 
 - 《心态－学习的视角》
+
 - 《环境－学习的助推》
 
 
@@ -70,9 +74,9 @@ title:  《认知觉醒》－开读篇
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDA2MDM0NTMsLTE3MjcyMjQzNDIsLT
-Q3MTUzMDE4LC0xMTQ2MjA3NzM3LC02MzE5MzAzOTEsLTE1NDI5
-Mzg5MTMsLTE5MzY3NTIyMzksLTk5MDQzNTA1MSwtMTA1NTk1ND
-YwOCwtMjAwNzQwNDc0MywtMTE5NzIwMjg4MywtNjIxNzI5ODY1
-LDIwNzUzMDQzNjAsLTEzNzE4MzYyMl19
+eyJoaXN0b3J5IjpbOTM4MTMyOTcsLTE3MjcyMjQzNDIsLTQ3MT
+UzMDE4LC0xMTQ2MjA3NzM3LC02MzE5MzAzOTEsLTE1NDI5Mzg5
+MTMsLTE5MzY3NTIyMzksLTk5MDQzNTA1MSwtMTA1NTk1NDYwOC
+wtMjAwNzQwNDc0MywtMTE5NzIwMjg4MywtNjIxNzI5ODY1LDIw
+NzUzMDQzNjAsLTEzNzE4MzYyMl19
 -->
