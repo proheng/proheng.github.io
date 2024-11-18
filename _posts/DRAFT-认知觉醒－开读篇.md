@@ -20,7 +20,7 @@ title:  《认知觉醒》－开读篇
 >- 在自由时间里学习低效，甚至完全失控；
 >- 不知道如何梳理情绪，以致学习状态差；
 
-显然，我们父辈那种悬梁刺股，废寝忘食的“鸡娃”教育方法，现在已经不合适了。依靠学校填鸭式教育显得越发落后。知识的获取更多地依靠个人的内驱力，而不是教育机构的推送力。
+显然，我们父辈那种悬梁刺股，废寝忘食的“鸡娃”教育方法，现在已经不合适了。依靠学校填鸭式教育也显得越发落后。知识的获取更多地依靠个人的内驱力，而不是教育机构的推送力。
 
 这本书正好回答了一个人的问题，“我应该怎样提升学习效果？”，这本书
 
@@ -36,7 +36,7 @@ title:  《认知觉醒》－开读篇
 
 # 阅读计划
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDU3MzgyMCwtMTA1NTk1NDYwOCwtMj
-AwNzQwNDc0MywtMTE5NzIwMjg4MywtNjIxNzI5ODY1LDIwNzUz
-MDQzNjAsLTEzNzE4MzYyMl19
+eyJoaXN0b3J5IjpbLTEwMjIxODg5MDksLTEwNTU5NTQ2MDgsLT
+IwMDc0MDQ3NDMsLTExOTcyMDI4ODMsLTYyMTcyOTg2NSwyMDc1
+MzA0MzYwLC0xMzcxODM2MjJdfQ==
 -->
