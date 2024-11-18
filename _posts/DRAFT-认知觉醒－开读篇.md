@@ -31,7 +31,7 @@ title:  《认知觉醒》－开读篇
 
 # 这本书说了什么
 
-
+“伴随一生的学习方法论”，如本书的副标题所示。这个方法论不仅仅适用于在校生，也适用我们每一位好学的小伙伴，大叔们，
 
 ![思维导图](/assets/%E8%84%91%E5%9B%BE%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92.PNG)
 
@@ -48,8 +48,8 @@ title:  《认知觉醒》－开读篇
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTkzMDM5MSwtMTU0MjkzODkxMywtMT
-kzNjc1MjIzOSwtOTkwNDM1MDUxLC0xMDU1OTU0NjA4LC0yMDA3
-NDA0NzQzLC0xMTk3MjAyODgzLC02MjE3Mjk4NjUsMjA3NTMwND
-M2MCwtMTM3MTgzNjIyXX0=
+eyJoaXN0b3J5IjpbLTE1NTYxNDY4NTAsLTYzMTkzMDM5MSwtMT
+U0MjkzODkxMywtMTkzNjc1MjIzOSwtOTkwNDM1MDUxLC0xMDU1
+OTU0NjA4LC0yMDA3NDA0NzQzLC0xMTk3MjAyODgzLC02MjE3Mj
+k4NjUsMjA3NTMwNDM2MCwtMTM3MTgzNjIyXX0=
 -->
