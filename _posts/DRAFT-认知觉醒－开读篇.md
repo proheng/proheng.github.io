@@ -22,8 +22,9 @@ title:  《认知觉醒》－开读篇
 
 显然，我们父辈那种悬梁刺股，废寝忘食的“鸡娃”教育方法，现在已经不合适了。依靠学校填鸭式教育显得越发落后。知识的获取更多地依靠个人的内驱力，而不是教育机构的推送力。
 
-这本书正好回答了一个人的问题，“我应该怎样提升学习效果？”。
+这本书正好回答了一个人的问题，“我应该怎样提升学习效果？”，这本书
 
+> 从脑科学、认知科学、心理学、行学科学、社会学等领域的知识出发，把底层的学习规律和心理规律描述出来，让你了解学习背后的奥秘，从而提升你学习的内动力、专注力、自控力，提高情绪的积极性、稳定性和开放性。
 
 
 
@@ -35,7 +36,7 @@ title:  《认知觉醒》－开读篇
 
 # 阅读计划
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NzM2MTQ1LC0xMDU1OTU0NjA4LC0yMD
-A3NDA0NzQzLC0xMTk3MjAyODgzLC02MjE3Mjk4NjUsMjA3NTMw
-NDM2MCwtMTM3MTgzNjIyXX0=
+eyJoaXN0b3J5IjpbLTM1MDU3MzgyMCwtMTA1NTk1NDYwOCwtMj
+AwNzQwNDc0MywtMTE5NzIwMjg4MywtNjIxNzI5ODY1LDIwNzUz
+MDQzNjAsLTEzNzE4MzYyMl19
 -->
