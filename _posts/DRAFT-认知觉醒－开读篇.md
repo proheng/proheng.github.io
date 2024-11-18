@@ -51,7 +51,7 @@ title:  《认知觉醒》－开读篇
 
 ## 心法
 
-心法部分提出更加广阔的
+心法部分在更加广阔和深层的维度提出建议，
 
 
 # 阅读计划
@@ -66,7 +66,7 @@ title:  《认知觉醒》－开读篇
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDM4OTc0NiwtMTE0NjIwNzczNywtNj
+eyJoaXN0b3J5IjpbLTU0Njg0MTM1NywtMTE0NjIwNzczNywtNj
 MxOTMwMzkxLC0xNTQyOTM4OTEzLC0xOTM2NzUyMjM5LC05OTA0
 MzUwNTEsLTEwNTU5NTQ2MDgsLTIwMDc0MDQ3NDMsLTExOTcyMD
 I4ODMsLTYyMTcyOTg2NSwyMDc1MzA0MzYwLC0xMzcxODM2MjJd
