@@ -47,9 +47,11 @@ title:  《认知觉醒》－开读篇
 - 《清晰－学习的窍门》让我们看出学习的真正意义就是把不懂的搞懂，拨开迷雾见青天。因此，清晰是主导求学始末都目标，除了学习的内容要清晰，我们的情绪处理，行动规划和执行都力求清晰可控。成者，事半功倍。
 - 《专注－学习的核心》专注是一个过程，如果做到符合大脑科学的专注和高效。这部分内容不容错过。尤其对贪玩的人来说。
 - 《反馈－学习方法》每一次反馈都是一次进步的机会，我们从每次反馈中获益能决定我们进步的速度。大脑对反馈也是有一套被证实的科学理论。
-- 《匹配－学习规律》欲速则不达，在这个讲求速度效率的时代，从个人学习方面，我们讲求的是配速，而不是高速。找到自己的最佳配速，才能跑得远跑出自己的
+- 《匹配－学习规律》欲速则不达，在这个讲求速度效率的时代，从个人学习方面，我们讲求的是配速，而不是高速。长跑的人都知道，找到自己的最佳配速，才能跑得远跑出自己的最佳状态。求学亦如此。
 
 ## 心法
+
+
 
 
 # 阅读计划
@@ -64,9 +66,9 @@ title:  《认知觉醒》－开读篇
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjI2ODAwNzYsLTExNDYyMDc3MzcsLT
-YzMTkzMDM5MSwtMTU0MjkzODkxMywtMTkzNjc1MjIzOSwtOTkw
-NDM1MDUxLC0xMDU1OTU0NjA4LC0yMDA3NDA0NzQzLC0xMTk3Mj
-AyODgzLC02MjE3Mjk4NjUsMjA3NTMwNDM2MCwtMTM3MTgzNjIy
-XX0=
+eyJoaXN0b3J5IjpbMzk3MDEwMjU1LC0xMTQ2MjA3NzM3LC02Mz
+E5MzAzOTEsLTE1NDI5Mzg5MTMsLTE5MzY3NTIyMzksLTk5MDQz
+NTA1MSwtMTA1NTk1NDYwOCwtMjAwNzQwNDc0MywtMTE5NzIwMj
+g4MywtNjIxNzI5ODY1LDIwNzUzMDQzNjAsLTEzNzE4MzYyMl19
+
 -->
