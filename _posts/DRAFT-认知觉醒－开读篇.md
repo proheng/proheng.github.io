@@ -71,9 +71,11 @@ title:  《认知觉醒》－开读篇
 
 听起来很矛盾，既然学到了，为什么不用。其实，我一定会用，但是，我只会用自己来做验证。原因其一，学习是主动行为，而非被动行为。这本书无时无刻强调这一点，而且以这一点作为基本前提。其二，从学习这套方法论，到为己所用，必须经历**领悟习得**这个阶段，需要的时间因人而异，收获也不尽相同。我期待在我个人习得的过程中，潜移默化地告知我的孩子，带领他们一起进步，而不是教条主义地再一次推送教育。
 
+期待每一期通过我写你读，我们能jian
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjY2NTA4NzYsLTIzNjMxMTIyMywtMT
+eyJoaXN0b3J5IjpbLTE5ODMwNjYwOTQsLTIzNjMxMTIyMywtMT
 g1NzI0NjE0MSwtMTcyNzIyNDM0MiwtNDcxNTMwMTgsLTExNDYy
 MDc3MzcsLTYzMTkzMDM5MSwtMTU0MjkzODkxMywtMTkzNjc1Mj
 IzOSwtOTkwNDM1MDUxLC0xMDU1OTU0NjA4LC0yMDA3NDA0NzQz
