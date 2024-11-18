@@ -42,13 +42,13 @@ title:  《认知觉醒》－开读篇
 # 阅读计划
 
 
-值得注意的是：如果是父母，在阅读这本书的过程中，你确实会获得不少新知，一方面心想，我如果读书的时候如果能知道这些就好了，另一方面心想，还不迟，我可以让我孩子知道。我在阅读过程中不断克制自己的第二种想法。我努力不让直接灌输这些新知识给我孩子。而且，不让他
+值得注意的是：如果是父母，在阅读这本书的过程中，你确实会获得不少新知，一方面心想，我如果读书的时候如果能知道这些就好了，另一方面心想，还不迟，我可以让我孩子知道。我在阅读过程中不断克制自己的第二种想法。努力不直接灌输这些新知识给我孩子，也不会用书中的建议去“鸡”我的娃。
 
-听起来很矛盾，
+听起来很矛盾，既然学到为什么不用。其实，我一定会用，但是，我只会用在我自己身上。我还有很多东西
 
 不成为我“鸡娃”的根据，因为，学习是主动行为，而非被动行为。因此学习到这套方法论，为个人所用，从**知道**，经过**领悟**，最后到达**做到**。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyMTgyMDIyLC05OTA0MzUwNTEsLTEwNT
-U5NTQ2MDgsLTIwMDc0MDQ3NDMsLTExOTcyMDI4ODMsLTYyMTcy
-OTg2NSwyMDc1MzA0MzYwLC0xMzcxODM2MjJdfQ==
+eyJoaXN0b3J5IjpbLTk3NDk0ODAwOCwtOTkwNDM1MDUxLC0xMD
+U1OTU0NjA4LC0yMDA3NDA0NzQzLC0xMTk3MjAyODgzLC02MjE3
+Mjk4NjUsMjA3NTMwNDM2MCwtMTM3MTgzNjIyXX0=
 -->
