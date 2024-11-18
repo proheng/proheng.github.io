@@ -22,7 +22,7 @@ title:  《认知觉醒》－开读篇
 
 显然，我们父辈那种悬梁刺股，废寝忘食的“鸡娃”教育方法，现在已经不合适了。学校填鸭式教育也显得越发落后，因为知识的获取更多地依靠个人的内驱力，而不是教育机构的推送力。
 
-针对上面提到的那些状况，结合当代科学的发现，作者周龄提出了这一套十分系统化的学习方法论，叫做认知觉醒。
+针对上面提到的那些状况，当代科学的理论基础，作者周龄提出了这一套十分系统化的学习方法论，叫做认知觉醒。
 
 > 从脑科学、认知科学、心理学、行学科学、社会学等领域的知识出发，把底层的学习规律和心理规律描述出来，让你了解学习背后的奥秘，从而提升你学习的内动力、专注力、自控力，提高情绪的积极性、稳定性和开放性。
 
@@ -73,10 +73,10 @@ title:  《认知觉醒》－开读篇
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzQ1NTk5OSwtMjM2MzExMjIzLC0xOD
-U3MjQ2MTQxLC0xNzI3MjI0MzQyLC00NzE1MzAxOCwtMTE0NjIw
-NzczNywtNjMxOTMwMzkxLC0xNTQyOTM4OTEzLC0xOTM2NzUyMj
-M5LC05OTA0MzUwNTEsLTEwNTU5NTQ2MDgsLTIwMDc0MDQ3NDMs
-LTExOTcyMDI4ODMsLTYyMTcyOTg2NSwyMDc1MzA0MzYwLC0xMz
-cxODM2MjJdfQ==
+eyJoaXN0b3J5IjpbNDEwOTIzNDA3LC0yMzYzMTEyMjMsLTE4NT
+cyNDYxNDEsLTE3MjcyMjQzNDIsLTQ3MTUzMDE4LC0xMTQ2MjA3
+NzM3LC02MzE5MzAzOTEsLTE1NDI5Mzg5MTMsLTE5MzY3NTIyMz
+ksLTk5MDQzNTA1MSwtMTA1NTk1NDYwOCwtMjAwNzQwNDc0Mywt
+MTE5NzIwMjg4MywtNjIxNzI5ODY1LDIwNzUzMDQzNjAsLTEzNz
+E4MzYyMl19
 -->
