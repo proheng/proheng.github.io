@@ -58,7 +58,7 @@ title:  《认知觉醒》－开读篇
 
 - 《心理－学习动力》帮助我们找到学习的意义，我们做任何事都牵连着事情的意义。简单来说就是，为啥要做这件事。为什么要学习（“为中国之崛起”就是一个意义），为什么要学某些知识，为什么要学习这个方法论。这一章帮助我们找到属于自己的学习意义，从内至外推动我们的学习行为。
  
-- 《心态－学习的视角》“他数学好，你语文好，我心态好”。这一定程度上不是自嘲，有好心态的加持护航，你的学习会更持久，你也更坚韧。这也是正面学习的秘诀。
+- 《心态－学习的视角》“他数学好，你语文好，我心态好”。这一定程度上不是自嘲，有好心态的加持护航，你的学习会更持久，你也能坚韧合理地面对挫败。这也是正面学习的秘诀。
 
 - 《环境－学习的助推》心理，心态主内，环境则主外。没有人否认图书馆比菜市场更适合写出一篇好论文。除了实体环境，这一章还提到精神层面的环境，就是打造顶级的朋友圈。当然这不是社交媒体里的互相关注，而是通过阅读好书，从作者那里提升自己的精神环境。
 
@@ -73,7 +73,7 @@ title:  《认知觉醒》－开读篇
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2Njc0ODAyLC0yMzYzMTEyMjMsLTE4NT
+eyJoaXN0b3J5IjpbODU1MjcyOTE0LC0yMzYzMTEyMjMsLTE4NT
 cyNDYxNDEsLTE3MjcyMjQzNDIsLTQ3MTUzMDE4LC0xMTQ2MjA3
 NzM3LC02MzE5MzAzOTEsLTE1NDI5Mzg5MTMsLTE5MzY3NTIyMz
 ksLTk5MDQzNTA1MSwtMTA1NTk1NDYwOCwtMjAwNzQwNDc0Mywt
