@@ -13,7 +13,7 @@ title:  《认知觉醒》－开读篇
 
 而这本书正好回答了一个简单的问题，“我应该怎样提升学习效果？”。
 
-时常有人会问
+时常有人会因为以下的情况感到无能为力，或者焦虑。
 
 - 感受不到学习的意义，缺乏学习内动力；
 - 强烈希望自己变好，但只知道盲目努力；
@@ -32,6 +32,6 @@ title:  《认知觉醒》－开读篇
 
 # 阅读计划
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODQ1NzAwMiwtMTE5NzIwMjg4MywtNj
-IxNzI5ODY1LDIwNzUzMDQzNjAsLTEzNzE4MzYyMl19
+eyJoaXN0b3J5IjpbLTIwMDc0MDQ3NDMsLTExOTcyMDI4ODMsLT
+YyMTcyOTg2NSwyMDc1MzA0MzYwLC0xMzcxODM2MjJdfQ==
 -->
