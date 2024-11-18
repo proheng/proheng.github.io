@@ -36,8 +36,14 @@ title:  《认知觉醒》－开读篇
 
 “伴随一生的学习方法论”，如本书的副标题所示，这个方法论不仅仅适用于在校生，也适用我们每一位好学的小伙伴，大叔大婶，老大爷大妈。更重要的是，他让你重新找回学习的动力和兴趣。
 
-以下是我按照书里的章节
+以下是我按照书里的章节划分所建立的思维导图。
 ![思维导图](/assets/%E8%84%91%E5%9B%BE%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92.PNG)
+
+左板块是“技法”，又板块是“心法”。
+
+## 技法
+
+## 
 
 
 # 阅读计划
@@ -52,7 +58,7 @@ title:  《认知觉醒》－开读篇
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcxOTUxNzgwLC0xMTQ2MjA3NzM3LC02Mz
+eyJoaXN0b3J5IjpbMTAzMzk1MzY4LC0xMTQ2MjA3NzM3LC02Mz
 E5MzAzOTEsLTE1NDI5Mzg5MTMsLTE5MzY3NTIyMzksLTk5MDQz
 NTA1MSwtMTA1NTk1NDYwOCwtMjAwNzQwNDc0MywtMTE5NzIwMj
 g4MywtNjIxNzI5ODY1LDIwNzUzMDQzNjAsLTEzNzE4MzYyMl19
