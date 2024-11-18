@@ -48,7 +48,7 @@ title:  《认知觉醒》－开读篇
 
 - 《专注－学习的核心》专注是一个过程，如何做到符合大脑科学的专注和高效？这部分内容不容错过，尤其对贪玩的人来说。
 
-- 《反馈－学习方法》每一次反馈都是一次进步的机会，我们从每一次反馈中的获益能决定我们进步的速度。大脑对反馈也是有一套被证实的科学理论。
+- 《反馈－学习方法》每一次反馈都是一次进步的机会，我们从每一次反馈中获益的多少能决定我们进步的速度。大脑对反馈也是有一套被证实的科学理论。
 
 - 《匹配－学习规律》欲速则不达，在这个讲求速度效率的时代，从个人学习方面，我们讲求的是配速，而不是高速。长跑的人都知道，找到自己的最佳配速，才能跑得远跑出自己的最佳状态。求学亦如此。
 
@@ -73,10 +73,10 @@ title:  《认知觉醒》－开读篇
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzIzMDk2NTYsLTIzNjMxMTIyMywtMT
-g1NzI0NjE0MSwtMTcyNzIyNDM0MiwtNDcxNTMwMTgsLTExNDYy
-MDc3MzcsLTYzMTkzMDM5MSwtMTU0MjkzODkxMywtMTkzNjc1Mj
-IzOSwtOTkwNDM1MDUxLC0xMDU1OTU0NjA4LC0yMDA3NDA0NzQz
-LC0xMTk3MjAyODgzLC02MjE3Mjk4NjUsMjA3NTMwNDM2MCwtMT
-M3MTgzNjIyXX0=
+eyJoaXN0b3J5IjpbNTU5MjAzNzM1LC0yMzYzMTEyMjMsLTE4NT
+cyNDYxNDEsLTE3MjcyMjQzNDIsLTQ3MTUzMDE4LC0xMTQ2MjA3
+NzM3LC02MzE5MzAzOTEsLTE1NDI5Mzg5MTMsLTE5MzY3NTIyMz
+ksLTk5MDQzNTA1MSwtMTA1NTk1NDYwOCwtMjAwNzQwNDc0Mywt
+MTE5NzIwMjg4MywtNjIxNzI5ODY1LDIwNzUzMDQzNjAsLTEzNz
+E4MzYyMl19
 -->
