@@ -60,7 +60,7 @@ title:  《认知觉醒》－开读篇
  
 - 《心态－学习的视角》“他数学好，你语文好，我心态好”。这一定程度上不是自嘲，有好心态的加持护航，你的学习会更持久，你也更坚韧。这也是正面学习的秘诀。
 
-- 《环境－学习的助推》
+- 《环境－学习的助推》心理心态主内，环境则主外。
 
 
 # 阅读计划
@@ -75,9 +75,9 @@ title:  《认知觉醒》－开读篇
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjk4OTIxNSwtMTg1NzI0NjE0MSwtMT
-cyNzIyNDM0MiwtNDcxNTMwMTgsLTExNDYyMDc3MzcsLTYzMTkz
-MDM5MSwtMTU0MjkzODkxMywtMTkzNjc1MjIzOSwtOTkwNDM1MD
-UxLC0xMDU1OTU0NjA4LC0yMDA3NDA0NzQzLC0xMTk3MjAyODgz
-LC02MjE3Mjk4NjUsMjA3NTMwNDM2MCwtMTM3MTgzNjIyXX0=
+eyJoaXN0b3J5IjpbLTE2MTQ5Nzc2NTYsLTE4NTcyNDYxNDEsLT
+E3MjcyMjQzNDIsLTQ3MTUzMDE4LC0xMTQ2MjA3NzM3LC02MzE5
+MzAzOTEsLTE1NDI5Mzg5MTMsLTE5MzY3NTIyMzksLTk5MDQzNT
+A1MSwtMTA1NTk1NDYwOCwtMjAwNzQwNDc0MywtMTE5NzIwMjg4
+MywtNjIxNzI5ODY1LDIwNzUzMDQzNjAsLTEzNzE4MzYyMl19
 -->
