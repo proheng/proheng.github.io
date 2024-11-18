@@ -26,7 +26,9 @@ title:  《认知觉醒》－开读篇
 
 > 从脑科学、认知科学、心理学、行学科学、社会学等领域的知识出发，把底层的学习规律和心理规律描述出来，让你了解学习背后的奥秘，从而提升你学习的内动力、专注力、自控力，提高情绪的积极性、稳定性和开放性。
 
-这本书，我
+
+
+不成为我“鸡娃”的根据，因为，学习是主动行为，而非被动行为。因此学习到这套方法论，为个人所用，从知道，
 
 
 
@@ -37,7 +39,7 @@ title:  《认知觉醒》－开读篇
 
 # 阅读计划
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NTUyNjE3MCwtMTA1NTk1NDYwOCwtMj
+eyJoaXN0b3J5IjpbMTk1ODk2OTEzNywtMTA1NTk1NDYwOCwtMj
 AwNzQwNDc0MywtMTE5NzIwMjg4MywtNjIxNzI5ODY1LDIwNzUz
 MDQzNjAsLTEzNzE4MzYyMl19
 -->
