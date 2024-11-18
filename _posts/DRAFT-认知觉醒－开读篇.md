@@ -22,7 +22,7 @@ title:  《认知觉醒》－开读篇
 
 显然，我们父辈那种悬梁刺股，废寝忘食的“鸡娃”教育方法，现在已经不合适了。依靠学校填鸭式教育显得越发落后。知识的获取更多地依靠个人的内驱力，而不是教育机构的推送力。
 
-而这本书正好回答了一个简单的问题，“我应该怎样提升学习效果？”。
+这本书正好回答了一个人的问题，“我应该怎样提升学习效果？”。
 
 
 
@@ -35,7 +35,7 @@ title:  《认知觉醒》－开读篇
 
 # 阅读计划
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU5NTQ2MDgsLTIwMDc0MDQ3NDMsLT
-ExOTcyMDI4ODMsLTYyMTcyOTg2NSwyMDc1MzA0MzYwLC0xMzcx
-ODM2MjJdfQ==
+eyJoaXN0b3J5IjpbLTU2NzM2MTQ1LC0xMDU1OTU0NjA4LC0yMD
+A3NDA0NzQzLC0xMTk3MjAyODgzLC02MjE3Mjk4NjUsMjA3NTMw
+NDM2MCwtMTM3MTgzNjIyXX0=
 -->
