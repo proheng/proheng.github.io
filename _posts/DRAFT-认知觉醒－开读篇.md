@@ -31,7 +31,7 @@ title:  《认知觉醒》－开读篇
 
 # 这本书说了什么
 
-“伴随一生的学习方法论”，如本书的副标题所示，这个方法论不仅仅适用于在校生，也适用于我们每一位好学的小伙伴，大叔大婶，大爷大妈。更重要的是，他让你重新找回学习的动力和兴趣。
+“伴随一生的学习方法论”，如本书的副标题所示，这个方法论不仅仅适用于在校生，也适用于我们每一位好学的小伙伴，大叔大婶，大爷大妈。更重要的是，能让你重新找回学习的动力和兴趣。
 
 诚然，我们从小收到的学习建议都十分片面和零碎，不能成为一体的系统。本书不仅从方法方面提出科学的建议（**《学习技法》**），更重要的是，还帮助读者获得积极的，更为广阔和终身的提升。（**《学习心法》**）。
 
@@ -41,7 +41,8 @@ title:  《认知觉醒》－开读篇
 左板块是“技法”，又板块是“心法”。
 
 ## 技法
-在提出科学建议前，作者用尽可能简单易懂的语言介绍我们大脑的结构和工作特点（《大脑－学习的基石》）。基于对大脑的认识，我们更好理解下面四个核心问题，清晰，专注，反馈和匹配。
+
+在提出科学建议前，作者用简单易懂的语言介绍我们大脑的结构和工作特点（《大脑－学习的基石》）。基于对大脑的认识，我们就更好地理解下面四个核心问题：清晰，专注，反馈和匹配。
 
 - 《清晰－学习的窍门》让我们看出学习的真正意义就是把不懂的搞懂，拨开迷雾见青天。因此，清晰是主导求学始末都目标，除了学习的内容要清晰，我们的情绪处理，行动规划和执行都力求清晰可控。成者，事半功倍。
 
@@ -72,10 +73,10 @@ title:  《认知觉醒》－开读篇
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDE1NjQ1ODksLTIzNjMxMTIyMywtMT
-g1NzI0NjE0MSwtMTcyNzIyNDM0MiwtNDcxNTMwMTgsLTExNDYy
-MDc3MzcsLTYzMTkzMDM5MSwtMTU0MjkzODkxMywtMTkzNjc1Mj
-IzOSwtOTkwNDM1MDUxLC0xMDU1OTU0NjA4LC0yMDA3NDA0NzQz
-LC0xMTk3MjAyODgzLC02MjE3Mjk4NjUsMjA3NTMwNDM2MCwtMT
-M3MTgzNjIyXX0=
+eyJoaXN0b3J5IjpbLTI1NzU0NTMxMiwtMjM2MzExMjIzLC0xOD
+U3MjQ2MTQxLC0xNzI3MjI0MzQyLC00NzE1MzAxOCwtMTE0NjIw
+NzczNywtNjMxOTMwMzkxLC0xNTQyOTM4OTEzLC0xOTM2NzUyMj
+M5LC05OTA0MzUwNTEsLTEwNTU5NTQ2MDgsLTIwMDc0MDQ3NDMs
+LTExOTcyMDI4ODMsLTYyMTcyOTg2NSwyMDc1MzA0MzYwLC0xMz
+cxODM2MjJdfQ==
 -->
