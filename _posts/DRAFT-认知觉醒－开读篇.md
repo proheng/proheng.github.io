@@ -44,7 +44,7 @@ title:  《认知觉醒》－开读篇
 ## 技法
 在提出科学建议前，作者用尽可能简单易懂的语言介绍我们大脑的结构和工作特点（《大脑－学习的基石》）。基于对大脑的认识，我们更好理解下面四个核心问题，清晰，专注，反馈和匹配。
 
-- 《清晰－学习的窍门》让我们看出学习的真正意义就是把不懂的搞懂，拨开迷雾见青天。
+- 《清晰－学习的窍门》让我们看出学习的真正意义就是把不懂的搞懂，拨开迷雾见青天。因此，清晰是主导求学始末都目标，除了学习的内容要清晰，我们的情绪处理，行动规划执行都力求清晰
 
 ## 心法
 
@@ -61,7 +61,7 @@ title:  《认知觉醒》－开读篇
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzAwNjkxMCwtMTE0NjIwNzczNywtNj
+eyJoaXN0b3J5IjpbLTM5NzkzNDA1MSwtMTE0NjIwNzczNywtNj
 MxOTMwMzkxLC0xNTQyOTM4OTEzLC0xOTM2NzUyMjM5LC05OTA0
 MzUwNTEsLTEwNTU5NTQ2MDgsLTIwMDc0MDQ3NDMsLTExOTcyMD
 I4ODMsLTYyMTcyOTg2NSwyMDc1MzA0MzYwLC0xMzcxODM2MjJd
