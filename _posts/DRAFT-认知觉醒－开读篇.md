@@ -44,14 +44,14 @@ title:  《认知觉醒》－开读篇
 
 值得注意的是：如果是父母，在阅读这本书的过程中，你确实会获得不少新知，一方面心想，我如果读书的时候如果能知道这些就好了，另一方面心想，还不迟，我可以让我孩子知道。我在阅读过程中不断克制自己的第二种想法。努力不直接灌输这些新知识给我孩子，也不会用书中的建议去“鸡”我的娃。
 
-听起来很矛盾，既然学到为什么不用。其实，我一定会用，但是，我只会用在我自己身上。因为，学习是主动行为，而非被动行为。这本书无时无刻强调这一点，而且以这一点作为基本前提。因此学习到这套方法论，为个人所用，从**知道**，经过**领悟**，最后到达**做到**。
+听起来很矛盾，既然学到为什么不用。其实，我一定会用，但是，我只会用在我自己身上。因为，学习是主动行为，而非被动行为。这本书无时无刻强调这一点，而且以这一点作为基本前提。因此从学习这套方法论，到为个人所用，必须经历**领悟**这个阶段。
 
 
 我离开了学校，但是我并没有停止我求学的旅途。
 
 不成为我“鸡娃”的根据，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE5Njg0MTMsLTk5MDQzNTA1MSwtMTA1NT
-k1NDYwOCwtMjAwNzQwNDc0MywtMTE5NzIwMjg4MywtNjIxNzI5
-ODY1LDIwNzUzMDQzNjAsLTEzNzE4MzYyMl19
+eyJoaXN0b3J5IjpbLTExMTM2NzY2MzIsLTk5MDQzNTA1MSwtMT
+A1NTk1NDYwOCwtMjAwNzQwNDc0MywtMTE5NzIwMjg4MywtNjIx
+NzI5ODY1LDIwNzUzMDQzNjAsLTEzNzE4MzYyMl19
 -->
