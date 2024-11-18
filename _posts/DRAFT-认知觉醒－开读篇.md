@@ -28,7 +28,7 @@ title:  《认知觉醒》－开读篇
 
 
 
-不成为我“鸡娃”的根据，因为，学习是主动行为，而非被动行为。因此学习到这套方法论，为个人所用，从知道，
+不成为我“鸡娃”的根据，因为，学习是主动行为，而非被动行为。因此学习到这套方法论，为个人所用，从**知道**，经过**领悟**，最后到达**做到**。
 
 
 
@@ -39,7 +39,7 @@ title:  《认知觉醒》－开读篇
 
 # 阅读计划
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODk2OTEzNywtMTA1NTk1NDYwOCwtMj
-AwNzQwNDc0MywtMTE5NzIwMjg4MywtNjIxNzI5ODY1LDIwNzUz
-MDQzNjAsLTEzNzE4MzYyMl19
+eyJoaXN0b3J5IjpbLTE4MzIyOTgyNzYsLTEwNTU5NTQ2MDgsLT
+IwMDc0MDQ3NDMsLTExOTcyMDI4ODMsLTYyMTcyOTg2NSwyMDc1
+MzA0MzYwLC0xMzcxODM2MjJdfQ==
 -->
