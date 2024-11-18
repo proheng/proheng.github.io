@@ -9,7 +9,7 @@ title:  《认知觉醒》－开读篇
 
 大叔——我，是80后出生的，在中国一线城市（广州）长大的。那时改革开放开始走上轨道，大家都意识到知识就是力量，教育就是传授知识的重要手段。我们这些80后从小就有幸受到学校、家庭、社会的重点培养。学校不缺教育软硬件资源，有出色的好老师，有重金打造的教育设施。家长们为我们提供充足的营养和锻炼。社会也赋予我们无尽地期望和支持，看看每年高考那几天的社会气氛方可略见一斑。这些孩子，现在已经进入不惑之年，大多数都成为了各行各业的中流砥柱、社会发展中坚力量。
 
-我们获得了良好的教育，社会获得了全面的提升，这样的良性循环加深了人们对持续加强教育的需求。家长们越发希望自己的孩子能更好受到教育，日后成为有用的人，成就一番事业。目前社会需要的是人才标准更高更全面。他们应该有扎实的知识储备，快速的学习能力，高效而且有益的人际沟通能力，更稳定的情感管理，敢于创新尝试和开拓的进取精神，对自己的成败有合理的态度和行动要求。
+我们获得了良好的教育，社会获得了全面的提升，这样的良性循环加深了人们对持续加强教育的需求。家长们越发希望自己的孩子能更好受到教育，日后成为有用的人，成就一番事业。目前社会需要的人才标准更高更全面。他们应该有扎实的知识储备，快速的学习能力，高效而积极的人际沟通能力，更稳定的情感管理，敢于创新尝试和开拓的进取精神，对自己的成败有合理的态度和行动要求。
 
 然而，在求学过程中，时常有人会因为以下的情况感到无能为力，甚至焦虑或抑郁。
 
@@ -73,10 +73,10 @@ title:  《认知觉醒》－开读篇
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczMjg1NjAzLC0yMzYzMTEyMjMsLTE4NT
-cyNDYxNDEsLTE3MjcyMjQzNDIsLTQ3MTUzMDE4LC0xMTQ2MjA3
-NzM3LC02MzE5MzAzOTEsLTE1NDI5Mzg5MTMsLTE5MzY3NTIyMz
-ksLTk5MDQzNTA1MSwtMTA1NTk1NDYwOCwtMjAwNzQwNDc0Mywt
-MTE5NzIwMjg4MywtNjIxNzI5ODY1LDIwNzUzMDQzNjAsLTEzNz
-E4MzYyMl19
+eyJoaXN0b3J5IjpbMTk2MzQ1NTk5OSwtMjM2MzExMjIzLC0xOD
+U3MjQ2MTQxLC0xNzI3MjI0MzQyLC00NzE1MzAxOCwtMTE0NjIw
+NzczNywtNjMxOTMwMzkxLC0xNTQyOTM4OTEzLC0xOTM2NzUyMj
+M5LC05OTA0MzUwNTEsLTEwNTU5NTQ2MDgsLTIwMDc0MDQ3NDMs
+LTExOTcyMDI4ODMsLTYyMTcyOTg2NSwyMDc1MzA0MzYwLC0xMz
+cxODM2MjJdfQ==
 -->
