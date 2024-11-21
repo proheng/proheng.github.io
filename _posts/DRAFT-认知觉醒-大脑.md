@@ -38,7 +38,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 本能脑和情绪脑的力气大能耗低，好比公司里的基层员工，或者军队里的士兵，他们能做的事情很大，而且不会消耗太多资源。理智脑好比公司里的经理，或者军队里的将军，他们纵观全局，而且更高的洞察力和智慧，但是他们消耗掉资源多，不能一直待命。 
 
-在执行任务时，有两种可能，“
+在执行任务时，有两种可能，基层不明白领导者的意愿，而且出于自身的考量觉得做一件事没有必要，因此对领导层的指令
 
 ## 耐心
 
@@ -73,6 +73,6 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjYwMTcxNTUsMTE3OTYzNjg3LC0xND
-U1ODM1ODgzLDExMDc3NzQxMTFdfQ==
+eyJoaXN0b3J5IjpbLTM3Mzg4ODYyNiwxMTc5NjM2ODcsLTE0NT
+U4MzU4ODMsMTEwNzc3NDExMV19
 -->
