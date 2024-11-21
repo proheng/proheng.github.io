@@ -34,7 +34,9 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 > 事实上，理智脑很少有主见，大多数时候我们以为自己在思考，其实都是在对自身的行为和欲望进行合理化，这正是人类被称作“自我解释的动物”的原因
 
-### 
+### 三个大脑的博弈
+
+本能脑和情绪脑的力气大能耗低，好比公司里的基层员工，他们能做的事情很大
 
 ## 耐心
 
@@ -69,6 +71,6 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDIwNjgzOCwtMTQ1NTgzNTg4MywxMT
-A3Nzc0MTExXX0=
+eyJoaXN0b3J5IjpbLTE5MjAyNTkyNzksLTE0NTU4MzU4ODMsMT
+EwNzc3NDExMV19
 -->
