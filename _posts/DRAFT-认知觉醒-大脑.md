@@ -36,7 +36,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 ### 三个大脑的博弈
 
-本能脑和情绪脑的力气大能耗低，好比公司里的基层员工，他们能做的事情很大
+本能脑和情绪脑的力气大能耗低，好比公司里的基层员工，或者军队里的士兵，他们能做的事情很大，而且不会消耗太多资源。理智脑好比公司里的经理，或者军队里的将军，他们纵观全局，而且更高的dong che li
 
 ## 耐心
 
@@ -71,6 +71,6 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjAyNTkyNzksLTE0NTU4MzU4ODMsMT
+eyJoaXN0b3J5IjpbLTIwMzY3MDY0OTMsLTE0NTU4MzU4ODMsMT
 EwNzc3NDExMV19
 -->
