@@ -64,8 +64,11 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 这个是我们的做事倾向，我们可以坦诚面对。但，这并未在我们因此而躺平。反而，我们需要做出科学和合理的行为，利用好本能脑和情绪脑的强大作用做到四两拨千斤的效果。
 
+> 为了避开这种误区，我们一定要记住：理智脑不是直接干活的，干活是本能脑和情绪脑的事情，因为它们的“力气”大；上天赋予理智脑智慧，是让它驱动本能和情绪，而不是直接取代它们。
+
+
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU1NjE1MDQ2LC0xNDU1ODM1ODgzLDExMD
-c3NzQxMTFdfQ==
+eyJoaXN0b3J5IjpbMjAwNDIwNjgzOCwtMTQ1NTgzNTg4MywxMT
+A3Nzc0MTExXX0=
 -->
