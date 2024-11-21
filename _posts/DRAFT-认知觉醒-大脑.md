@@ -13,7 +13,9 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 ## 三个大脑
 
-我们有三个大脑，他们分别有不同的职能。这三个大脑分别jia
+我们有三个大脑，他们分别有不同的职能。这三个大脑分别叫：**本能脑**（老大），**情绪脑**（老二），**理智脑**（老三）。
+
+- **本能脑** 主管本能，例如，肚子饿了，
 
 
 
@@ -32,5 +34,5 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjYzODMyNTQsMTEwNzc3NDExMV19
+eyJoaXN0b3J5IjpbLTIwNTA3NTk4MzAsMTEwNzc3NDExMV19
 -->
