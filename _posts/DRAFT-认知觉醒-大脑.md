@@ -13,7 +13,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 ## 三个大脑
 
-三个大脑，du
+我们有三个大脑，他们分别有不同的职能。我们没有必要去考究他们藏在na
 
 ## 耐心
 
@@ -28,5 +28,5 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDgxMDUyNzMsMTEwNzc3NDExMV19
+eyJoaXN0b3J5IjpbMzEzOTI5MzU3LDExMDc3NzQxMTFdfQ==
 -->
