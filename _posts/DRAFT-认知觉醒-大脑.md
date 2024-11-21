@@ -13,6 +13,8 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 ## 三个大脑
 
+三个大脑，du
+
 ## 耐心
 
 ## 7个小球
@@ -26,5 +28,5 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzc3NDExMV19
+eyJoaXN0b3J5IjpbLTE0MDgxMDUyNzMsMTEwNzc3NDExMV19
 -->
