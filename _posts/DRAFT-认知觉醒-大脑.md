@@ -170,12 +170,20 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 后娱乐方法是培养耐心的好方法。让大脑知道耐心后一定有奖赏。 
 
+## 7个小球
+
+>你肯定很疑惑这种专注呼吸的活动怎么会与学习有关。但如果我把它比作大脑的“健身操”​，相信你马上就会明白其中的奥秘——大脑通过这种活动可以同时训练7个小球做一件事。**坚持这种练习，我们就能养成专注的习惯，将专注变成无意识的行为，平时也能自动抑制思维离散，控制涣散的精神。**
+
+这个动作能让自己能快速回复，并且重新专注。
+
+
+
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3MTQ4OTQwLDg5ODU1OTQ1MiwtMTIzOD
-AxMDk4NSwtMTc4NjkyOTg4MiwxNDIwODk3MDU5LDY0Njg2MjA0
-Niw1MjE3NzkxMjYsLTU1MzU1NzE4NSwtNDczNzM4MzcyLC0xOD
-EwOTU5ODEsMTE3OTYzNjg3LC0xNDU1ODM1ODgzLDExMDc3NzQx
-MTFdfQ==
+eyJoaXN0b3J5IjpbMTU4MjA3NDc0Niw4OTg1NTk0NTIsLTEyMz
+gwMTA5ODUsLTE3ODY5Mjk4ODIsMTQyMDg5NzA1OSw2NDY4NjIw
+NDYsNTIxNzc5MTI2LC01NTM1NTcxODUsLTQ3MzczODM3MiwtMT
+gxMDk1OTgxLDExNzk2MzY4NywtMTQ1NTgzNTg4MywxMTA3Nzc0
+MTExXX0=
 -->
