@@ -96,7 +96,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 从寻找事情的意义和个人使命的角度出发，本能脑和情绪脑受到激励，更容易进入心流状态。在这个状态中，他们不会在乎外部行为，是在玩手机还是读书写作业，他们都一发不可收拾了。
 
-> 所以，想办法让本能脑和情绪脑感受到困难事物的乐趣并上瘾，才是理智脑的高级策略[插图]。学会释放本能脑和情绪脑的强大力量，我们就会无往不胜！
+> 所以，想办法让本能脑和情绪脑感受到困难事物的乐趣并上瘾，才是理智脑的高级策略。学会释放本能脑和情绪脑的强大力量，我们就会无往不胜！
 
 ## 7个小球
 
@@ -144,9 +144,9 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxMTY5NzI5LDg5ODU1OTQ1MiwtMTIzOD
-AxMDk4NSwtMTc4NjkyOTg4MiwxNDIwODk3MDU5LDY0Njg2MjA0
-Niw1MjE3NzkxMjYsLTU1MzU1NzE4NSwtNDczNzM4MzcyLC0xOD
-EwOTU5ODEsMTE3OTYzNjg3LC0xNDU1ODM1ODgzLDExMDc3NzQx
-MTFdfQ==
+eyJoaXN0b3J5IjpbLTYyNDQwMTQ4MSw4OTg1NTk0NTIsLTEyMz
+gwMTA5ODUsLTE3ODY5Mjk4ODIsMTQyMDg5NzA1OSw2NDY4NjIw
+NDYsNTIxNzc5MTI2LC01NTM1NTcxODUsLTQ3MzczODM3MiwtMT
+gxMDk1OTgxLDExNzk2MzY4NywtMTQ1NTgzNTg4MywxMTA3Nzc0
+MTExXX0=
 -->
