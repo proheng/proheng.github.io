@@ -135,7 +135,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 > 跳出自身、从他处反观自己的能力，就是人类认识上的终极能力
 
-所有动物照镜子，都认为镜子里那个同类是另外一个
+所有动物（除了人和大猩猩）照镜子，都认为镜子里那个同类是另外一个个体。我们家整天有鸟敲我们的玻璃窗，因为，他们看到镜子里的另外一个个体。而
 
 简单记住：**3 7 1  + 耐心**
 
@@ -188,9 +188,9 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyODYyMDI4LC0xNzMyMTEzNTA5LDg5OD
-U1OTQ1MiwtMTIzODAxMDk4NSwtMTc4NjkyOTg4MiwxNDIwODk3
-MDU5LDY0Njg2MjA0Niw1MjE3NzkxMjYsLTU1MzU1NzE4NSwtND
-czNzM4MzcyLC0xODEwOTU5ODEsMTE3OTYzNjg3LC0xNDU1ODM1
-ODgzLDExMDc3NzQxMTFdfQ==
+eyJoaXN0b3J5IjpbLTY0MTQ5Mzk4MSwtMTczMjExMzUwOSw4OT
+g1NTk0NTIsLTEyMzgwMTA5ODUsLTE3ODY5Mjk4ODIsMTQyMDg5
+NzA1OSw2NDY4NjIwNDYsNTIxNzc5MTI2LC01NTM1NTcxODUsLT
+Q3MzczODM3MiwtMTgxMDk1OTgxLDExNzk2MzY4NywtMTQ1NTgz
+NTg4MywxMTA3Nzc0MTExXX0=
 -->
