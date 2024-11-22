@@ -90,7 +90,8 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 3. 面对困难，主动改变视角，赋予学习意义
 
-本能脑和情绪脑确实畏惧困难，只会享乐，但是有一种方法可以让他们从困难的事情中享受到乐趣。科学家废寝忘食地研究，他们乐在其中，一旦本能脑和情绪脑进入任何形式的心流状态，他们不会在乎行为，你是玩手机还是
+本能脑和情绪脑确实畏惧困难，只会享乐，但是有一种方法可以让他们从困难的事情中享受到乐趣。这就是让理智脑从认知上（包括心理暗示的做法）帮助本能脑
+科学家废寝忘食地研究，他们乐在其中，一旦本能脑和情绪脑进入任何形式的心流状态，他们不会在乎行为，你是在玩手机还是读书写作业
 
 
 ## 7个小球
@@ -139,9 +140,9 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MTQ3MDI3NSw4OTg1NTk0NTIsLTEyMz
-gwMTA5ODUsLTE3ODY5Mjk4ODIsMTQyMDg5NzA1OSw2NDY4NjIw
-NDYsNTIxNzc5MTI2LC01NTM1NTcxODUsLTQ3MzczODM3MiwtMT
-gxMDk1OTgxLDExNzk2MzY4NywtMTQ1NTgzNTg4MywxMTA3Nzc0
-MTExXX0=
+eyJoaXN0b3J5IjpbMjgxMzk5MzEzLDg5ODU1OTQ1MiwtMTIzOD
+AxMDk4NSwtMTc4NjkyOTg4MiwxNDIwODk3MDU5LDY0Njg2MjA0
+Niw1MjE3NzkxMjYsLTU1MzU1NzE4NSwtNDczNzM4MzcyLC0xOD
+EwOTU5ODEsMTE3OTYzNjg3LC0xNDU1ODM1ODgzLDExMDc3NzQx
+MTFdfQ==
 -->
