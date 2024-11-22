@@ -72,7 +72,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 > 如果我们能学会在舒适区边缘努力，那么收获的效果和信心就会完全不同，因为舒适区边缘是既有成就又有挑战的区域，也是进步最快的区域
 
-随着时间的推移
+因此，我们需要的耐心和信心。我们相信我们把知识或技能
 
 ## 7个小球
 
@@ -113,8 +113,8 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODY5Mjk4ODIsMTQyMDg5NzA1OSw2ND
-Y4NjIwNDYsNTIxNzc5MTI2LC01NTM1NTcxODUsLTQ3MzczODM3
-MiwtMTgxMDk1OTgxLDExNzk2MzY4NywtMTQ1NTgzNTg4MywxMT
-A3Nzc0MTExXX0=
+eyJoaXN0b3J5IjpbODQ1MTAyNzUwLC0xNzg2OTI5ODgyLDE0Mj
+A4OTcwNTksNjQ2ODYyMDQ2LDUyMTc3OTEyNiwtNTUzNTU3MTg1
+LC00NzM3MzgzNzIsLTE4MTA5NTk4MSwxMTc5NjM2ODcsLTE0NT
+U4MzU4ODMsMTEwNzc3NDExMV19
 -->
