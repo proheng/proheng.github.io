@@ -147,7 +147,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 > 一个未开启元认知能力的人会无意识地顺着感觉和喜好行事，无论在生理上还是在精神上，都会不自觉地追求眼前那些舒适和简单的事。
 
-因此，还没有开启元认知的人，理智脑做决定时
+因此，还没有开启元认知的人，理智脑做决定时更容易随风摇摆，甚至前后不一。在学习方面很容易受到外界事物的引诱吸引，经常分心走人而不自知。把自身的
 
 
 简单记住：**3 7 1  + 耐心**
@@ -201,7 +201,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjYzNjkwOTgsMTIzNTE3MDAxNiwxNz
+eyJoaXN0b3J5IjpbLTEzMjM3MzUyNDksMTIzNTE3MDAxNiwxNz
 g1NDUzMzkzLC0xNjMyMzkwMzA4LC0xNzMyMTEzNTA5LDg5ODU1
 OTQ1MiwtMTIzODAxMDk4NSwtMTc4NjkyOTg4MiwxNDIwODk3MD
 U5LDY0Njg2MjA0Niw1MjE3NzkxMjYsLTU1MzU1NzE4NSwtNDcz
