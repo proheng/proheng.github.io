@@ -94,9 +94,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 科学家废寝忘食地研究，他们乐在其中。他们也许大多都对自己说过，“这项研究可以造福千千万万人。我看到了，那千千万万双期待的眼神，他们甚至有点苦苦相求，希望我能在这项研究上突破，成就一代之攻业。” 。我说得可能有点夸张，甚至自欺欺人。但，却是这样的自欺心里暗示和自我解释引导着一代代科学家前仆后继地为科学研究献上毕生努力。因为，他们把自己手头行看来常人所不能的事情看成是**自己的使命**了。
 
-从寻找事情的意义
-
-一旦本能脑和情绪脑进入任何形式的心流状态，他们不会在乎行为，你是在玩手机还是读书写作业
+从寻找事情的意义和个人使命的角度出发，本能脑和情绪脑受到激励，更容易进入心流状态。在这个状态中，他们不会在乎外部行为，是在玩手机还是读书写作业，他们都一发不可收拾了。
 
 > 所以，想办法让本能脑和情绪脑感受到困难事物的乐趣并上瘾，才是理智脑的高级策略[插图]。学会释放本能脑和情绪脑的强大力量，我们就会无往不胜！
 
@@ -146,9 +144,9 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI0Nzc5MjQsODk4NTU5NDUyLC0xMj
-M4MDEwOTg1LC0xNzg2OTI5ODgyLDE0MjA4OTcwNTksNjQ2ODYy
-MDQ2LDUyMTc3OTEyNiwtNTUzNTU3MTg1LC00NzM3MzgzNzIsLT
-E4MTA5NTk4MSwxMTc5NjM2ODcsLTE0NTU4MzU4ODMsMTEwNzc3
-NDExMV19
+eyJoaXN0b3J5IjpbNDAxMTY5NzI5LDg5ODU1OTQ1MiwtMTIzOD
+AxMDk4NSwtMTc4NjkyOTg4MiwxNDIwODk3MDU5LDY0Njg2MjA0
+Niw1MjE3NzkxMjYsLTU1MzU1NzE4NSwtNDczNzM4MzcyLC0xOD
+EwOTU5ODEsMTE3OTYzNjg3LC0xNDU1ODM1ODgzLDExMDc3NzQx
+MTFdfQ==
 -->
