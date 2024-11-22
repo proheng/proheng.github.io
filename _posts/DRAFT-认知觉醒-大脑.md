@@ -103,7 +103,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 小球是就是我们的工作记忆。
 > 所谓工作记忆，就是在大脑中对正在处理的信息进行瞬时及有意识加工的这部分记忆，简单来说就是理智脑可以使用的脑力资源。人类的大脑看起来很厉害，但意识所能处理的信息数量并不多，大概只有7±2个，有的人多些，有的人少些，但都在7个左右。
 
-在情绪脑的作用下，7个小球的效用会大有不同。在正面积极的情绪下，7个小球会更好工作，反之，小球会
+在情绪脑的作用下，7个小球的效用会大有不同。在正面积极的情绪下，7个小球会更好工作，反之，小球的作用会大打折扣。你有试过
 
 
 ## 一对翅膀
@@ -150,7 +150,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDMxMTg0OSw4OTg1NTk0NTIsLTEyMz
+eyJoaXN0b3J5IjpbMTU4MjczNDEzMyw4OTg1NTk0NTIsLTEyMz
 gwMTA5ODUsLTE3ODY5Mjk4ODIsMTQyMDg5NzA1OSw2NDY4NjIw
 NDYsNTIxNzc5MTI2LC01NTM1NTcxODUsLTQ3MzczODM3MiwtMT
 gxMDk1OTgxLDExNzk2MzY4NywtMTQ1NTgzNTg4MywxMTA3Nzc0
