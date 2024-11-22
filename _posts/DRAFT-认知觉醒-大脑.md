@@ -62,7 +62,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 另外，学习具有平台期和上升期。
 
 > 平台期。这个规律表明，学习进展和时间的关系并不是我们想象中的那种线性关系（学多少是多少）​，而是呈现一种波浪式上升曲线
-
+![enter image description here](/assets/%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-%E5%AD%A6%E4%B9%A0%E6%9B%B2%E7%BA%BF.png)
 
 
 > **当我们清楚了上述规律后，就能在起步遇挫或暂时坚持无果时做出与他人不同的选择：有人选择放弃，而我们继续坚持。**同时，我们不会因自己进步缓慢而沮丧，也不会因别人成长迅速而焦虑。毕竟每个人所处的学习阶段不同，只要继续坚持，我们就能达到同样的水平。从这个角度看，**耐心不是毅力带来的结果，而是具有长远目光的结果。**
@@ -106,7 +106,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxNzc5MTI2LC01NTM1NTcxODUsLTQ3Mz
-czODM3MiwtMTgxMDk1OTgxLDExNzk2MzY4NywtMTQ1NTgzNTg4
-MywxMTA3Nzc0MTExXX0=
+eyJoaXN0b3J5IjpbNjQ2ODYyMDQ2LDUyMTc3OTEyNiwtNTUzNT
+U3MTg1LC00NzM3MzgzNzIsLTE4MTA5NTk4MSwxMTc5NjM2ODcs
+LTE0NTU4MzU4ODMsMTEwNzc3NDExMV19
 -->
