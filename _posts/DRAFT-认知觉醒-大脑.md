@@ -55,8 +55,9 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 - 在学习或练习初期，我们做不好或一时看不到进步很正常。
 在初次接触新知识或技能时，大脑还没有反应过来，要不要决定开始建立神经元连接。因此，大脑会尝试用固有的连接去接受新的知识或技能（这也能解释骑自行车人比较容易学会滑板车，反之亦然。因为，滑板车和自行车的需要的身体平衡原理类似，大脑可以使用骑自行车的固有神经元连接，暂时更容易地学习滑板车的基本动作）。等到这个学习被不断重复了，新的神经元连接才会逐步建立，知识或技能，就不容易被遗忘了。
 
-- 没有人是学不会、学不好。
 
+- 没有人是学不会、学不好。
+大脑是有可塑性的，只是要时间去让他发生。这个过程因人而异，年轻人比年长者需要的时间更短。因为他们大脑的
 
 
 
@@ -101,7 +102,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI3NjI4NDUsLTU1MzU1NzE4NSwtND
-czNzM4MzcyLC0xODEwOTU5ODEsMTE3OTYzNjg3LC0xNDU1ODM1
-ODgzLDExMDc3NzQxMTFdfQ==
+eyJoaXN0b3J5IjpbMTMxNjQwNzYyMiwtNTUzNTU3MTg1LC00Nz
+M3MzgzNzIsLTE4MTA5NTk4MSwxMTc5NjM2ODcsLTE0NTU4MzU4
+ODMsMTEwNzc3NDExMV19
 -->
