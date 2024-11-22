@@ -135,7 +135,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 > 跳出自身、从他处反观自己的能力，就是人类认识上的终极能力
 
-所有动物（除了人和大猩猩）照镜子，都认为镜子里那个同类是另外一个个体。我们家整天有鸟敲我们的玻璃窗，因为，他们看到镜子里的另外一个个体。而
+所有动物（除了人和大猩猩）照镜子，都认为镜子里那个同类是另外一个个体。我们家整天有鸟敲我们的玻璃窗，因为，他们看到镜子里的另外一个个体。而大猩猩虽然能从镜子里认出自己，但是把镜子拿走后，他无法想象出另一个虚拟的自己。我猜如果你拍一段大猩猩的视频给回同一只大猩猩看，他可能
 
 简单记住：**3 7 1  + 耐心**
 
@@ -188,7 +188,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTQ5Mzk4MSwtMTczMjExMzUwOSw4OT
+eyJoaXN0b3J5IjpbMTM5Njg5ODQ1MiwtMTczMjExMzUwOSw4OT
 g1NTk0NTIsLTEyMzgwMTA5ODUsLTE3ODY5Mjk4ODIsMTQyMDg5
 NzA1OSw2NDY4NjIwNDYsNTIxNzc5MTI2LC01NTM1NTcxODUsLT
 Q3MzczODM3MiwtMTgxMDk1OTgxLDExNzk2MzY4NywtMTQ1NTgz
