@@ -141,7 +141,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 >人类不仅可以依靠理智来生活，还可以通过理智来观察自己的思维活动，找出其中不合理的地方，然后改进优化，不断做出更好的选择。
 
-换句话说，人是具有自省的能力，根据自己的现实情况，认知和理想，省察自己，然后为自己提出方案。整过程可以完全自己完成，实现真实的自我提升，不需要外部干预的。
+换句话说，人是具有自省的能力，省察自己的现实情况，通过提升认知，朝着理想中的自己，找出前进的方向，，然后对自己提出要求和进步方案。整过程可以完全自己完成，不需要外部干预的。
 
 
 简单记住：**3 7 1  + 耐心**
@@ -195,7 +195,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjMwNzkxNiwxNzg1NDUzMzkzLC0xNj
+eyJoaXN0b3J5IjpbLTc0NDYwNjczMCwxNzg1NDUzMzkzLC0xNj
 MyMzkwMzA4LC0xNzMyMTEzNTA5LDg5ODU1OTQ1MiwtMTIzODAx
 MDk4NSwtMTc4NjkyOTg4MiwxNDIwODk3MDU5LDY0Njg2MjA0Ni
 w1MjE3NzkxMjYsLTU1MzU1NzE4NSwtNDczNzM4MzcyLC0xODEw
