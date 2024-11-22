@@ -90,7 +90,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 3. 面对困难，主动改变视角，赋予学习意义
 
-
+本能脑和情绪脑确实畏惧困难，只会享乐，但是有一种方法可以让他们从困难的事情中享受到乐趣。
 
 
 ## 7个小球
@@ -139,7 +139,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3NzkwNDU0LDg5ODU1OTQ1MiwtMTIzOD
+eyJoaXN0b3J5IjpbNTYwMDY3MDgzLDg5ODU1OTQ1MiwtMTIzOD
 AxMDk4NSwtMTc4NjkyOTg4MiwxNDIwODk3MDU5LDY0Njg2MjA0
 Niw1MjE3NzkxMjYsLTU1MzU1NzE4NSwtNDczNzM4MzcyLC0xOD
 EwOTU5ODEsMTE3OTYzNjg3LC0xNDU1ODM1ODgzLDExMDc3NzQx
