@@ -78,13 +78,18 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 1. 面对**天性**，放下心理包袱，坦然接纳自己
 培养耐心是一个长期过程，甚至是一辈子的事情。我们不需要因为一两次的没耐心而产生负面情绪。反而应该正面地鼓励自己，体谅自己。
+
+自我对话建议：
 > 一旦觉察自己开始失去耐心了，就温和地对自己说：“你看，我身体里那个原始人又出来了，让他离开丛林到城市生活，确实挺不容易的，要理解他。​”
 
 2. 面对**诱惑**，学会延迟满足，变对抗为沟通
 舒适和诱惑是本能脑与情绪脑最爱的，理智脑是无力与之对抗。理智脑可以更巧妙更有策略地引导。
+
+自我对话建议：
 > 温和地告诉它们：“该有的享受一点都不会少，只是不是**现在**享受，而是在完成重要的事情之后。​”这是一个有效的策略，因为放弃享受，它们是不会同意的，但延迟享受，它们是能接受的。
 
 3. 面对困难，主动改变视角，赋予学习意义
+
 
 
 
@@ -134,8 +139,9 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4NTU5NDUyLC0xMjM4MDEwOTg1LC0xNz
-g2OTI5ODgyLDE0MjA4OTcwNTksNjQ2ODYyMDQ2LDUyMTc3OTEy
-NiwtNTUzNTU3MTg1LC00NzM3MzgzNzIsLTE4MTA5NTk4MSwxMT
-c5NjM2ODcsLTE0NTU4MzU4ODMsMTEwNzc3NDExMV19
+eyJoaXN0b3J5IjpbNTg3NzkwNDU0LDg5ODU1OTQ1MiwtMTIzOD
+AxMDk4NSwtMTc4NjkyOTg4MiwxNDIwODk3MDU5LDY0Njg2MjA0
+Niw1MjE3NzkxMjYsLTU1MzU1NzE4NSwtNDczNzM4MzcyLC0xOD
+EwOTU5ODEsMTE3OTYzNjg3LC0xNDU1ODM1ODgzLDExMDc3NzQx
+MTFdfQ==
 -->
