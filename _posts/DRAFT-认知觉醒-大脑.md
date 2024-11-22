@@ -224,9 +224,11 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 我觉得本能大脑最不容易动摇和改变，情绪大脑相对容易点被调整，只要理智大脑策略得当，情绪大脑就可以被调动起来，然后，从而引起本能大脑的行动。因此，书本的方法论也是在认知层面提升我们的理智大脑，让我们装备好，在应付不同场景的困难是，这些知识和道理能发挥作用。
 
-当然，我们都需要坦然承认自己的不完美，才
+当然，我们都需要坦然承认自己的不完美，正面面对自己的问题而进行思考改善方法。
+
+作为我个人，一个成年人和父亲，保持开放谦卑地态度，能帮助我打开元认知自省的一面，从di san fang
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODUwODMyNSwtMTI4NTIyNTAxNSwtMT
+eyJoaXN0b3J5IjpbLTQzNDU3MDI5NCwtMTI4NTIyNTAxNSwtMT
 Y4NDA1OTE3NiwtMTkzMjQ1MTU5NiwxMjM1MTcwMDE2LDE3ODU0
 NTMzOTMsLTE2MzIzOTAzMDgsLTE3MzIxMTM1MDksODk4NTU5ND
 UyLC0xMjM4MDEwOTg1LC0xNzg2OTI5ODgyLDE0MjA4OTcwNTks
