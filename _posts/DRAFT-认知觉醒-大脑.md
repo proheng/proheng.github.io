@@ -164,8 +164,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 如何获得元认知呢？其实就是就是 1.提高认知，2.时常反思，3.凝神呼吸（让自己恢复经理，清空杂念）。这也就是提高理智脑的方法。
 
-
-最后，总结一下，简单记住：**3 7 1  + 耐心** 3个大脑，7个小球（专注力），1对翅膀（元认知）+ 耐心。
+最后，总结一下，简单记住：**3 7 1  + 耐心** 3个大脑，7个小球（专注力），1对翅膀（元认知）+ 耐心。这就是我们《认知觉醒》学习方法论的科学基础所在。
 
 # 摘抄
 
@@ -221,11 +220,11 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzg2ODc5NSwtMTY4NDA1OTE3NiwtMT
-kzMjQ1MTU5NiwxMjM1MTcwMDE2LDE3ODU0NTMzOTMsLTE2MzIz
-OTAzMDgsLTE3MzIxMTM1MDksODk4NTU5NDUyLC0xMjM4MDEwOT
-g1LC0xNzg2OTI5ODgyLDE0MjA4OTcwNTksNjQ2ODYyMDQ2LDUy
-MTc3OTEyNiwtNTUzNTU3MTg1LC00NzM3MzgzNzIsLTE4MTA5NT
-k4MSwxMTc5NjM2ODcsLTE0NTU4MzU4ODMsMTEwNzc3NDExMV19
-
+eyJoaXN0b3J5IjpbLTEyODUyMjUwMTUsLTE2ODQwNTkxNzYsLT
+E5MzI0NTE1OTYsMTIzNTE3MDAxNiwxNzg1NDUzMzkzLC0xNjMy
+MzkwMzA4LC0xNzMyMTEzNTA5LDg5ODU1OTQ1MiwtMTIzODAxMD
+k4NSwtMTc4NjkyOTg4MiwxNDIwODk3MDU5LDY0Njg2MjA0Niw1
+MjE3NzkxMjYsLTU1MzU1NzE4NSwtNDczNzM4MzcyLC0xODEwOT
+U5ODEsMTE3OTYzNjg3LC0xNDU1ODM1ODgzLDExMDc3NzQxMTFd
+fQ==
 -->
