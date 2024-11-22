@@ -143,7 +143,11 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 换句话说，人是具有自省的能力，省察自己的现实情况，通过提升认知，朝着理想中的自己，找出前进的方向，并为之付出行动。整过程可以在元认知的加持下完全由自我来主导，不需要依靠外部干预。
 
-然而，元认知非与生倶来，需要通过后天开启并加以锻炼。至少在理智脑成熟前，这个能力都不明显。“一个人需要长到12岁（小学六年级）左右才能慢慢具备主动的自我反省能力，而在此之前，人们只能从自己的视角出发理解一切事物，注意力也很容易被外界的事物牵引着走。”。因此，在求学阶段，年幼学生可以做到的是“学习，理解，记忆，运算”等单向接收能力。把知识学习到并运用出来。而“觉察，反思，审视，选择，批判”等能力很少获得锻炼，也不容易
+然而，元认知非与生倶来，需要通过后天开启并加以锻炼。至少在理智脑成熟前，这个能力都不明显。“一个人需要长到12岁（小学六年级）左右才能慢慢具备主动的自我反省能力，而在此之前，人们只能从自己的视角出发理解一切事物，注意力也很容易被外界的事物牵引着走。”。因此，在求学阶段，年幼学生可以做到的是“学习，理解，记忆，运算”等单向接收能力。把知识学习到并运用出来。而“觉察，反思，审视，选择，批判”等能力很少获得锻炼，也不容易得到开启。
+
+> 一个未开启元认知能力的人会无意识地顺着感觉和喜好行事，无论在生理上还是在精神上，都会不自觉地追求眼前那些舒适和简单的事。
+
+因此，还没有开启元认知的人，理智脑做决定时
 
 
 简单记住：**3 7 1  + 耐心**
@@ -197,10 +201,10 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Mjc2MTIzMCwxMjM1MTcwMDE2LDE3OD
-U0NTMzOTMsLTE2MzIzOTAzMDgsLTE3MzIxMTM1MDksODk4NTU5
-NDUyLC0xMjM4MDEwOTg1LC0xNzg2OTI5ODgyLDE0MjA4OTcwNT
-ksNjQ2ODYyMDQ2LDUyMTc3OTEyNiwtNTUzNTU3MTg1LC00NzM3
-MzgzNzIsLTE4MTA5NTk4MSwxMTc5NjM2ODcsLTE0NTU4MzU4OD
-MsMTEwNzc3NDExMV19
+eyJoaXN0b3J5IjpbLTExNjYzNjkwOTgsMTIzNTE3MDAxNiwxNz
+g1NDUzMzkzLC0xNjMyMzkwMzA4LC0xNzMyMTEzNTA5LDg5ODU1
+OTQ1MiwtMTIzODAxMDk4NSwtMTc4NjkyOTg4MiwxNDIwODk3MD
+U5LDY0Njg2MjA0Niw1MjE3NzkxMjYsLTU1MzU1NzE4NSwtNDcz
+NzM4MzcyLC0xODEwOTU5ODEsMTE3OTYzNjg3LC0xNDU1ODM1OD
+gzLDExMDc3NzQxMTFdfQ==
 -->
