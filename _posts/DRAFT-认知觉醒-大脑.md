@@ -216,11 +216,11 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 ## 元认知
 > 从更大的角度看，元认知能力也是我们人生觉醒的关键。因为人有两次生命，一次是出生，一次是觉醒。而觉醒的标志，就是有一天你开始成为自己的思维舵手，开始主动掌控自己的思想和言行，追求自己的目标和使命，不再浑浑噩噩、随波逐流。
 
-觉醒
+我认为，这里的觉醒不是一瞬间的事情，而是要经历一个很长的
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MDYzNTc0MSwtMTY4NDA1OTE3NiwtMT
+eyJoaXN0b3J5IjpbLTI1MzEzMjM1OSwtMTY4NDA1OTE3NiwtMT
 kzMjQ1MTU5NiwxMjM1MTcwMDE2LDE3ODU0NTMzOTMsLTE2MzIz
 OTAzMDgsLTE3MzIxMTM1MDksODk4NTU5NDUyLC0xMjM4MDEwOT
 g1LC0xNzg2OTI5ODgyLDE0MjA4OTcwNTksNjQ2ODYyMDQ2LDUy
