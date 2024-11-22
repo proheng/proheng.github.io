@@ -125,7 +125,9 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 2. 闭目凝神专注呼吸
 
-这个动作只在休息和重聚专注力，培养主动控制注意力。个人认为，专注力是有极限时长，当然，可以通过练习而加长持久度。但是，总是有个限度。在我们到达限度的时候，我们会不由自主开小差，大脑也尝试离开学习状态
+这个动作只在休息和重聚专注力，培养主动控制注意力。
+
+个人认为，专注力是有极限时长，当然，可以通过练习而加长持久度。但是，总是有个限度。在我们到达限度的时候，我们会不由自主开小差，大脑也尝试离开学习状态。这个时候，可以闭目凝神专注呼吸。
 
 ## 一对翅膀
 
@@ -171,7 +173,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTk2NjYzLDg5ODU1OTQ1MiwtMTIzOD
+eyJoaXN0b3J5IjpbOTY3MTQ4OTQwLDg5ODU1OTQ1MiwtMTIzOD
 AxMDk4NSwtMTc4NjkyOTg4MiwxNDIwODk3MDU5LDY0Njg2MjA0
 Niw1MjE3NzkxMjYsLTU1MzU1NzE4NSwtNDczNzM4MzcyLC0xOD
 EwOTU5ODEsMTE3OTYzNjg3LC0xNDU1ODM1ODgzLDExMDc3NzQx
