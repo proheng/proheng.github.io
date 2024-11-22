@@ -162,7 +162,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 - 总能在高处俯瞰全局，不会一头扎进时间和行动的细节里。
 这种大局感必须经过长期的积累和训练，让我们在执行细节行动的时候，时刻想着全局的进度。也避免因为某个细节而影响全局。
 
-如何获得元认知呢？
+如何获得元认知呢？其实就是就是san
 
 简单记住：**3 7 1  + 耐心**
 
@@ -215,10 +215,11 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQwNTkxNzYsLTE5MzI0NTE1OTYsMT
-IzNTE3MDAxNiwxNzg1NDUzMzkzLC0xNjMyMzkwMzA4LC0xNzMy
-MTEzNTA5LDg5ODU1OTQ1MiwtMTIzODAxMDk4NSwtMTc4NjkyOT
-g4MiwxNDIwODk3MDU5LDY0Njg2MjA0Niw1MjE3NzkxMjYsLTU1
-MzU1NzE4NSwtNDczNzM4MzcyLC0xODEwOTU5ODEsMTE3OTYzNj
-g3LC0xNDU1ODM1ODgzLDExMDc3NzQxMTFdfQ==
+eyJoaXN0b3J5IjpbLTExOTQzNzEwMDgsLTE2ODQwNTkxNzYsLT
+E5MzI0NTE1OTYsMTIzNTE3MDAxNiwxNzg1NDUzMzkzLC0xNjMy
+MzkwMzA4LC0xNzMyMTEzNTA5LDg5ODU1OTQ1MiwtMTIzODAxMD
+k4NSwtMTc4NjkyOTg4MiwxNDIwODk3MDU5LDY0Njg2MjA0Niw1
+MjE3NzkxMjYsLTU1MzU1NzE4NSwtNDczNzM4MzcyLC0xODEwOT
+U5ODEsMTE3OTYzNjg3LC0xNDU1ODM1ODgzLDExMDc3NzQxMTFd
+fQ==
 -->
