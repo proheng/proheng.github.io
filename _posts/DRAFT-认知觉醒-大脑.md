@@ -129,13 +129,13 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 > 多次体验之后，身体里的原始人也会倾向于支持“后娱乐”​，毕竟这样更舒适。如果你养成习惯，优先完成作业后产生的满足感也可能取代娱乐带来的直接快感——既然有高层次的享受可选，你对低层次的享受自然就不那么想要了。
 > 当然，习惯养成之路绝不像我讲的这么轻松，有时候，那种“不玩不舒服”的冲动实在是太强烈了。怎么办？策略依旧是和自己对话：“就玩一下，5分钟，时间一到马上结束。​”不要强行对抗，也不要自责，让冲动适当缓解一下也很有效。
 
-后娱乐 
+后娱乐方法是培养耐心的好方法。让大脑知道耐心后一定有奖赏。 
 
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODg1MDYyNywtMTIzODAxMDk4NSwtMT
-c4NjkyOTg4MiwxNDIwODk3MDU5LDY0Njg2MjA0Niw1MjE3Nzkx
-MjYsLTU1MzU1NzE4NSwtNDczNzM4MzcyLC0xODEwOTU5ODEsMT
-E3OTYzNjg3LC0xNDU1ODM1ODgzLDExMDc3NzQxMTFdfQ==
+eyJoaXN0b3J5IjpbODk4NTU5NDUyLC0xMjM4MDEwOTg1LC0xNz
+g2OTI5ODgyLDE0MjA4OTcwNTksNjQ2ODYyMDQ2LDUyMTc3OTEy
+NiwtNTUzNTU3MTg1LC00NzM3MzgzNzIsLTE4MTA5NTk4MSwxMT
+c5NjM2ODcsLTE0NTU4MzU4ODMsMTEwNzc3NDExMV19
 -->
