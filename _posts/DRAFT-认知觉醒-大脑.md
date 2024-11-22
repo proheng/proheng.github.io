@@ -150,10 +150,11 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 因此，还没有开启元认知的人，理智脑做决定时更容易随风摇摆，甚至前后不一。在学习方面很容易受到外界事物的引诱吸引，经常分心走人而不自知。把自身的问题推向外部，因为他缺乏对自我的觉察能力。只看到外部而非自身。
 
 那么元认知能如何提升我们呢？
-- 他们能主动控制注意力，不会被随机、有趣的信息随意支配。
-- 其次，他们能及时审视自己的第一反应。
-- 再次，他们能用未来视角审视现在。
-- 最后，他们总能在高处俯瞰全局，不会一头扎进时间和行动的细节里。
+- 主动控制注意力，不会被随机、有趣的信息随意支配
+- 及时审视自己的第一反应
+- 
+- 能用未来视角审视现在。
+- 总能在高处俯瞰全局，不会一头扎进时间和行动的细节里。
 
 
 简单记住：**3 7 1  + 耐心**
@@ -207,10 +208,10 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5Mzc0NDE3NywxMjM1MTcwMDE2LDE3OD
-U0NTMzOTMsLTE2MzIzOTAzMDgsLTE3MzIxMTM1MDksODk4NTU5
-NDUyLC0xMjM4MDEwOTg1LC0xNzg2OTI5ODgyLDE0MjA4OTcwNT
-ksNjQ2ODYyMDQ2LDUyMTc3OTEyNiwtNTUzNTU3MTg1LC00NzM3
-MzgzNzIsLTE4MTA5NTk4MSwxMTc5NjM2ODcsLTE0NTU4MzU4OD
-MsMTEwNzc3NDExMV19
+eyJoaXN0b3J5IjpbLTE0OTc5ODU3MzksMTIzNTE3MDAxNiwxNz
+g1NDUzMzkzLC0xNjMyMzkwMzA4LC0xNzMyMTEzNTA5LDg5ODU1
+OTQ1MiwtMTIzODAxMDk4NSwtMTc4NjkyOTg4MiwxNDIwODk3MD
+U5LDY0Njg2MjA0Niw1MjE3NzkxMjYsLTU1MzU1NzE4NSwtNDcz
+NzM4MzcyLC0xODEwOTU5ODEsMTE3OTYzNjg3LC0xNDU1ODM1OD
+gzLDExMDc3NzQxMTFdfQ==
 -->
