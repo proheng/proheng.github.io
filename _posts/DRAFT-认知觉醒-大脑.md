@@ -152,7 +152,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 那么元认知能如何提升我们呢？
 - 主动控制注意力，不会被随机、有趣的信息随意支配
 - 及时审视自己的第一反应
-我们对任何人和事的第一反应往往受到情绪脑的干扰。因为情绪脑总是比理智脑反应的迅速，
+我们对任何人和事的第一反应往往受到情绪脑的干扰。因为情绪脑总是比理智脑反应的迅速，然后，情绪脑看问题更浅层和片面。理智脑里的元认知，帮助我们抹开情绪的雾霾，冷静下来分析出事实的真相。
 - 能用未来视角审视现在。
 - 总能在高处俯瞰全局，不会一头扎进时间和行动的细节里。
 
@@ -208,7 +208,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjE0Mzk2NywxMjM1MTcwMDE2LDE3OD
+eyJoaXN0b3J5IjpbLTgwOTI0MjM0NywxMjM1MTcwMDE2LDE3OD
 U0NTMzOTMsLTE2MzIzOTAzMDgsLTE3MzIxMTM1MDksODk4NTU5
 NDUyLC0xMjM4MDEwOTg1LC0xNzg2OTI5ODgyLDE0MjA4OTcwNT
 ksNjQ2ODYyMDQ2LDUyMTc3OTEyNiwtNTUzNTU3MTg1LC00NzM3
