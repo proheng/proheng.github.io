@@ -105,7 +105,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 在情绪脑的作用下，7个小球的效用会大有不同。在正面积极的情绪下，7个小球会更好工作，反之，小球的作用会大打折扣。你有试过大发脾气之后，忘记了大脾气前自己在做什么吗？正是情绪脑影响着工作记忆的发挥，愤怒的情绪完全占据7了个小球，把之前的记忆推出去了。
 
-
+只要我们的注意力被某个巨大的事物吸引，我们的判断力、认知力、行动力和自控力都会下降
 
 
 ## 一对翅膀
@@ -152,7 +152,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTQ4NDc3NSw4OTg1NTk0NTIsLTEyMz
+eyJoaXN0b3J5IjpbMTQyNzk1MDg1Myw4OTg1NTk0NTIsLTEyMz
 gwMTA5ODUsLTE3ODY5Mjk4ODIsMTQyMDg5NzA1OSw2NDY4NjIw
 NDYsNTIxNzc5MTI2LC01NTM1NTcxODUsLTQ3MzczODM3MiwtMT
 gxMDk1OTgxLDExNzk2MzY4NywtMTQ1NTgzNTg4MywxMTA3Nzc0
