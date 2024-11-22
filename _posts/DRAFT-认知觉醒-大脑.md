@@ -44,7 +44,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 ## 获取耐心：耐心，是无坚不摧的学习品质
 
-首先，我们缺乏耐心是人类天性。人类发展
+首先，我们缺乏耐心是人类天性。人类科学发展的目的是提高生产力，换句话说，我们没有那么个多耐心等，迫切地需要提高速度和效率来满足我们无法耐心等待的理由。
 
 ## 7个小球
 
@@ -77,7 +77,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg1OTg1MjUxLC01NTM1NTcxODUsLTQ3Mz
-czODM3MiwtMTgxMDk1OTgxLDExNzk2MzY4NywtMTQ1NTgzNTg4
-MywxMTA3Nzc0MTExXX0=
+eyJoaXN0b3J5IjpbLTc0NDQ2NTc3NiwtNTUzNTU3MTg1LC00Nz
+M3MzgzNzIsLTE4MTA5NTk4MSwxMTc5NjM2ODcsLTE0NTU4MzU4
+ODMsMTEwNzc3NDExMV19
 -->
