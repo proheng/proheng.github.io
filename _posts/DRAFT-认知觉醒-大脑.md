@@ -51,7 +51,9 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 “在科学家看来，无论学习知识还是技能，其本质都是大脑中的神经元细胞在建立连接。” 这样的连接越稳固越通畅，我们的知识或者技能的运用就越纯熟。因此，要让掌握好知识或者技能，我们需要大量重复学习或训练。让大脑产生更多的神经元连接。
 
 而大脑在建立和巩固这些新的神经元连接时也有一套规律。
-－ 在学习或练习初期，我们
+
+- 在学习或练习初期，我们做不好或一时看不到进步很正常。
+大脑还没有反应过来决定开始建立神经元连接。
 
 
 
@@ -96,7 +98,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NDI1OTMyOSwtNTUzNTU3MTg1LC00Nz
+eyJoaXN0b3J5IjpbMTQxNjExODA1NSwtNTUzNTU3MTg1LC00Nz
 M3MzgzNzIsLTE4MTA5NTk4MSwxMTc5NjM2ODcsLTE0NTU4MzU4
 ODMsMTEwNzc3NDExMV19
 -->
