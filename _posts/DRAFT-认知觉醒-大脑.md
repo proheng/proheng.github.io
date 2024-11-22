@@ -103,7 +103,10 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 小球是就是我们的工作记忆。
 > 所谓工作记忆，就是在大脑中对正在处理的信息进行瞬时及有意识加工的这部分记忆，简单来说就是理智脑可以使用的脑力资源。人类的大脑看起来很厉害，但意识所能处理的信息数量并不多，大概只有7±2个，有的人多些，有的人少些，但都在7个左右。
 
+这7个小球的功效好坏预示着我们的
+
 > 只要我们的注意力被某个巨大的事物吸引，我们的判断力、认知力、行动力和自控力都会下降
+
 什么会影响着7个小球呢？
 
 - 情绪
@@ -161,9 +164,9 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0MzE5OTUzLDg5ODU1OTQ1MiwtMTIzOD
-AxMDk4NSwtMTc4NjkyOTg4MiwxNDIwODk3MDU5LDY0Njg2MjA0
-Niw1MjE3NzkxMjYsLTU1MzU1NzE4NSwtNDczNzM4MzcyLC0xOD
-EwOTU5ODEsMTE3OTYzNjg3LC0xNDU1ODM1ODgzLDExMDc3NzQx
-MTFdfQ==
+eyJoaXN0b3J5IjpbLTEwNTExODMxMDMsODk4NTU5NDUyLC0xMj
+M4MDEwOTg1LC0xNzg2OTI5ODgyLDE0MjA4OTcwNTksNjQ2ODYy
+MDQ2LDUyMTc3OTEyNiwtNTUzNTU3MTg1LC00NzM3MzgzNzIsLT
+E4MTA5NTk4MSwxMTc5NjM2ODcsLTE0NTU4MzU4ODMsMTEwNzc3
+NDExMV19
 -->
