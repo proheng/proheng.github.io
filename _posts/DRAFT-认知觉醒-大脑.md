@@ -132,6 +132,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 ## 一对翅膀
 
 
+
 简单记住：**3 7 1  + 耐心**
 
 # 摘抄
@@ -178,14 +179,14 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 > 如果你平时不具备练习的环境和条件，那你可以有意识地让自己保持身心合一的状态。比如，跑步时，全力感受抬腿摆臂、呼吸吐纳或迎面的微风；睡觉时，全力感受身体的紧张与松弛；吃饭时，全力感受饭菜的味道，体会味觉从有到无的整个过程，不要第一口饭菜还没吃完就急着往嘴里塞第二口饭菜……这样的注意力练习也同样有效
 
-这里强调的是张弛的节奏。我很享受跑步，就是在这个其中，我能体验到身心合一，大脑反而不会出现挥之不去的杂念。我很想说这是一种冥想。但是，
+这里强调的是张弛的节奏。我很享受跑步，就是在这个其中，我能体验到身心合一，大脑反而不会出现挥之不去的杂念。这不是一种冥想，而是动态的精力恢复。
 
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTI5NjUzMyw4OTg1NTk0NTIsLTEyMz
-gwMTA5ODUsLTE3ODY5Mjk4ODIsMTQyMDg5NzA1OSw2NDY4NjIw
-NDYsNTIxNzc5MTI2LC01NTM1NTcxODUsLTQ3MzczODM3MiwtMT
-gxMDk1OTgxLDExNzk2MzY4NywtMTQ1NTgzNTg4MywxMTA3Nzc0
-MTExXX0=
+eyJoaXN0b3J5IjpbLTE3MzIxMTM1MDksODk4NTU5NDUyLC0xMj
+M4MDEwOTg1LC0xNzg2OTI5ODgyLDE0MjA4OTcwNTksNjQ2ODYy
+MDQ2LDUyMTc3OTEyNiwtNTUzNTU3MTg1LC00NzM3MzgzNzIsLT
+E4MTA5NTk4MSwxMTc5NjM2ODcsLTE0NTU4MzU4ODMsMTEwNzc3
+NDExMV19
 -->
