@@ -100,6 +100,8 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 ## 7个小球
 
+
+
 ## 一对翅膀
 
 
@@ -144,7 +146,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDQwMTQ4MSw4OTg1NTk0NTIsLTEyMz
+eyJoaXN0b3J5IjpbMTEyNjkxNTQ3NSw4OTg1NTk0NTIsLTEyMz
 gwMTA5ODUsLTE3ODY5Mjk4ODIsMTQyMDg5NzA1OSw2NDY4NjIw
 NDYsNTIxNzc5MTI2LC01NTM1NTcxODUsLTQ3MzczODM3MiwtMT
 gxMDk1OTgxLDExNzk2MzY4NywtMTQ1NTgzNTg4MywxMTA3Nzc0
