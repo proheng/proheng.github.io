@@ -124,11 +124,18 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 耐心虽然天生缺乏，但是可以后天培养。
 
+> 以写作业为例。每次回到家，你可能都想先放松一下再写作业，但一放松就很可能会松上半小时，结果写作业时很难进入状态，就连玩的时候也会因为还有作业没完成而不能尽兴。所以，你进家门前，不妨用一分钟的时间和自己对话：“暂时忍耐一下，先做作业，之后再给自己专门留半小时或一小时，怎么玩都行。​”通过自我沟通和引导，本能脑和情绪脑产生了安全感，通常它们就舍得放手让理智脑插个队。
+> 这种**“后娱乐”**的好处是，将享乐的快感建立在完成作业后的成就感之上，很放松，也踏实，就**像一种奖赏**；而“先娱乐”虽然刚开始很快活，但精力会无限发散，拖延学习任务，随着时间的流逝，人也会空虚、焦虑。
+> 多次体验之后，身体里的原始人也会倾向于支持“后娱乐”​，毕竟这样更舒适。如果你养成习惯，优先完成作业后产生的满足感也可能取代娱乐带来的直接快感——既然有高层次的享受可选，你对低层次的享受自然就不那么想要了。
+> 当然，习惯养成之路绝不像我讲的这么轻松，有时候，那种“不玩不舒服”的冲动实在是太强烈了。怎么办？策略依旧是和自己对话：“就玩一下，5分钟，时间一到马上结束。​”不要强行对抗，也不要自责，让冲动适当缓解一下也很有效。
+
+后娱乐 
+
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTQ1MjkxLC0xMjM4MDEwOTg1LC0xNz
-g2OTI5ODgyLDE0MjA4OTcwNTksNjQ2ODYyMDQ2LDUyMTc3OTEy
-NiwtNTUzNTU3MTg1LC00NzM3MzgzNzIsLTE4MTA5NTk4MSwxMT
-c5NjM2ODcsLTE0NTU4MzU4ODMsMTEwNzc3NDExMV19
+eyJoaXN0b3J5IjpbMTM1ODg1MDYyNywtMTIzODAxMDk4NSwtMT
+c4NjkyOTg4MiwxNDIwODk3MDU5LDY0Njg2MjA0Niw1MjE3Nzkx
+MjYsLTU1MzU1NzE4NSwtNDczNzM4MzcyLC0xODEwOTU5ODEsMT
+E3OTYzNjg3LC0xNDU1ODM1ODgzLDExMDc3NzQxMTFdfQ==
 -->
