@@ -139,6 +139,9 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 ![enter image description here](/assets/%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-%E5%85%83%E8%AE%A4%E7%9F%A5.png)
 
+>人类不仅可以依靠理智来生活，还可以通过理智来观察自己的思维活动，找出其中不合理的地方，然后改进优化，不断做出更好的选择。
+
+
 
 
 简单记住：**3 7 1  + 耐心**
@@ -192,9 +195,9 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzIzOTAzMDgsLTE3MzIxMTM1MDksOD
-k4NTU5NDUyLC0xMjM4MDEwOTg1LC0xNzg2OTI5ODgyLDE0MjA4
-OTcwNTksNjQ2ODYyMDQ2LDUyMTc3OTEyNiwtNTUzNTU3MTg1LC
-00NzM3MzgzNzIsLTE4MTA5NTk4MSwxMTc5NjM2ODcsLTE0NTU4
-MzU4ODMsMTEwNzc3NDExMV19
+eyJoaXN0b3J5IjpbMTc4NTQ1MzM5MywtMTYzMjM5MDMwOCwtMT
+czMjExMzUwOSw4OTg1NTk0NTIsLTEyMzgwMTA5ODUsLTE3ODY5
+Mjk4ODIsMTQyMDg5NzA1OSw2NDY4NjIwNDYsNTIxNzc5MTI2LC
+01NTM1NTcxODUsLTQ3MzczODM3MiwtMTgxMDk1OTgxLDExNzk2
+MzY4NywtMTQ1NTgzNTg4MywxMTA3Nzc0MTExXX0=
 -->
