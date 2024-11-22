@@ -42,9 +42,9 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 对于这种情况，我们传统认为要培养自制力，加强自我监督，每日三省。这事实上是让理智脑，这个老三，和本能脑（老大）和情绪脑（老二）负面地对抗。其实并不利于全情投入。理智脑需要做到更多学习和认知上的提升，有效地疏导和引导老大和老二参与到合作上来。事实上这个是我们传统上说的，学习态度问题。书本接下来的章节会就这个问题提出不少建议。
 
-## 耐心
+## 获取耐心：耐心，是无坚不摧的学习品质
 
-
+首先，我们缺乏耐心是人类天性。人类发展
 
 ## 7个小球
 
@@ -77,7 +77,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzU1NzE4NSwtNDczNzM4MzcyLC0xOD
-EwOTU5ODEsMTE3OTYzNjg3LC0xNDU1ODM1ODgzLDExMDc3NzQx
-MTFdfQ==
+eyJoaXN0b3J5IjpbNjg1OTg1MjUxLC01NTM1NTcxODUsLTQ3Mz
+czODM3MiwtMTgxMDk1OTgxLDExNzk2MzY4NywtMTQ1NTgzNTg4
+MywxMTA3Nzc0MTExXX0=
 -->
