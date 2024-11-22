@@ -143,7 +143,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 换句话说，人是具有自省的能力，省察自己的现实情况，通过提升认知，朝着理想中的自己，找出前进的方向，并为之付出行动。整过程可以在元认知的加持下完全由自我来主导，不需要依靠外部干预。
 
-然而，元认知非与生倶来，需要通过后天开启并加以锻炼和t。至少在理智脑成熟前，这个能力都不明显。“一个人需要长到12岁（小学六年级）左右才能慢慢具备主动的自我反省能力，而在此之前，人们只能从自己的视角出发理解一切事物，注意力也很容易被外界的事物牵引着走。”。因此，在求学阶段，年幼学生可以做到的是“学习，理解，记忆，运算”等单向接收能力。把知识学习到并运用出来。而“觉察，反思，审视，选择，批判”等能力很少获得锻炼，也不容易得到开启。
+然而，元认知非与生倶来，需要通过后天开启并加以锻炼，才得以提升。至少在理智脑成熟前，这个能力都不明显。“一个人需要长到12岁（小学六年级）左右才能慢慢具备主动的自我反省能力，而在此之前，人们只能从自己的视角出发理解一切事物，注意力也很容易被外界的事物牵引着走。”。因此，在求学阶段，年幼学生可以做到的是“学习，理解，记忆，运算”等单向接收能力，把知识学习到并运用出来。而“觉察，反思，审视，选择，批判”等能力很少获得锻炼。
 
 > 一个未开启元认知能力的人会无意识地顺着感觉和喜好行事，无论在生理上还是在精神上，都会不自觉地追求眼前那些舒适和简单的事。
 
@@ -213,13 +213,18 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 这里强调的是张弛的节奏。我很享受跑步，就是在这个其中，我能体验到身心合一，大脑反而不会出现挥之不去的杂念。这不是一种冥想，而是动态的精力恢复。
 
 
+## 元认知
+> 从更大的角度看，元认知能力也是我们人生觉醒的关键。因为人有两次生命，一次是出生，一次是觉醒。而觉醒的标志，就是有一天你开始成为自己的思维舵手，开始主动掌控自己的思想和言行，追求自己的目标和使命，不再浑浑噩噩、随波逐流。
+
+觉醒
+
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzI4MzcxNzYsLTE2ODQwNTkxNzYsLT
-E5MzI0NTE1OTYsMTIzNTE3MDAxNiwxNzg1NDUzMzkzLC0xNjMy
-MzkwMzA4LC0xNzMyMTEzNTA5LDg5ODU1OTQ1MiwtMTIzODAxMD
-k4NSwtMTc4NjkyOTg4MiwxNDIwODk3MDU5LDY0Njg2MjA0Niw1
-MjE3NzkxMjYsLTU1MzU1NzE4NSwtNDczNzM4MzcyLC0xODEwOT
-U5ODEsMTE3OTYzNjg3LC0xNDU1ODM1ODgzLDExMDc3NzQxMTFd
-fQ==
+eyJoaXN0b3J5IjpbMTQ2MDYzNTc0MSwtMTY4NDA1OTE3NiwtMT
+kzMjQ1MTU5NiwxMjM1MTcwMDE2LDE3ODU0NTMzOTMsLTE2MzIz
+OTAzMDgsLTE3MzIxMTM1MDksODk4NTU5NDUyLC0xMjM4MDEwOT
+g1LC0xNzg2OTI5ODgyLDE0MjA4OTcwNTksNjQ2ODYyMDQ2LDUy
+MTc3OTEyNiwtNTUzNTU3MTg1LC00NzM3MzgzNzIsLTE4MTA5NT
+k4MSwxMTc5NjM2ODcsLTE0NTU4MzU4ODMsMTEwNzc3NDExMV19
+
 -->
