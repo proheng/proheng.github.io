@@ -65,7 +65,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 > **当我们清楚了上述规律后，就能在起步遇挫或暂时坚持无果时做出与他人不同的选择：有人选择放弃，而我们继续坚持。**同时，我们不会因自己进步缓慢而沮丧，也不会因别人成长迅速而焦虑。毕竟每个人所处的学习阶段不同，只要继续坚持，我们就能达到同样的水平。从这个角度看，**耐心不是毅力带来的结果，而是具有长远目光的结果。**
 
-除了学习进度外，学习的范围和难度也是有规律，需要我们的耐心。这个规律叫做”
+除了学习进度外，学习的范围和难度也是有规律，需要我们的耐心。这个规律叫做**“舒适区边缘”**
 
 
 
@@ -108,7 +108,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwMjYxNjk3LDY0Njg2MjA0Niw1MjE3Nz
-kxMjYsLTU1MzU1NzE4NSwtNDczNzM4MzcyLC0xODEwOTU5ODEs
-MTE3OTYzNjg3LC0xNDU1ODM1ODgzLDExMDc3NzQxMTFdfQ==
+eyJoaXN0b3J5IjpbLTE2MDQxNjI1NzIsNjQ2ODYyMDQ2LDUyMT
+c3OTEyNiwtNTUzNTU3MTg1LC00NzM3MzgzNzIsLTE4MTA5NTk4
+MSwxMTc5NjM2ODcsLTE0NTU4MzU4ODMsMTEwNzc3NDExMV19
 -->
