@@ -117,6 +117,10 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 - 其他会影响情绪的事情，例如，感情关系，对于学生来说，就是早恋和青春期和家人的关系。这两个关系会大大牵动着学生的这7个小球的发挥，也就只专注力。
 
+如何练习小球？
+
+1. 先处理心情，再处理事情
+处理心情的时候
 
 
 ## 一对翅膀
@@ -163,9 +167,9 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzY1MjQzOTMsODk4NTU5NDUyLC0xMj
-M4MDEwOTg1LC0xNzg2OTI5ODgyLDE0MjA4OTcwNTksNjQ2ODYy
-MDQ2LDUyMTc3OTEyNiwtNTUzNTU3MTg1LC00NzM3MzgzNzIsLT
-E4MTA5NTk4MSwxMTc5NjM2ODcsLTE0NTU4MzU4ODMsMTEwNzc3
-NDExMV19
+eyJoaXN0b3J5IjpbMzExNzIxMzY5LDg5ODU1OTQ1MiwtMTIzOD
+AxMDk4NSwtMTc4NjkyOTg4MiwxNDIwODk3MDU5LDY0Njg2MjA0
+Niw1MjE3NzkxMjYsLTU1MzU1NzE4NSwtNDczNzM4MzcyLC0xOD
+EwOTU5ODEsMTE3OTYzNjg3LC0xNDU1ODM1ODgzLDExMDc3NzQx
+MTFdfQ==
 -->
