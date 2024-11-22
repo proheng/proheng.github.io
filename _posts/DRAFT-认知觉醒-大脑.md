@@ -115,7 +115,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 - 不由自主开小差
 这7个小球并不完全受我们理智脑控制。我们在做一件事时，不经意地会分心，这个时候，就是有其他杂念进入，并占据了几种几个小球。让我们大脑工作效率下降。例如，在写作业的时候，突然想起某个电视剧的情节，某首不断循环的音乐，某节新闻，期待的事等等。
 
-- 其他
+- 其他会影响情绪的事情，例如，感情关系，对于学生来说，就是早恋和青春期
 
 
 
@@ -163,9 +163,9 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDczMzMyNiw4OTg1NTk0NTIsLTEyMz
-gwMTA5ODUsLTE3ODY5Mjk4ODIsMTQyMDg5NzA1OSw2NDY4NjIw
-NDYsNTIxNzc5MTI2LC01NTM1NTcxODUsLTQ3MzczODM3MiwtMT
-gxMDk1OTgxLDExNzk2MzY4NywtMTQ1NTgzNTg4MywxMTA3Nzc0
-MTExXX0=
+eyJoaXN0b3J5IjpbODEwNTQwNjksODk4NTU5NDUyLC0xMjM4MD
+EwOTg1LC0xNzg2OTI5ODgyLDE0MjA4OTcwNTksNjQ2ODYyMDQ2
+LDUyMTc3OTEyNiwtNTUzNTU3MTg1LC00NzM3MzgzNzIsLTE4MT
+A5NTk4MSwxMTc5NjM2ODcsLTE0NTU4MzU4ODMsMTEwNzc3NDEx
+MV19
 -->
