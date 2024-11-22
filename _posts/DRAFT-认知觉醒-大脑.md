@@ -53,7 +53,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 而大脑在建立和巩固这些新的神经元连接时也有一套规律。
 
 - 在学习或练习初期，我们做不好或一时看不到进步很正常。
-大脑还没有反应过来决定开始建立神经元连接。
+在初次接触新知识或技能时，大脑还没有反应过来，要不要决定开始建立神经元连接。因此，大脑会尝试用固有的连接去接受新的知识或技能。等到
 
 
 
@@ -98,7 +98,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjExODA1NSwtNTUzNTU3MTg1LC00Nz
-M3MzgzNzIsLTE4MTA5NTk4MSwxMTc5NjM2ODcsLTE0NTU4MzU4
-ODMsMTEwNzc3NDExMV19
+eyJoaXN0b3J5IjpbMjE0MzAzNDE3LC01NTM1NTcxODUsLTQ3Mz
+czODM3MiwtMTgxMDk1OTgxLDExNzk2MzY4NywtMTQ1NTgzNTg4
+MywxMTA3Nzc0MTExXX0=
 -->
