@@ -76,10 +76,12 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 ### 自我对话来培养耐心
 
-1. 面对天性，放下心理包袱，坦然接纳自己
-培养耐心是一个长期过程，甚至是一辈子的事情。我们不需要因为一两次的。“对自己表现出的任何急躁、焦虑、不耐烦，都不要感到自责和愧疚，一旦觉察自己开始失去耐心了，就温和地对自己说：‘你看，我身体里那个原始人又出来了，让他离开丛林到城市生活，确实挺不容易的，要理解他。​’”
+1. 面对**天性**，放下心理包袱，坦然接纳自己
+培养耐心是一个长期过程，甚至是一辈子的事情。我们不需要因为一两次的没耐心而产生负面情绪。反而应该正面地鼓励自己，体谅自己。
+> 一旦觉察自己开始失去耐心了，就温和地对自己说：“你看，我身体里那个原始人又出来了，让他离开丛林到城市生活，确实挺不容易的，要理解他。​”
 
-2. 面对诱惑，学会延迟满足，变对抗为沟通
+2. 面对**诱惑**，学会延迟满足，变对抗为沟通
+
 
 3. 面对困难，主动改变视角，赋予学习意义
 
@@ -124,7 +126,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyMTczNjE4LC0xMjM4MDEwOTg1LC0xNz
+eyJoaXN0b3J5IjpbMjM5NzU0NjQ4LC0xMjM4MDEwOTg1LC0xNz
 g2OTI5ODgyLDE0MjA4OTcwNTksNjQ2ODYyMDQ2LDUyMTc3OTEy
 NiwtNTUzNTU3MTg1LC00NzM3MzgzNzIsLTE4MTA5NTk4MSwxMT
 c5NjM2ODcsLTE0NTU4MzU4ODMsMTEwNzc3NDExMV19
