@@ -81,7 +81,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 > 一旦觉察自己开始失去耐心了，就温和地对自己说：“你看，我身体里那个原始人又出来了，让他离开丛林到城市生活，确实挺不容易的，要理解他。​”
 
 2. 面对**诱惑**，学会延迟满足，变对抗为沟通
-
+舒适和诱惑是本能脑与情绪脑最爱的，理智脑是无力与之对抗。理智脑可以更巧妙地引导
 
 3. 面对困难，主动改变视角，赋予学习意义
 
@@ -126,8 +126,8 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5NzU0NjQ4LC0xMjM4MDEwOTg1LC0xNz
-g2OTI5ODgyLDE0MjA4OTcwNTksNjQ2ODYyMDQ2LDUyMTc3OTEy
-NiwtNTUzNTU3MTg1LC00NzM3MzgzNzIsLTE4MTA5NTk4MSwxMT
-c5NjM2ODcsLTE0NTU4MzU4ODMsMTEwNzc3NDExMV19
+eyJoaXN0b3J5IjpbLTE3NDc2MjQwODIsLTEyMzgwMTA5ODUsLT
+E3ODY5Mjk4ODIsMTQyMDg5NzA1OSw2NDY4NjIwNDYsNTIxNzc5
+MTI2LC01NTM1NTcxODUsLTQ3MzczODM3MiwtMTgxMDk1OTgxLD
+ExNzk2MzY4NywtMTQ1NTgzNTg4MywxMTA3Nzc0MTExXX0=
 -->
