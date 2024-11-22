@@ -92,7 +92,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 本能脑和情绪脑确实畏惧困难，只会享乐，但是有一种方法可以让他们从困难的事情中享受到乐趣。这就是让理智脑从认知上（包括心理暗示的做法）帮助本能脑和情绪脑改变视角。把看似困难的事视为追求，挑战，给这件事情赋予充分的意义，让自己在这件事上产生使命感。
 
-科学家废寝忘食地研究，他们乐在其中。他们也许大多都对自己说过，“这项研究可以造福千千万万人。我看到了，那千千万万双期待的眼神，他们甚至有点苦苦相求，希望我能在这项研究上突破，”
+科学家废寝忘食地研究，他们乐在其中。他们也许大多都对自己说过，“这项研究可以造福千千万万人。我看到了，那千千万万双期待的眼神，他们甚至有点苦苦相求，希望我能在这项研究上突破，成就一代之攻业。” 。我说得可能有点夸张。但是这样的心里暗示，自我解释是被
 一旦本能脑和情绪脑进入任何形式的心流状态，他们不会在乎行为，你是在玩手机还是读书写作业
 
 
@@ -142,9 +142,9 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODAxNzY1MSw4OTg1NTk0NTIsLTEyMz
-gwMTA5ODUsLTE3ODY5Mjk4ODIsMTQyMDg5NzA1OSw2NDY4NjIw
-NDYsNTIxNzc5MTI2LC01NTM1NTcxODUsLTQ3MzczODM3MiwtMT
-gxMDk1OTgxLDExNzk2MzY4NywtMTQ1NTgzNTg4MywxMTA3Nzc0
-MTExXX0=
+eyJoaXN0b3J5IjpbLTE2MzM3MTc2NDAsODk4NTU5NDUyLC0xMj
+M4MDEwOTg1LC0xNzg2OTI5ODgyLDE0MjA4OTcwNTksNjQ2ODYy
+MDQ2LDUyMTc3OTEyNiwtNTUzNTU3MTg1LC00NzM3MzgzNzIsLT
+E4MTA5NTk4MSwxMTc5NjM2ODcsLTE0NTU4MzU4ODMsMTEwNzc3
+NDExMV19
 -->
