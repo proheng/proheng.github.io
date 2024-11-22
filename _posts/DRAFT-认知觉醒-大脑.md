@@ -76,6 +76,14 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 ### 自我对话来培养耐心
 
+1. 面对天性，放下心理包袱，坦然接纳自己
+
+2. 面对诱惑，学会延迟满足，变对抗为沟通
+
+3. 面对困难，主动改变视角，赋予学习意义
+
+
+
 ## 7个小球
 
 ## 一对翅膀
@@ -115,8 +123,8 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzU3MjU0MCwtMTc4NjkyOTg4MiwxND
-IwODk3MDU5LDY0Njg2MjA0Niw1MjE3NzkxMjYsLTU1MzU1NzE4
-NSwtNDczNzM4MzcyLC0xODEwOTU5ODEsMTE3OTYzNjg3LC0xND
-U1ODM1ODgzLDExMDc3NzQxMTFdfQ==
+eyJoaXN0b3J5IjpbMjgyODA2MzQ3LC0xNzg2OTI5ODgyLDE0Mj
+A4OTcwNTksNjQ2ODYyMDQ2LDUyMTc3OTEyNiwtNTUzNTU3MTg1
+LC00NzM3MzgzNzIsLTE4MTA5NTk4MSwxMTc5NjM2ODcsLTE0NT
+U4MzU4ODMsMTEwNzc3NDExMV19
 -->
