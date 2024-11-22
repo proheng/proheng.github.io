@@ -100,7 +100,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 ## 7个小球
 
-小球是就是我们的工作记忆。
+小球是就是我们的工作记忆，也是我们的专注力
 > 所谓工作记忆，就是在大脑中对正在处理的信息进行瞬时及有意识加工的这部分记忆，简单来说就是理智脑可以使用的脑力资源。人类的大脑看起来很厉害，但意识所能处理的信息数量并不多，大概只有7±2个，有的人多些，有的人少些，但都在7个左右。
 
 这7个小球的功效好坏预示着我们的专注力有多好。
@@ -115,7 +115,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 - 不由自主开小差
 这7个小球并不完全受我们理智脑控制。我们在做一件事时，不经意地会分心，这个时候，就是有其他杂念进入，并占据了几种几个小球。让我们大脑工作效率下降。例如，在写作业的时候，突然想起某个电视剧的情节，某首不断循环的音乐，某节新闻，期待的事等等。
 
-- 其他会影响情绪的事情，例如，感情关系，对于学生来说，就是早恋和青春期
+- 其他会影响情绪的事情，例如，感情关系，对于学生来说，就是早恋和青春期和家人的关系。这两个关系会大大牵动着学生的这7个小球的发挥，也就只专注力。
 
 
 
@@ -163,9 +163,9 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwNTQwNjksODk4NTU5NDUyLC0xMjM4MD
-EwOTg1LC0xNzg2OTI5ODgyLDE0MjA4OTcwNTksNjQ2ODYyMDQ2
-LDUyMTc3OTEyNiwtNTUzNTU3MTg1LC00NzM3MzgzNzIsLTE4MT
-A5NTk4MSwxMTc5NjM2ODcsLTE0NTU4MzU4ODMsMTEwNzc3NDEx
-MV19
+eyJoaXN0b3J5IjpbLTE1MzY1MjQzOTMsODk4NTU5NDUyLC0xMj
+M4MDEwOTg1LC0xNzg2OTI5ODgyLDE0MjA4OTcwNTksNjQ2ODYy
+MDQ2LDUyMTc3OTEyNiwtNTUzNTU3MTg1LC00NzM3MzgzNzIsLT
+E4MTA5NTk4MSwxMTc5NjM2ODcsLTE0NTU4MzU4ODMsMTEwNzc3
+NDExMV19
 -->
