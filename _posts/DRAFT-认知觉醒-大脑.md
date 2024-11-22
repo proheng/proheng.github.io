@@ -48,6 +48,8 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 在学习方面，为什么我们需要耐心呢？
 
+“在科学家看来，无论学习知识还是技能，其本质都是大脑中的神经元细胞在建立连接。” 这样的连接越稳固越通畅，我们的知识或者技能的运用就越
+
 
 
 > **当我们清楚了上述规律后，就能在起步遇挫或暂时坚持无果时做出与他人不同的选择：有人选择放弃，而我们继续坚持。**同时，我们不会因自己进步缓慢而沮丧，也不会因别人成长迅速而焦虑。毕竟每个人所处的学习阶段不同，只要继续坚持，我们就能达到同样的水平。从这个角度看，**耐心不是毅力带来的结果，而是具有长远目光的结果。**
@@ -91,7 +93,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1ODg2MTkwMCwtNTUzNTU3MTg1LC00Nz
-M3MzgzNzIsLTE4MTA5NTk4MSwxMTc5NjM2ODcsLTE0NTU4MzU4
-ODMsMTEwNzc3NDExMV19
+eyJoaXN0b3J5IjpbNTM2MDk5NjUwLC01NTM1NTcxODUsLTQ3Mz
+czODM3MiwtMTgxMDk1OTgxLDExNzk2MzY4NywtMTQ1NTgzNTg4
+MywxMTA3Nzc0MTExXX0=
 -->
