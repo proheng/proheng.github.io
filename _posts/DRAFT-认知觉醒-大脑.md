@@ -154,7 +154,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 - 及时审视自己的第一反应
 我们对任何人和事的第一反应往往受到情绪脑的干扰。因为情绪脑总是比理智脑反应的迅速，然后，情绪脑看问题更浅层和片面。理智脑里的元认知，帮助我们抹开情绪的雾霾，冷静下来分析出事实的真相。例如，如果，我们收到身边的人建议甚至批评，我们不至于马上雷霆大发，不假思索地乱骂一通。我们反而先让自己冷静一下，认真地把对方的话听完，然后三思而后行。
 - 能用未来视角审视现在。
-如果问一个小孩子，你未来想做什么工作呢？通常小孩子要么说，没想过，要么说一些天马行空的想法。我觉得问孩子这个问题并没有激发他们学习的兴趣，反而激发了他们对创意。但是，如果你在招聘毕业大学生，问他们如何做人生规划，我觉得大多数的答案都比较
+如果问一个小孩子，你未来想做什么工作呢？通常小孩子要么说，没想过，要么说一些天马行空的想法。我觉得问孩子这个问题并没有激发他们学习的兴趣，反而激发了他们对创意。但是，如果你在招聘毕业大学生，问他们如何做人生规划，我觉得大多数的答案都比较理性和更可实现。
 - 总能在高处俯瞰全局，不会一头扎进时间和行动的细节里。
 
 
@@ -209,10 +209,10 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzNjY2NjU0LDEyMzUxNzAwMTYsMTc4NT
-Q1MzM5MywtMTYzMjM5MDMwOCwtMTczMjExMzUwOSw4OTg1NTk0
-NTIsLTEyMzgwMTA5ODUsLTE3ODY5Mjk4ODIsMTQyMDg5NzA1OS
-w2NDY4NjIwNDYsNTIxNzc5MTI2LC01NTM1NTcxODUsLTQ3Mzcz
-ODM3MiwtMTgxMDk1OTgxLDExNzk2MzY4NywtMTQ1NTgzNTg4My
-wxMTA3Nzc0MTExXX0=
+eyJoaXN0b3J5IjpbLTE5MzI0NTE1OTYsMTIzNTE3MDAxNiwxNz
+g1NDUzMzkzLC0xNjMyMzkwMzA4LC0xNzMyMTEzNTA5LDg5ODU1
+OTQ1MiwtMTIzODAxMDk4NSwtMTc4NjkyOTg4MiwxNDIwODk3MD
+U5LDY0Njg2MjA0Niw1MjE3NzkxMjYsLTU1MzU1NzE4NSwtNDcz
+NzM4MzcyLC0xODEwOTU5ODEsMTE3OTYzNjg3LC0xNDU1ODM1OD
+gzLDExMDc3NzQxMTFdfQ==
 -->
