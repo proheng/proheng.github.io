@@ -131,7 +131,11 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 ## 一对翅膀
 
+一对翅膀就是人类独有的“元认知”
 
+> 跳出自身、从他处反观自己的能力，就是人类认识上的终极能力
+
+所有动物照镜子，都认为镜子里那个同类是另外一个
 
 简单记住：**3 7 1  + 耐心**
 
@@ -184,9 +188,9 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzIxMTM1MDksODk4NTU5NDUyLC0xMj
-M4MDEwOTg1LC0xNzg2OTI5ODgyLDE0MjA4OTcwNTksNjQ2ODYy
-MDQ2LDUyMTc3OTEyNiwtNTUzNTU3MTg1LC00NzM3MzgzNzIsLT
-E4MTA5NTk4MSwxMTc5NjM2ODcsLTE0NTU4MzU4ODMsMTEwNzc3
-NDExMV19
+eyJoaXN0b3J5IjpbNzgyODYyMDI4LC0xNzMyMTEzNTA5LDg5OD
+U1OTQ1MiwtMTIzODAxMDk4NSwtMTc4NjkyOTg4MiwxNDIwODk3
+MDU5LDY0Njg2MjA0Niw1MjE3NzkxMjYsLTU1MzU1NzE4NSwtND
+czNzM4MzcyLC0xODEwOTU5ODEsMTE3OTYzNjg3LC0xNDU1ODM1
+ODgzLDExMDc3NzQxMTFdfQ==
 -->
