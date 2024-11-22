@@ -222,9 +222,9 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 我们的三个大脑不是真的有三个大脑，也不是实体上某一个大脑区域。而是协同作用的系统，分别管理，本能生理的，情绪和认知。近十年大脑科学的发展迅速，大家都已经渐渐认同要顺势而为，逆水行舟不是长久之计。因此，一味靠自制力时时刻刻提醒自己有意而为，现在看来并不符合大脑工作规律。
 
-我觉得本能大脑最不容易动摇和改变，情绪大脑相对容易点被调整，只要zhi
+我觉得本能大脑最不容易动摇和改变，情绪大脑相对容易点被调整，只要理智大脑策略得当，情绪大脑就可以被调动起来，然后，从而引起本能大脑的行动。因此，书本的方法论也是在认知层面提升我们的理智大脑，让我们装备好，在应付不同
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTM0MTE4MiwtMTI4NTIyNTAxNSwtMT
+eyJoaXN0b3J5IjpbLTQyMzI4MDE1MiwtMTI4NTIyNTAxNSwtMT
 Y4NDA1OTE3NiwtMTkzMjQ1MTU5NiwxMjM1MTcwMDE2LDE3ODU0
 NTMzOTMsLTE2MzIzOTAzMDgsLTE3MzIxMTM1MDksODk4NTU5ND
 UyLC0xMjM4MDEwOTg1LC0xNzg2OTI5ODgyLDE0MjA4OTcwNTks
