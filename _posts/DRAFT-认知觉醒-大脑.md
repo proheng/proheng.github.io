@@ -120,7 +120,7 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 如何练习小球？
 
 1. 先处理心情，再处理事情
-处理心情的时候
+处理情绪最好的办法是“写下来”。准备一本本子，把影响你专心的思想杂念，写在纸上，然后问问自己,
 
 
 ## 一对翅膀
@@ -167,9 +167,9 @@ title:  《认知觉醒》第一章 大脑——学习的基石
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExNzIxMzY5LDg5ODU1OTQ1MiwtMTIzOD
-AxMDk4NSwtMTc4NjkyOTg4MiwxNDIwODk3MDU5LDY0Njg2MjA0
-Niw1MjE3NzkxMjYsLTU1MzU1NzE4NSwtNDczNzM4MzcyLC0xOD
-EwOTU5ODEsMTE3OTYzNjg3LC0xNDU1ODM1ODgzLDExMDc3NzQx
-MTFdfQ==
+eyJoaXN0b3J5IjpbLTIwMDMzNTg0ODYsODk4NTU5NDUyLC0xMj
+M4MDEwOTg1LC0xNzg2OTI5ODgyLDE0MjA4OTcwNTksNjQ2ODYy
+MDQ2LDUyMTc3OTEyNiwtNTUzNTU3MTg1LC00NzM3MzgzNzIsLT
+E4MTA5NTk4MSwxMTc5NjM2ODcsLTE0NTU4MzU4ODMsMTEwNzc3
+NDExMV19
 -->
