@@ -14,11 +14,14 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 # 内容概述
 
+## 清晰：学习是一场消除模糊的比赛
+
+
 
 
 # 摘抄
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1NzI0NjE1LC0xODMzODg1NDY4XX0=
+eyJoaXN0b3J5IjpbODQ4MjE0MzE1LC0xODMzODg1NDY4XX0=
 -->
