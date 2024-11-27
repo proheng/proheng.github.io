@@ -16,7 +16,7 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 ## 清晰就是要消除模糊
 
-之前学习到我们有三个大脑，本能脑、情绪脑、理智脑。这个是和计算机完全不同，它们zhi you
+之前学习到我们有三个大脑，本能脑、情绪脑、理智脑。这个是和计算机完全不同，它们只有一个脑，AI人工智能也只有数学上的清晰计算，不存在模糊的概念，即使人工智能也会给出答案的信心水平（）
 
 
 
@@ -25,6 +25,5 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk3MDYxODAsLTE4MzM4ODU0NjhdfQ
-==
+eyJoaXN0b3J5IjpbNDg1ODAzOTk2LC0xODMzODg1NDY4XX0=
 -->
