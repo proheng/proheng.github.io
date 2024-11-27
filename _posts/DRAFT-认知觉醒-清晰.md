@@ -16,7 +16,7 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 ## 清晰就是要消除模糊
 
-之前学习到我们有三个大脑，本能脑、情绪脑、理智脑。这也导致了人类有yi sh
+之前学习到我们有三个大脑，本能脑、情绪脑、理智脑。这也导致了人类有意识分层，一般来说，就是清晰的意识之下还有潜意识。潜意识隐藏在本能脑和情绪脑里，默默影响着我们，让我们对某些事物产生mo
 
 
 
@@ -25,5 +25,6 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3Mzk3MDYwNSwtMTgzMzg4NTQ2OF19
+eyJoaXN0b3J5IjpbLTE5NDE3MjUwODUsLTE4MzM4ODU0NjhdfQ
+==
 -->
