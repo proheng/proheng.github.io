@@ -9,7 +9,7 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 >清晰”可以说是学习的基本窍门，掌握了它，我们就可以化解学习中很多常见的问题
 
-学习的过程就是思考的过程，目标就是要清晰。这一章说就会高速wo m
+学习的过程就是思考的过程，目标就是要清晰。这一章书会帮助我们认识到我们学习，乃至思考问题方面需要清晰，
 
 # 内容概述
 
@@ -17,5 +17,5 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODk1MDAyOSwtMTgzMzg4NTQ2OF19
+eyJoaXN0b3J5IjpbLTIwNDA5NzAwMCwtMTgzMzg4NTQ2OF19
 -->
