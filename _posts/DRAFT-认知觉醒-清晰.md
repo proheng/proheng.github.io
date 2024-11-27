@@ -14,7 +14,9 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 # 内容概述
 
-## 清晰：学习是一场消除模糊的比赛
+## 清晰就是要消除模糊
+
+之前学习到我们有三个大脑，本能脑、情绪脑、理智脑。这个是和计算机完全不同，它们zhi you
 
 
 
@@ -23,5 +25,6 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4MjE0MzE1LC0xODMzODg1NDY4XX0=
+eyJoaXN0b3J5IjpbLTE5MTk3MDYxODAsLTE4MzM4ODU0NjhdfQ
+==
 -->
