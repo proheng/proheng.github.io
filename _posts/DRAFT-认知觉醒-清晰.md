@@ -44,7 +44,7 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 ## 情绪清晰：敢于面对
 
-women
+有效的学习和思考都是依赖理智脑，而且需要大量
 
 ## 行动清晰：敢于假设
 
@@ -76,6 +76,6 @@ women
 # 更多阅读
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2MzkzMjIyLDEwOTk0NzU5NTIsLTE2OT
-Q3ODIyNDIsLTc3NTI1NjgxLC0xODMzODg1NDY4XX0=
+eyJoaXN0b3J5IjpbLTk3MzQ3MzgwNiwxMDk5NDc1OTUyLC0xNj
+k0NzgyMjQyLC03NzUyNTY4MSwtMTgzMzg4NTQ2OF19
 -->
