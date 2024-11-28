@@ -56,7 +56,7 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 > - 具体是什么让自己恐惧担忧？是能力不足、准备不够，还是害怕某事发生？
 > - 面对困境，我能做什么？不能做什么？如果做不到或搞砸了，最坏的结果是什么？
 
-
+我也曾经问过自己类似的问题，有些事情我不敢尝试，主要是对不确定未知的焦虑或者恐慌，担心事情结果不如意，或者一发不可收拾。这个时候，我会自问，“最坏的结果是什么？”，我
 
 **除了书里说的勇气，我觉得耐心也十分重要。**对一些已经根深蒂固的观念和看法，我可能一时间无法改变过来，要我们思想上从彻底地逃避的状态，回头看一眼呆在那个角落，已经发臭了的问题，已经是很大的转变了。要做到从哪里跌倒，就从那里站起来，跑起来。我们需要给自己耐心，知道我们还在不放弃地尝试，应该是值得赞赏的态度了。
 
@@ -98,7 +98,7 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 # 更多阅读
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTEwMTQwMzksMTc5MDMyOTM5MiwxMD
-k5NDc1OTUyLC0xNjk0NzgyMjQyLC03NzUyNTY4MSwtMTgzMzg4
-NTQ2OF19
+eyJoaXN0b3J5IjpbMTc1NDUwMjM3NywxNzkwMzI5MzkyLDEwOT
+k0NzU5NTIsLTE2OTQ3ODIyNDIsLTc3NTI1NjgxLC0xODMzODg1
+NDY4XX0=
 -->
