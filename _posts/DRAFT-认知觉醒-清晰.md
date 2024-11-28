@@ -42,7 +42,11 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 
 # 个人收获
+
+
+# 更多阅读
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTY5MjE1MywtNzc1MjU2ODEsLTE4Mz
-M4ODU0NjhdfQ==
+eyJoaXN0b3J5IjpbLTE4NzgwMjM4ODAsLTc3NTI1NjgxLC0xOD
+MzODg1NDY4XX0=
 -->
