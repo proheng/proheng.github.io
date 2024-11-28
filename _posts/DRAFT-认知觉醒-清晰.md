@@ -82,7 +82,7 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 > 真正的困难总比想象的要小很多。人们拖延、纠结、畏惧、害怕的根本原因往往不是事情本身有多难，而是内心的想法变得模糊。就像在1500米跑步考核开始前，那种不知名的恐惧会让人紧张得全身发抖，而我们一旦开跑、不得不与这种恐惧正面交锋时，就会发现1500米考核也不过如此。如果我们再积极些，学会从一开始就主动正视它、拆解它、看清它，或许那种紧张就不困扰自己了，我们甚至能从容地“享受”比赛。
 
-有没有一些事，你做之前，
+有没有一些事，你做之前，听起来已经觉得是不可能完成的任务，但最后做好了之后，想一想，“没有那么难吧？自己之前多想了”。这就是情绪给你的错误印象。等到实际行动起来，大脑才会对事情的难度挑战有zheng que
 
 
 # 个人收获
@@ -91,6 +91,6 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 # 更多阅读
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDQ0NTEwMywxMDk5NDc1OTUyLC0xNj
-k0NzgyMjQyLC03NzUyNTY4MSwtMTgzMzg4NTQ2OF19
+eyJoaXN0b3J5IjpbLTE0NzQ1Nzc2ODMsMTA5OTQ3NTk1MiwtMT
+Y5NDc4MjI0MiwtNzc1MjU2ODEsLTE4MzM4ODU0NjhdfQ==
 -->
