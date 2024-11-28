@@ -24,7 +24,7 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 ### 学习清晰：有一是一，消除学习模糊
 
-“优秀的人更倾向于做高能耗的事”，他们跟普通人的却别不仅仅zai
+“优秀的人更倾向于做高能耗的事”，他们跟普通人的却别不仅仅在勤奋的程度上，更重要的事努力的模式上。他们知道把问题记录下来，诚实地问
 
 
 
@@ -32,6 +32,6 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 # 个人收获
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NzgyMjM4NCwtNzc1MjU2ODEsLTE4Mz
-M4ODU0NjhdfQ==
+eyJoaXN0b3J5IjpbLTExMDA3NDMwMDcsLTc3NTI1NjgxLC0xOD
+MzODg1NDY4XX0=
 -->
