@@ -34,6 +34,10 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 **无论是学生的学习，还是成年人要攻克某些难题，目标都是一样——“消除模糊”，要做的事情就是“有一是一”地把问题展开，从已知的部分抽离出来分析，逐个攻破。** 在此过程中，不断追根溯源的自问（甚至是勇敢的灵魂拷问）可以帮助自己唤醒全部地意识效能进行清晰和思考。
 
+对于学生来说，例如这些问题可以帮助思考
+- “我今天的学习是为了什么？” 
+- 
+
 
 
 
@@ -64,6 +68,6 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 # 更多阅读
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjIzOTMyMjksLTE2OTQ3ODIyNDIsLT
+eyJoaXN0b3J5IjpbLTE1MDQ4MTA5MjksLTE2OTQ3ODIyNDIsLT
 c3NTI1NjgxLC0xODMzODg1NDY4XX0=
 -->
