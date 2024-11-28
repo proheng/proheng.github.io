@@ -44,7 +44,7 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 ## 情绪清晰：敢于面对
 
-有效的学习和思考都是依赖理智脑，而且需要大量
+有效的学习和思考都是依赖理智脑，而且需要大量能量。在这个前提下，情绪大脑必须是积极配合的，sang一起用力
 
 ## 行动清晰：敢于假设
 
@@ -76,6 +76,6 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 # 更多阅读
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzQ3MzgwNiwxMDk5NDc1OTUyLC0xNj
+eyJoaXN0b3J5IjpbLTc1MjY1NDgxNywxMDk5NDc1OTUyLC0xNj
 k0NzgyMjQyLC03NzUyNTY4MSwtMTgzMzg4NTQ2OF19
 -->
