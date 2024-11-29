@@ -123,6 +123,10 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 ## 行动
 > 所谓选择模糊，就是我们在面对众多可能性时无法做出清晰、明确的选择。这样的情况很常见，比如当你心中有很多欲望、脑中有很多头绪，或者拥有很多可自由支配的时间时，你就会进入“既想做这个，又想做那个；既可以做这个，又可以做那个”的状态，就像自己始终站在十字路口，却不知道该往哪里去，从而使自己陷入不确定性之中。
 
+选择突然多了起来，如果不假思索，学会选择，那么就是失去了方向。
+
+我们，尤其是在中国填鸭式教育下成长的小孩子（包括我），从小
+
 
 # 个人收获
 
@@ -130,8 +134,8 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 # 更多阅读
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NDEyNjYzMSwyMDE0MTM4NjEsLTE4Nz
-UyNDQ5MTEsLTQ2NTQ0MzE3OCwxNzkwMzI5MzkyLDEwOTk0NzU5
-NTIsLTE2OTQ3ODIyNDIsLTc3NTI1NjgxLC0xODMzODg1NDY4XX
-0=
+eyJoaXN0b3J5IjpbLTIwOTAwMjYxMjQsMjAxNDEzODYxLC0xOD
+c1MjQ0OTExLC00NjU0NDMxNzgsMTc5MDMyOTM5MiwxMDk5NDc1
+OTUyLC0xNjk0NzgyMjQyLC03NzUyNTY4MSwtMTgzMzg4NTQ2OF
+19
 -->
