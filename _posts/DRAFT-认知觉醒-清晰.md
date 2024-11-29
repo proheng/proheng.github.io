@@ -72,7 +72,7 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 ## 行动清晰：敢于假设
 
-
+我们除了努力清除情绪的模糊之外，我们需要清晰行动指南。不然，我们会被偷懒爱玩的习惯所支配，错过来本可以
 
 
 # 摘抄
@@ -120,7 +120,7 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 # 更多阅读
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzUyNDQ5MTEsLTQ2NTQ0MzE3OCwxNz
-kwMzI5MzkyLDEwOTk0NzU5NTIsLTE2OTQ3ODIyNDIsLTc3NTI1
-NjgxLC0xODMzODg1NDY4XX0=
+eyJoaXN0b3J5IjpbLTQ5NjEzMTQ4MCwtMTg3NTI0NDkxMSwtND
+Y1NDQzMTc4LDE3OTAzMjkzOTIsMTA5OTQ3NTk1MiwtMTY5NDc4
+MjI0MiwtNzc1MjU2ODEsLTE4MzM4ODU0NjhdfQ==
 -->
