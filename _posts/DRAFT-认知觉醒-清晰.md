@@ -119,6 +119,10 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 #### 行动力不是意志力，而是清晰力
 
+正如标题所说，我们所谓没有行动力，是因为，我们看不清摸不着，因此不敢做决定，不敢下手去干一会。
+
+这个时候，
+
 # 摘抄和点评
 
 > 优秀的人更倾向于做高耗能的事，比如“学霸”的秘诀往往在他们的错题本上——他们更愿意花时间明确错误，并集中精力攻克。比如他们面对试卷上的错题时，不会止步于写上正确的答案，还会对错题背后涉及的知识点和学习习惯进行深入探究和反思复盘，再把同类型的题目反复做几遍，直到彻底掌握相关知识。学习成绩一般的同学不是不知道这个方法，只是他们要么不去整理错题本，要么整理了也不去看，他们更喜欢勤奋地重复已经掌握的部分，对真正的困难选择睁一只眼闭一只眼，希望能够搪塞过去，结果模糊点越积越多，以致无力应对。
@@ -187,8 +191,8 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 # 更多阅读
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzcxMTY2OCwtNzM3MDYzODEzLDIwMT
-QxMzg2MSwtMTg3NTI0NDkxMSwtNDY1NDQzMTc4LDE3OTAzMjkz
-OTIsMTA5OTQ3NTk1MiwtMTY5NDc4MjI0MiwtNzc1MjU2ODEsLT
-E4MzM4ODU0NjhdfQ==
+eyJoaXN0b3J5IjpbLTExMzA0NzkwMjMsLTczNzA2MzgxMywyMD
+E0MTM4NjEsLTE4NzUyNDQ5MTEsLTQ2NTQ0MzE3OCwxNzkwMzI5
+MzkyLDEwOTk0NzU5NTIsLTE2OTQ3ODIyNDIsLTc3NTI1NjgxLC
+0xODMzODg1NDY4XX0=
 -->
