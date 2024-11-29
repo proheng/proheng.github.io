@@ -94,6 +94,11 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 与其说让自己“没选择”，我觉得是提前帮自己选择好，定好操作细节计划，越清晰，到执行的时候，大脑就更容易执行，不需要再花精力去选择了。做计划其实也是一个很费劲的事情。但是一旦做好了，后面的执行就容易很多了。例如，做木工前，要把步骤思路都想清楚，做起来就是机械运动。简单高效。
 
+具体每天的生活，我们就需要进行日程规划。这样才能保证我们的时间和精力可以合理分配利用。
+以下是作者提到的注意事项
+1. 一定要写下来
+2. 不必
+
 
 
 # 摘抄和点评
@@ -161,8 +166,8 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 # 更多阅读
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDEwNDA3NCwtNzM3MDYzODEzLDIwMT
-QxMzg2MSwtMTg3NTI0NDkxMSwtNDY1NDQzMTc4LDE3OTAzMjkz
-OTIsMTA5OTQ3NTk1MiwtMTY5NDc4MjI0MiwtNzc1MjU2ODEsLT
-E4MzM4ODU0NjhdfQ==
+eyJoaXN0b3J5IjpbLTEwNzU2ODk4OTQsLTczNzA2MzgxMywyMD
+E0MTM4NjEsLTE4NzUyNDQ5MTEsLTQ2NTQ0MzE3OCwxNzkwMzI5
+MzkyLDEwOTk0NzU5NTIsLTE2OTQ3ODIyNDIsLTc3NTI1NjgxLC
+0xODMzODg1NDY4XX0=
 -->
