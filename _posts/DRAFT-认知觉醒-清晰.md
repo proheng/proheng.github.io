@@ -127,7 +127,7 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 我们，尤其是在中国填鸭式教育下成长的小孩子（包括我），从小被灌输统一的标准和唯一的求学道路，被安排同一种教育方案。因为，我们从来都不需要为行动做任何选择。甚至到高考填报大学志愿，有不少家长主导了选择的权利。这样环境下长大的孩子，天生就没有被训练去学会做选择题。不会权衡选择之间的利弊关系，不愿意去做决定（甚至逃避），更不用说为自己的选择决定而奋勇向前地追求。
 
-因此，面对选择的十字路口，行动的模糊性出现了。大脑很容易开启自动模式，选择享乐，
+因此，面对选择的十字路口，行动的模糊性出现了。大脑很容易开启自动模式，选择享乐，舒舒服服呆在十字路口继续刷屏好了，止步不前。
 
 
 # 个人收获
@@ -136,7 +136,7 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 # 更多阅读
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzg5MjgyNzcsMjAxNDEzODYxLC0xOD
+eyJoaXN0b3J5IjpbLTE4NzkzMDE1MzEsMjAxNDEzODYxLC0xOD
 c1MjQ0OTExLC00NjU0NDMxNzgsMTc5MDMyOTM5MiwxMDk5NDc1
 OTUyLC0xNjk0NzgyMjQyLC03NzUyNTY4MSwtMTgzMzg4NTQ2OF
 19
