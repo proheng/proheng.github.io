@@ -148,6 +148,7 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 我正在使用这样方法为我早上起床后的时间安排行动指南。我每天晚上睡觉前都会用间断10分钟左右时间，复盘回忆早上的计划执行情况。根据复盘结果，我写下第二天早上起床后的一系列行动安排。所以，我起来后，就不用再费脑子做选择题了。这样，我可以不假思索地执行前一天晚上的计划。
 当然，执行起来也会灵活变通，合情合理。如果意外出现了，就需要时刻调整。这一切都应变都会反馈到下一轮的行动安排中。
+值得强调的是，这一切都要**“写下来”**。不要小看写下来这个动作，对执行力的推动作用。我个人深有体会。
 
 
 # 个人收获
@@ -156,7 +157,7 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 # 更多阅读
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODE3OTcyOCwtNzM3MDYzODEzLDIwMT
+eyJoaXN0b3J5IjpbMTY3NjA1OTc4MiwtNzM3MDYzODEzLDIwMT
 QxMzg2MSwtMTg3NTI0NDkxMSwtNDY1NDQzMTc4LDE3OTAzMjkz
 OTIsMTA5OTQ3NTk1MiwtMTY5NDc4MjI0MiwtNzc1MjU2ODEsLT
 E4MzM4ODU0NjhdfQ==
