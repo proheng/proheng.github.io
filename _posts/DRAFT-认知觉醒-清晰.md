@@ -187,13 +187,13 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 # 个人收获
 
-书中里不少建议，我在这些年的实践中隐隐的感觉到其中的奥妙，例如“写下来”，情绪管理，日程规划
+书中里不少建议，我在这些年的实践中隐隐的感觉到其中的奥妙，例如“写下来”，情绪管理，日程规划。当然，阅读这一章的最大的收获是解释了很多我读书时候的一些困惑。我现在虽然不能在回到脱产学习d
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjg1NDIzNDEsLTczNzA2MzgxMywyMD
-E0MTM4NjEsLTE4NzUyNDQ5MTEsLTQ2NTQ0MzE3OCwxNzkwMzI5
-MzkyLDEwOTk0NzU5NTIsLTE2OTQ3ODIyNDIsLTc3NTI1NjgxLC
-0xODMzODg1NDY4XX0=
+eyJoaXN0b3J5IjpbLTExMzQyMDk1MjYsLTE0Mjg1NDIzNDEsLT
+czNzA2MzgxMywyMDE0MTM4NjEsLTE4NzUyNDQ5MTEsLTQ2NTQ0
+MzE3OCwxNzkwMzI5MzkyLDEwOTk0NzU5NTIsLTE2OTQ3ODIyND
+IsLTc3NTI1NjgxLC0xODMzODg1NDY4XX0=
 -->
