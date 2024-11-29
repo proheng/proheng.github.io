@@ -139,7 +139,9 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 分析一下，那些高考时学霸，大学时学渣的同学们，我们可以得出这个结论。
 >处于一种“没得选”的状态时，我们更容易保持专注，也更容易静下心来做好眼前的事情。于是，应对选择模糊的方法也就产生了：想办法在诸多可能性中建立一条时间“单行道”​，让大脑始终处于“没得选”的状态。
 
-我们要主动练习做行动的选择题
+**我们要主动练习做行动的选择题，为选择的决定而付诸行动，之后根据行动的效果进行复盘，指导下一轮选择**
+
+
 
 
 # 个人收获
@@ -148,8 +150,8 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 # 更多阅读
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA2NzU1OTQsMjAxNDEzODYxLC0xOD
-c1MjQ0OTExLC00NjU0NDMxNzgsMTc5MDMyOTM5MiwxMDk5NDc1
-OTUyLC0xNjk0NzgyMjQyLC03NzUyNTY4MSwtMTgzMzg4NTQ2OF
-19
+eyJoaXN0b3J5IjpbLTczNzA2MzgxMywyMDE0MTM4NjEsLTE4Nz
+UyNDQ5MTEsLTQ2NTQ0MzE3OCwxNzkwMzI5MzkyLDEwOTk0NzU5
+NTIsLTE2OTQ3ODIyNDIsLTc3NTI1NjgxLC0xODMzODg1NDY4XX
+0=
 -->
