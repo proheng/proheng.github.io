@@ -148,7 +148,8 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 > **第二步，按重要程度对所有事项进行排序**。只要排出序号，我们就能将注意力聚焦到最重要的任务上，不会让自己轻易被其他事情带跑。
 > **第三步，根据当前所有可用信息把每项任务安排到具体的时间段里**。即明确几点到几点做任务1，几点到几点做任务2……这样可以把自己的精力约束在特定时间内的特定事件上，就像一个明确的课程表，到点就知道自己该做什么，不用在那个关头再去思考自己该做什么。总之，计划要明确到自己不用动脑就可以迅速行动！
 
-我正在使用这样方法为我早上起床后的时间安排行动指南。我每天晚上睡觉前都会用间断10分钟左右时间，复盘回忆早上的计划执行情况。根据复盘结果，我
+我正在使用这样方法为我早上起床后的时间安排行动指南。我每天晚上睡觉前都会用间断10分钟左右时间，复盘回忆早上的计划执行情况。根据复盘结果，我写下第二天早上起床后的一系列行动安排。所以，我起来后，就不用再费脑子做选择题了。这样，我可以不假思索地执行前一天晚上的计划。
+当然，执行起来也会灵活变通，合情合理。如果意外出现了，
 
 
 # 个人收获
@@ -157,8 +158,8 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 # 更多阅读
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1MDQxODY2LC03MzcwNjM4MTMsMjAxND
-EzODYxLC0xODc1MjQ0OTExLC00NjU0NDMxNzgsMTc5MDMyOTM5
-MiwxMDk5NDc1OTUyLC0xNjk0NzgyMjQyLC03NzUyNTY4MSwtMT
-gzMzg4NTQ2OF19
+eyJoaXN0b3J5IjpbLTIwNTgyMTA0ODYsLTczNzA2MzgxMywyMD
+E0MTM4NjEsLTE4NzUyNDQ5MTEsLTQ2NTQ0MzE3OCwxNzkwMzI5
+MzkyLDEwOTk0NzU5NTIsLTE2OTQ3ODIyNDIsLTc3NTI1NjgxLC
+0xODMzODg1NDY4XX0=
 -->
