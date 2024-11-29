@@ -89,7 +89,7 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 错题本，进步本，不仅仅是记录而已，而是通过记录帮助自己提升，吸取教训，进步。  同样，做笔记的方法不是为了记而记，而是为了清晰思路，把问题核心暴露出来。  
 
-#联想——*海绵式阅读法*里面提到三个层次的阅读法，（碎片，全局，笔记）都是帮助我们通过这些方法更好地吸收知识。我们永远离不开“记录下来”
+#联想——*海绵式阅读法*里面提到三个层次的阅读法，（碎片，全局，笔记）都是帮助我们通过这些方法更好地吸收知识。我们永远离不开“记录下来”这个步骤。只用记录了下来，我们才有吸收内化的材料基础。
 
 “核聚老师”​个人的案例（以其公众号名称呼）
 
@@ -120,7 +120,7 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 # 更多阅读
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTgzODU3ODUsLTQ2NTQ0MzE3OCwxNz
+eyJoaXN0b3J5IjpbLTE4NzUyNDQ5MTEsLTQ2NTQ0MzE3OCwxNz
 kwMzI5MzkyLDEwOTk0NzU5NTIsLTE2OTQ3ODIyNDIsLTc3NTI1
 NjgxLC0xODMzODg1NDY4XX0=
 -->
