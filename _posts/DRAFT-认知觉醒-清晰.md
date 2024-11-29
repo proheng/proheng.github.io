@@ -99,8 +99,8 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 1. 一定要写下来（只有真正做过的人才能体会到写与不写是完全不同的。）
 2. 不必机械执行（做规划的目的并不是让自己像机器一样严格地按计划执行，只是让自己对后续的时间安排心中有数。）
 3. 只规划自己可支配的自由时间（例如，假期，终末，上学前，放学后，午休的空荡时间）
-4. 把休息和娱乐都规划进去（**个人认为，先工作学习，后休息娱乐，能让奖励系统更好作用。反之，先娱乐后学习，就是惩罚系统了，大脑就更不愿意学习了。**另外，娱乐也需要适度，最好timeboxing， ）
-
+4. 把休息和娱乐都规划进去（**个人认为，先工作学习，后休息娱乐，能让奖励系统更好作用。反之，先娱乐后学习，就是惩罚系统了，大脑就更不愿意学习了。**另外，娱乐也需要适度，最好timeboxing，给娱乐时间设上限 ）
+5. 关注现实，精简欲望（日程是为一个中长期目标服务的，我们一段时间的日程安排，只应该服务于一个目标。贪婪的计划只会把）
 
 
 # 摘抄和点评
@@ -168,7 +168,7 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 # 更多阅读
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4OTY0NDA2NSwtNzM3MDYzODEzLDIwMT
+eyJoaXN0b3J5IjpbMTExNTEyNTc4OCwtNzM3MDYzODEzLDIwMT
 QxMzg2MSwtMTg3NTI0NDkxMSwtNDY1NDQzMTc4LDE3OTAzMjkz
 OTIsMTA5OTQ3NTk1MiwtMTY5NDc4MjI0MiwtNzc1MjU2ODEsLT
 E4MzM4ODU0NjhdfQ==
