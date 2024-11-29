@@ -121,7 +121,7 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 正如标题所说，我们所谓没有行动力，是因为，我们看不清摸不着，因此不敢做决定，不敢下手去干一会。
 
-这个时候，
+这个时候，**有效的计划**可以为行动护航，**大胆的假设**可以推动行动的展开。
 
 # 摘抄和点评
 
@@ -191,8 +191,8 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 # 更多阅读
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzA0NzkwMjMsLTczNzA2MzgxMywyMD
-E0MTM4NjEsLTE4NzUyNDQ5MTEsLTQ2NTQ0MzE3OCwxNzkwMzI5
-MzkyLDEwOTk0NzU5NTIsLTE2OTQ3ODIyNDIsLTc3NTI1NjgxLC
-0xODMzODg1NDY4XX0=
+eyJoaXN0b3J5IjpbLTc5NTc0ODI3NiwtNzM3MDYzODEzLDIwMT
+QxMzg2MSwtMTg3NTI0NDkxMSwtNDY1NDQzMTc4LDE3OTAzMjkz
+OTIsMTA5OTQ3NTk1MiwtMTY5NDc4MjI0MiwtNzc1MjU2ODEsLT
+E4MzM4ODU0NjhdfQ==
 -->
