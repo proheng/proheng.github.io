@@ -119,9 +119,9 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 #### 行动力不是意志力，而是清晰力
 
-正如标题所说，我们所谓没有行动力，是因为，我们看不清摸不着，因此不敢做决定，不敢下手去干一会。
+正如标题所说，我们所谓没有行动力，是因为，我们看不清摸不着，因此不敢做决定，不敢下手去干，
 
-这个时候，**有效的计划**可以为在行动护航，**大胆的假设**可以推动行动的展开。有这两项的加持，我们会更积极，更自信地一步步通过实践让行动变得越发清晰。
+这个时候，**有效的计划**可以为在模糊区中行动而护航，**大胆的假设**可以推动行动的展开。有这两项的加持，我们会更积极，更自信地一步步通过实践让行动变得越发清晰。
 
 # 摘抄和点评
 
@@ -191,7 +191,7 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 # 更多阅读
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTgyNjk1ODQsLTczNzA2MzgxMywyMD
+eyJoaXN0b3J5IjpbLTEwMzE2NjY4MzQsLTczNzA2MzgxMywyMD
 E0MTM4NjEsLTE4NzUyNDQ5MTEsLTQ2NTQ0MzE3OCwxNzkwMzI5
 MzkyLDEwOTk0NzU5NTIsLTE2OTQ3ODIyNDIsLTc3NTI1NjgxLC
 0xODMzODg1NDY4XX0=
