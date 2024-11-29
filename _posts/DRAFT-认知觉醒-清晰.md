@@ -74,8 +74,9 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 我们除了努力清除情绪的模糊之外，我们需要清晰行动指南。不然，我们会被偷懒爱玩的习惯所支配，错过来本可以利用好的时间和精力。
 
-你身边有这样的人吗？开学的时候，很自律，老师布置什么作业都高质量按时完成。一到放假，生活就变得一团糟。又或者高中读书不错的同学，上了大学变成了懒散的学渣。这类人依靠
+你身边有这样的人吗？开学的时候，很自律，老师布置什么作业都高质量按时完成。一到放假，生活就变得一团糟。又或者高中读书不错的同学，上了大学变成了懒散的学渣。这类人依靠外在的指引甚至压力才能有效学习工作。一旦失去了行为指导，顿时措手不及，脑子里空空如也。
 
+这就是
 
 
 # 摘抄
@@ -123,7 +124,7 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 # 更多阅读
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjcyMzA5NCwyMDE0MTM4NjEsLTE4Nz
+eyJoaXN0b3J5IjpbLTM2NDg1OTcwNCwyMDE0MTM4NjEsLTE4Nz
 UyNDQ5MTEsLTQ2NTQ0MzE3OCwxNzkwMzI5MzkyLDEwOTk0NzU5
 NTIsLTE2OTQ3ODIyNDIsLTc3NTI1NjgxLC0xODMzODg1NDY4XX
 0=
