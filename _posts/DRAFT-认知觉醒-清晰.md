@@ -96,8 +96,10 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 
 具体每天的生活，我们就需要进行日程规划。这样才能保证我们的时间和精力可以合理分配利用。
 以下是作者提到的注意事项
-1. 一定要写下来
-2. 不必
+1. 一定要写下来（只有真正做过的人才能体会到写与不写是完全不同的。）
+2. 不必机械执行（做规划的目的并不是让自己像机器一样严格地按计划执行，只是让自己对后续的时间安排心中有数。）
+3. 只规划自己可支配的自由时间（例如，假期，终末，上学前，放学后，午休的空荡时间）
+4. 把休息和娱乐都规划进去（个人认为，先）
 
 
 
@@ -166,7 +168,7 @@ title:  《认知觉醒》第一章 清晰——学习的窍门
 # 更多阅读
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzU2ODk4OTQsLTczNzA2MzgxMywyMD
+eyJoaXN0b3J5IjpbLTE1NDIzMjM3ODksLTczNzA2MzgxMywyMD
 E0MTM4NjEsLTE4NzUyNDQ5MTEsLTQ2NTQ0MzE3OCwxNzkwMzI5
 MzkyLDEwOTk0NzU5NTIsLTE2OTQ3ODIyNDIsLTc3NTI1NjgxLC
 0xODMzODg1NDY4XX0=
