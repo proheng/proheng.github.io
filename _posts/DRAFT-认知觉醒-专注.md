@@ -7,8 +7,12 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 # 为什么要读这一章
 
+我们所有人都知道“专注”是什么意思，但是如何专注，大概我们的认知就是加强意志力，bai pa
+
 # 内容概述
-sh
+
+## 极度专注
+## 间歇专注
 
 # 摘抄和点评
 
@@ -16,6 +20,6 @@ sh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQ2NDYyNyw5MDA2NjQyOTgsLTIwMj
+eyJoaXN0b3J5IjpbLTk4MDQyMzM5NCw5MDA2NjQyOTgsLTIwMj
 MwMDA1NzldfQ==
 -->
