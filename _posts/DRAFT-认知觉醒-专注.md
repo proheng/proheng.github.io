@@ -43,6 +43,8 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 专注模式vs发散模式
 
+
+
 # 摘抄和点评
 
 > 所谓极度专注，就是调动所有感官，全身心地投入一件事，或者说将100%的精力投入一件事。换句话说，极度专注与普通程度的专注之间的区别就是“7个小球”火力全开与只用“四五个小球”进行学习、练习或思考的区别。
@@ -53,6 +55,6 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjE5NTQ4Nyw5MDA2NjQyOTgsLTIwMj
-MwMDA1NzldfQ==
+eyJoaXN0b3J5IjpbLTE3MDM5NTIzMTcsMTc0NjE5NTQ4Nyw5MD
+A2NjQyOTgsLTIwMjMwMDA1NzldfQ==
 -->
