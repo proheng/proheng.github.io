@@ -17,7 +17,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 首先，为什么我们需要专注，因为，只有在高度专注的时候，我们理智大脑会全力工作，对外部信心进行吸收，分析，消耗，产出新思想。而这是一个需要大量能耗的过程。我们不希望再这个过程中，我们的能耗被分散到与手头上无关的事情上。
 
-然而，“分心走神是我们的天性”，我们大脑是无法长期处于专注的zhuang tai
+然而，“分心走神是我们的天性”，我们大脑是无法长期处于专注的状态，因为，这会调低所有感官输入的信号而深度进入思考。
 
 ## 极度专注
 ## 间歇专注
@@ -28,6 +28,6 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTczODQ0MSw5MDA2NjQyOTgsLTIwMj
-MwMDA1NzldfQ==
+eyJoaXN0b3J5IjpbLTE5MzE0MDIzMzAsOTAwNjY0Mjk4LC0yMD
+IzMDAwNTc5XX0=
 -->
