@@ -34,7 +34,8 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 > 有研究人员指出：**在短时间内投入100%的精力比长时间投入70%的精力要好**。因为专注的真正动力并不是毅力和耐心，而是不断发现技巧上的微妙差异和持续存在的关注点，精力越集中则感知越细微。
 
-要做到100%精力投入，意味着，
+要做到100%精力投入，“做A的时候彻底关注，再做B的时候彻底关注B。 A和B两件事情之间有非常清晰的界限。”。我们也尽可能排清杂念，减少外界对思想的干扰。
+
 
 
 ## 间歇专注
@@ -49,6 +50,6 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTg3NTk4NzQsOTAwNjY0Mjk4LC0yMD
-IzMDAwNTc5XX0=
+eyJoaXN0b3J5IjpbNDMxNTU4MzAxLDkwMDY2NDI5OCwtMjAyMz
+AwMDU3OV19
 -->
