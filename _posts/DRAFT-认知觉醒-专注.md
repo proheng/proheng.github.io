@@ -32,6 +32,10 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 “成长就是克服天性的过程”，我们不仅要追求专注，还要追求“**极度专注**”。
 
+> 有研究人员指出：**在短时间内投入100%的精力比长时间投入70%的精力要好**。因为专注的真正动力并不是毅力和耐心，而是不断发现技巧上的微妙差异和持续存在的关注点，精力越集中则感知越细微。
+
+
+
 
 ## 间歇专注
 
@@ -45,6 +49,6 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY2NjI3MjMsOTAwNjY0Mjk4LC0yMD
-IzMDAwNTc5XX0=
+eyJoaXN0b3J5IjpbNDM0NTAzNTIyLDkwMDY2NDI5OCwtMjAyMz
+AwMDU3OV19
 -->
