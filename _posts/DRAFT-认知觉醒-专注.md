@@ -36,6 +36,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 要做到100%精力投入，“做A的时候彻底关注，再做B的时候彻底关注B。 A和B两件事情之间有非常清晰的界限。”。我们也尽可能排清杂念，减少外界对思想的干扰。
 
+诚然，这样的极度专注是不可能长久的，也没可能靠意志力完全独立支撑。因此，**间歇专注**是更符合科学学习的方法。
 
 
 ## 间歇专注
@@ -50,6 +51,6 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxNTU4MzAxLDkwMDY2NDI5OCwtMjAyMz
-AwMDU3OV19
+eyJoaXN0b3J5IjpbMTUyOTI2NjI5OSw5MDA2NjQyOTgsLTIwMj
+MwMDA1NzldfQ==
 -->
