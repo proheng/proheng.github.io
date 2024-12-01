@@ -25,7 +25,12 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 我们从以上的例子可以看出，无论用以上哪一种方法学习，我们都在做**背景关联**。虽然是一个单词，但记忆和感知都漂浮在更多的信息之上。当然，一定程度上这是好事，也不算分心。然而，这样的状态下，一不留神潜意识就会越带越偏离，最后，浮想联翩，那么，就真的走神了。
 
+
 ## 极度专注
+
+在学习和工作的过程中，我们肯定感受过全心投入专注的感觉，也肯定感觉过做白日梦走神的状态。
+
+
 ## 间歇专注
 
 # 摘抄和点评
@@ -34,6 +39,6 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyNTgwNDY0LDkwMDY2NDI5OCwtMjAyMz
-AwMDU3OV19
+eyJoaXN0b3J5IjpbMTAxMzk0MzkwNSw5MDA2NjQyOTgsLTIwMj
+MwMDA1NzldfQ==
 -->
