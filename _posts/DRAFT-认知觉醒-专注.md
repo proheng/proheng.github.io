@@ -21,7 +21,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 “分心走神是我们的天性”。另外，人的大脑的记忆方法是**背景关联记忆**，我们的记忆不是电脑，一通电就存了某个数据进去一个存储器里。我们对于一个信息的记忆，会连接在已有的信息体系上，还有此情此景的感知。
 
-我们记住一个
+例如，我们记住课堂上老师教的一个单词，可能有很多种方法，有的同学会联想到一个他已经熟悉的单词，然后，让新的单词
 
 ## 极度专注
 ## 间歇专注
@@ -32,6 +32,6 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MTU3MDUxNiw5MDA2NjQyOTgsLTIwMj
+eyJoaXN0b3J5IjpbMTExOTcyNTk2NSw5MDA2NjQyOTgsLTIwMj
 MwMDA1NzldfQ==
 -->
