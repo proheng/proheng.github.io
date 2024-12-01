@@ -28,7 +28,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 ## 极度专注
 
-在学习和工作的过程中，我们肯定感受过全心投入专注的感觉，也肯定感觉过做白日梦走神的状态。
+在学习和工作的过程中，我们肯定感受过全心投入专注的感觉，也肯定感觉过做白日梦走神的状态。但，更多的时候是，我们做在书案前，咬着笔头，
 
 
 ## 间歇专注
@@ -39,6 +39,6 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMzk0MzkwNSw5MDA2NjQyOTgsLTIwMj
+eyJoaXN0b3J5IjpbLTM0MDczMDU0OSw5MDA2NjQyOTgsLTIwMj
 MwMDA1NzldfQ==
 -->
