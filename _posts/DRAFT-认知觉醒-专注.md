@@ -15,6 +15,8 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 # 内容概述
 
+首先，为什么我们需要专注，因为，只有在高度专注的时候，我们理智大脑会全力工作，对外部信心进行吸收，分析，处理，xia
+
 ## 极度专注
 ## 间歇专注
 
@@ -24,6 +26,6 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODIxNzkxOSw5MDA2NjQyOTgsLTIwMj
-MwMDA1NzldfQ==
+eyJoaXN0b3J5IjpbLTEyMzE2MjkwMTQsOTAwNjY0Mjk4LC0yMD
+IzMDAwNTc5XX0=
 -->
