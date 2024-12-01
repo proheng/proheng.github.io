@@ -8,8 +8,14 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 为什么要读这一章
 
 # 内容概述
+sh
+
+# 摘抄和点评
+
+# 个人收获
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAwNjY0Mjk4LC0yMDIzMDAwNTc5XX0=
+eyJoaXN0b3J5IjpbLTE5MzQ2NDYyNyw5MDA2NjQyOTgsLTIwMj
+MwMDA1NzldfQ==
 -->
