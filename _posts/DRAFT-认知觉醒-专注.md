@@ -53,7 +53,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 如图所示，我们在专注模式中，与学习内容直接相关的大脑区域会积极响应，而其他区域则会被削弱，因此，极度专注的人或许感知不到时间的流逝和外界的环境变化。而在非专注模式中，大脑在发散思维，所有区域会恢复正常的运作，他们互相之间神经元继续连接和构建，对于学习到的内容，在潜意识里面做整理和思考。
 
-有不少经典科学研究发现都是研究者在发散模式中成就的。
+有不少经典科学研究成果都是研究者在发散模式（非专注模式）中成就的。当然，发散模式下的思考都是必须基于这些研究者在专注模式下获得的信息资料而产生的。
 
 # 摘抄和点评
 
@@ -64,6 +64,6 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODczMzk0MjgsLTE3MDM5NTIzMTcsMT
-c0NjE5NTQ4Nyw5MDA2NjQyOTgsLTIwMjMwMDA1NzldfQ==
+eyJoaXN0b3J5IjpbMjA3MDczMDA3NywtMTcwMzk1MjMxNywxNz
+Q2MTk1NDg3LDkwMDY2NDI5OCwtMjAyMzAwMDU3OV19
 -->
