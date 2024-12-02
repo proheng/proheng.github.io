@@ -77,10 +77,14 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 ### 番茄时间
 
-我们很多人知道的番茄时间就是基于这个间歇专注的理论，25分钟为一个番茄时间，5分钟休息，循环往复。原则是
+我们很多人知道的番茄时间就是基于这个间歇专注的理论，25分钟为一个番茄时间，5分钟休息，循环往复。
+
+我们的工作学习时间不一定能完全被分割成25+5的时间间隔，但是原则是
 > **只要坐下学习，就全力以赴；一旦开始分心走神，就主动休息。千万不要长时间坐在位置上不温不火地“磨洋工”​。**
 
-我们的工作学习时间不一定能完全shun xun
+另外，还有一些事项值得留意。
+
+
 
 # 摘抄和点评
 
@@ -108,7 +112,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzYwNDU3ODEsNzAzMDQ5MTA4LDY2Nj
-E5ODY3OCwtMTcwMzk1MjMxNywxNzQ2MTk1NDg3LDkwMDY2NDI5
-OCwtMjAyMzAwMDU3OV19
+eyJoaXN0b3J5IjpbMTM0NzU5NTQ3OCw3MDMwNDkxMDgsNjY2MT
+k4Njc4LC0xNzAzOTUyMzE3LDE3NDYxOTU0ODcsOTAwNjY0Mjk4
+LC0yMDIzMDAwNTc5XX0=
 -->
