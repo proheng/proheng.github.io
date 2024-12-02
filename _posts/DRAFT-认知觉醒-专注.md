@@ -71,6 +71,9 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 ![间歇专注的精力曲线](/assets/%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-%E9%97%B4%E6%AD%87%E4%B8%93%E6%B3%A8%E7%B2%BE%E5%8A%9B%E6%9B%B2%E7%BA%BF.jpg)
 
+> 反观那些轻松的学霸，他们学习时**从不过度消耗自己，只要感到精力不足，就停下来主动休息，这反而使他们精力桶的水位得到快速回升**。如上图所示，他们的精力曲线呈波浪状，这种循环能使精力水平一直保持在高位，所以即使接近一天的尾声，他们依然有能力抵御诱惑，不会滑入意志失控的深渊。
+
+因此，我们从小身边就有一些所谓天才，他们好像不一直在学习，成绩反而比你好，学习得y
 
 # 摘抄和点评
 
@@ -98,7 +101,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MzA3MDExLDcwMzA0OTEwOCw2NjYxOT
-g2NzgsLTE3MDM5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQyOTgs
-LTIwMjMwMDA1NzldfQ==
+eyJoaXN0b3J5IjpbMTIxNDY5MDY0OSw3MDMwNDkxMDgsNjY2MT
+k4Njc4LC0xNzAzOTUyMzE3LDE3NDYxOTU0ODcsOTAwNjY0Mjk4
+LC0yMDIzMDAwNTc5XX0=
 -->
