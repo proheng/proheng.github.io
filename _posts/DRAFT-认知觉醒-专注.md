@@ -55,7 +55,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 有不少经典科学研究成果都是研究者在发散模式（非专注模式）中成就的。当然，发散模式下的思考是必须基于专注模式下所获得的信息资料。
 
-那么就意味着我们不必要为无法zhuan z
+那么就意味着我们不必要为无法长时间极度专注而感到愧疚。相反，我们不应该一直处于发散思考。
 
 # 摘抄和点评
 
@@ -75,6 +75,6 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3ODMwNjM5LC0xNzAzOTUyMzE3LDE3ND
+eyJoaXN0b3J5IjpbNjY2MTk4Njc4LC0xNzAzOTUyMzE3LDE3ND
 YxOTU0ODcsOTAwNjY0Mjk4LC0yMDIzMDAwNTc5XX0=
 -->
