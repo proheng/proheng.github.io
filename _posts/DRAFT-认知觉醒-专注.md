@@ -43,6 +43,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 ## 间歇专注
 
+我们不专注那件事去做其他事情
 专注模式vs发散模式
 
 
@@ -57,6 +58,6 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDYyMTEzMSwtMTcwMzk1MjMxNywxNz
-Q2MTk1NDg3LDkwMDY2NDI5OCwtMjAyMzAwMDU3OV19
+eyJoaXN0b3J5IjpbNDE3ODIxNTc1LC0xNzAzOTUyMzE3LDE3ND
+YxOTU0ODcsOTAwNjY0Mjk4LC0yMDIzMDAwNTc5XX0=
 -->
