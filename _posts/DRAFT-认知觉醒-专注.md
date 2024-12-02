@@ -59,7 +59,9 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 ## 间歇专注
 
-如果我们想进一步延长我们的专注时间，我们就需要以下诸多方面的配合，包括，难度、兴趣、环境、情绪
+如果我们想进一步延长我们的专注时间，我们就需要以下诸多方面的配合，包括，难度、兴趣、环境、情绪、意义。当然，这些都会在书本后面的章节里一一论述到。
+
+就jia
 
 
 
@@ -89,7 +91,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQ1MTUxMTgsNjY2MTk4Njc4LC0xNz
+eyJoaXN0b3J5IjpbLTEwNDEwOTM1NTQsNjY2MTk4Njc4LC0xNz
 AzOTUyMzE3LDE3NDYxOTU0ODcsOTAwNjY0Mjk4LC0yMDIzMDAw
 NTc5XX0=
 -->
