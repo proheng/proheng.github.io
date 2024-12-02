@@ -5,7 +5,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 ![enter image description here](/assets/%E8%84%91%E5%9B%BE%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-%E4%B8%93%E6%B3%A8.png)
 
-**关键词**：极度专注，主动休息，专注模式，发散模式，难度，兴趣，环境，情绪，意义，间歇专注
+**关键词**：极度专注，主动休息，专注模式，发散模式，难度，兴趣，环境，情绪，意义，间歇专注，主动休息，循环往复
 
 # 为什么要读这一章
 
@@ -73,7 +73,9 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 > 反观那些轻松的学霸，他们学习时**从不过度消耗自己，只要感到精力不足，就停下来主动休息，这反而使他们精力桶的水位得到快速回升**。如上图所示，他们的精力曲线呈波浪状，这种循环能使精力水平一直保持在高位，所以即使接近一天的尾声，他们依然有能力抵御诱惑，不会滑入意志失控的深渊。
 
-因此，我们从小身边就有一些所谓天才，他们好像不一直在学习，成绩反而比你好，学习得y
+因此，我们从小身边就有一些所谓天才，他们好像不一直在学习，成绩反而比你好，学习得也很轻松。我身边就有一位从小往大的同学，他从来不参加补习班，但成绩一直很优秀。
+
+
 
 # 摘抄和点评
 
@@ -101,7 +103,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNDY5MDY0OSw3MDMwNDkxMDgsNjY2MT
-k4Njc4LC0xNzAzOTUyMzE3LDE3NDYxOTU0ODcsOTAwNjY0Mjk4
-LC0yMDIzMDAwNTc5XX0=
+eyJoaXN0b3J5IjpbMTExOTgxODgsNzAzMDQ5MTA4LDY2NjE5OD
+Y3OCwtMTcwMzk1MjMxNywxNzQ2MTk1NDg3LDkwMDY2NDI5OCwt
+MjAyMzAwMDU3OV19
 -->
