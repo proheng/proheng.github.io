@@ -67,7 +67,11 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 ![一直专注的精力曲线](/assets/%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-%E4%B8%80%E7%9B%B4%E4%B8%93%E6%B3%A8%E7%B2%BE%E5%8A%9B%E6%9B%B2%E7%BA%BF.jpg)
 
+> 刻苦者看似无比勤奋，可效果却越来越差，过程中感受到的多是痛苦而不是乐趣，精力消耗严重，以致一旦放松就完全不想再次投入，他们更容易沉溺于舒适的娱乐活动。这是因为**克服困难和抵制诱惑都需要消耗意志力**，而此时，他们的精力已经快消耗光了。
+
 ![间歇专注的精力曲线](/assets/%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-%E9%97%B4%E6%AD%87%E4%B8%93%E6%B3%A8%E7%B2%BE%E5%8A%9B%E6%9B%B2%E7%BA%BF.jpg)
+
+
 # 摘抄和点评
 
 > 所谓极度专注，就是调动所有感官，全身心地投入一件事，或者说将100%的精力投入一件事。换句话说，极度专注与普通程度的专注之间的区别就是“7个小球”火力全开与只用“四五个小球”进行学习、练习或思考的区别。
@@ -94,7 +98,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzMDQ5MTA4LDY2NjE5ODY3OCwtMTcwMz
-k1MjMxNywxNzQ2MTk1NDg3LDkwMDY2NDI5OCwtMjAyMzAwMDU3
-OV19
+eyJoaXN0b3J5IjpbMTg3MzA3MDExLDcwMzA0OTEwOCw2NjYxOT
+g2NzgsLTE3MDM5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQyOTgs
+LTIwMjMwMDA1NzldfQ==
 -->
