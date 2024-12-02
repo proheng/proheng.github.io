@@ -47,9 +47,9 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 > 作者芭芭拉·奥克利曾在《学习之道》一书中这样介绍：大脑在学习的时候有两种模式，一种是“意识”的**专注模式**，另一种是“潜意识”的**发散模式**
 
-如图所示
+如图所示，我们
 
-
+![意识和潜意识的工作模式](/assets/%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-%E4%B8%93%E6%B3%A8%E5%92%8C%E5%8F%91%E6%95%A3%E6%A8%A1%E5%BC%8F.jpg)
 
 专注模式vs发散模式
 
@@ -63,8 +63,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 # 个人收获
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyNzIxNjQ5LC0xNzAzOTUyMzE3LDE3ND
-YxOTU0ODcsOTAwNjY0Mjk4LC0yMDIzMDAwNTc5XX0=
+eyJoaXN0b3J5IjpbMjA3NDEwMDQ1NSwtMTcwMzk1MjMxNywxNz
+Q2MTk1NDg3LDkwMDY2NDI5OCwtMjAyMzAwMDU3OV19
 -->
