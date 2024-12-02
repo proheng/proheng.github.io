@@ -5,7 +5,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 ![enter image description here](/assets/%E8%84%91%E5%9B%BE%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-%E4%B8%93%E6%B3%A8.png)
 
-**关键词**：极度专注，主动休息，专注模式，发散模式
+**关键词**：极度专注，主动休息，专注模式，发散模式，难度，x
 
 # 为什么要读这一章
 
@@ -55,9 +55,11 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 有不少经典科学研究成果都是研究者在发散模式（非专注模式）中成就的。当然，发散模式下的思考是必须基于专注模式下所获得的信息资料。
 
-那么就意味着我们不必要为无法长时间极度专注而感到愧疚。相反，如果我们在极度专注期间，渐渐感觉越来越累，应该主动过
+那么就意味着我们不必要为无法长时间极度专注而感到愧疚。相反，如果我们在极度专注期间，渐渐感觉越来越累，思考开始迟缓，就应该主动休息，转移注意力去做其他完全不相干的事情。
 
 ## 间歇专注
+
+
 
 
 
@@ -76,10 +78,11 @@ title:  《认知觉醒》第三章 专注——学习的核心
 所谓不要三心二意，要一心一意。
 
 
+
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwMjk0MzAwLDY2NjE5ODY3OCwtMTcwMz
-k1MjMxNywxNzQ2MTk1NDg3LDkwMDY2NDI5OCwtMjAyMzAwMDU3
-OV19
+eyJoaXN0b3J5IjpbLTExODg2ODY1ODQsNjY2MTk4Njc4LC0xNz
+AzOTUyMzE3LDE3NDYxOTU0ODcsOTAwNjY0Mjk4LC0yMDIzMDAw
+NTc5XX0=
 -->
