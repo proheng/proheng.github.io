@@ -63,7 +63,9 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 就间歇专注而言，“**就是只要开始学习就全力以赴，尽量保持极度专注的状态，哪怕保持专注的时间很短，也是有意义的；一旦发现自己开始因为精力不足而分心走神，就主动停下来调整片刻。**”而且，“**想办法制造多个极度专注的片段，然后将这些片段加起来，就可以得到长期极度专注了。**”
 
-以下是几个书本的截图分别说明yi zh
+以下是几个书本的截图分别说明一直专注的精力曲线和间歇专注的精力曲线
+
+![yi hi](/assets/%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-%E4%B8%80%E7%9B%B4%E4%B8%93%E6%B3%A8%E7%B2%BE%E5%8A%9B%E6%9B%B2%E7%BA%BF.jpg)
 
 # 摘抄和点评
 
@@ -91,7 +93,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDYxMDY3MTEsNjY2MTk4Njc4LC0xNz
-AzOTUyMzE3LDE3NDYxOTU0ODcsOTAwNjY0Mjk4LC0yMDIzMDAw
-NTc5XX0=
+eyJoaXN0b3J5IjpbMTU4MTM4NjkzMCw2NjYxOTg2NzgsLTE3MD
+M5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQyOTgsLTIwMjMwMDA1
+NzldfQ==
 -->
