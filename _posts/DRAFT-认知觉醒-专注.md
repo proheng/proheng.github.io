@@ -61,9 +61,9 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 如果我们想进一步延长我们的专注时间，我们就需要以下诸多方面的配合，包括，难度、兴趣、环境、情绪、意义。当然，这些都会在书本后面的章节里一一论述到。
 
-就间歇专注而言，“**就是只要开始学习就全力以赴，尽量保持极度专注的状态，哪怕保持专注的时间很短，也是有意义的；一旦发现自己开始因为精力不足而分心走神，就主动停下来调整片刻。**”
+就间歇专注而言，“**就是只要开始学习就全力以赴，尽量保持极度专注的状态，哪怕保持专注的时间很短，也是有意义的；一旦发现自己开始因为精力不足而分心走神，就主动停下来调整片刻。**”而且，“**想办法制造多个极度专注的片段，然后将这些片段加起来，就可以得到长期极度专注了。**”
 
-
+以下是几个书本的截图分别说明yi zh
 
 # 摘抄和点评
 
@@ -91,7 +91,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4MjM1NzUyLDY2NjE5ODY3OCwtMTcwMz
-k1MjMxNywxNzQ2MTk1NDg3LDkwMDY2NDI5OCwtMjAyMzAwMDU3
-OV19
+eyJoaXN0b3J5IjpbLTEzNDYxMDY3MTEsNjY2MTk4Njc4LC0xNz
+AzOTUyMzE3LDE3NDYxOTU0ODcsOTAwNjY0Mjk4LC0yMDIzMDAw
+NTc5XX0=
 -->
