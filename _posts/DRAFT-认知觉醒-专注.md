@@ -44,6 +44,13 @@ title:  《认知觉醒》第三章 专注——学习的核心
 ## 间歇专注
 
 我们离开结束极度专注的时间段去做完全无关其他事情，难道就意味着我们的脑子不继续在这个件事上思考吗？结果是或许让你意外。
+
+> 作者芭芭拉·奥克利曾在《学习之道》一书中这样介绍：大脑在学习的时候有两种模式，一种是“意识”的**专注模式**，另一种是“潜意识”的**发散模式**
+
+如图所示
+
+
+
 专注模式vs发散模式
 
 
@@ -58,6 +65,6 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5NTI2MjcsLTE3MDM5NTIzMTcsMTc0Nj
-E5NTQ4Nyw5MDA2NjQyOTgsLTIwMjMwMDA1NzldfQ==
+eyJoaXN0b3J5IjpbODUyNzIxNjQ5LC0xNzAzOTUyMzE3LDE3ND
+YxOTU0ODcsOTAwNjY0Mjk4LC0yMDIzMDAwNTc5XX0=
 -->
