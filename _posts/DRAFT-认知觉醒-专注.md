@@ -65,8 +65,9 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 以下是几个书本的截图分别说明一直专注的精力曲线和间歇专注的精力曲线
 
-![yi hi](/assets/%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-%E4%B8%80%E7%9B%B4%E4%B8%93%E6%B3%A8%E7%B2%BE%E5%8A%9B%E6%9B%B2%E7%BA%BF.jpg)
+![一直专注的精力曲线](/assets/%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-%E4%B8%80%E7%9B%B4%E4%B8%93%E6%B3%A8%E7%B2%BE%E5%8A%9B%E6%9B%B2%E7%BA%BF.jpg)
 
+![间歇专注的精力曲线](/assets/%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-%E9%97%B4%E6%AD%87%E4%B8%93%E6%B3%A8%E7%B2%BE%E5%8A%9B%E6%9B%B2%E7%BA%BF.jpg)
 # 摘抄和点评
 
 > 所谓极度专注，就是调动所有感官，全身心地投入一件事，或者说将100%的精力投入一件事。换句话说，极度专注与普通程度的专注之间的区别就是“7个小球”火力全开与只用“四五个小球”进行学习、练习或思考的区别。
@@ -93,7 +94,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTM4NjkzMCw2NjYxOTg2NzgsLTE3MD
-M5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQyOTgsLTIwMjMwMDA1
-NzldfQ==
+eyJoaXN0b3J5IjpbNzAzMDQ5MTA4LDY2NjE5ODY3OCwtMTcwMz
+k1MjMxNywxNzQ2MTk1NDg3LDkwMDY2NDI5OCwtMjAyMzAwMDU3
+OV19
 -->
