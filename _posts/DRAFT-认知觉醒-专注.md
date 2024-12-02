@@ -43,7 +43,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 ## 间歇专注
 
-我们不专注那件事去做其他事情
+我们离开结束极度专注的时间段去做完全无关其他事情，难道就意味着我们的脑子不继续在这个件事上思考吗？结果是或许让你意外。
 专注模式vs发散模式
 
 
@@ -58,6 +58,6 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3ODIxNTc1LC0xNzAzOTUyMzE3LDE3ND
-YxOTU0ODcsOTAwNjY0Mjk4LC0yMDIzMDAwNTc5XX0=
+eyJoaXN0b3J5IjpbNTY5NTI2MjcsLTE3MDM5NTIzMTcsMTc0Nj
+E5NTQ4Nyw5MDA2NjQyOTgsLTIwMjMwMDA1NzldfQ==
 -->
