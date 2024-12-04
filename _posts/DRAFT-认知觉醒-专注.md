@@ -115,7 +115,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 首先，越是靠近早上，个人精力越好，越能专注，效率越高。
 
-geng
+更重要的是我们可以利用大脑有“增强回路”效应。简单地说，就是你做了一件事，它的结果会强化你做下一件事情的动机。“注意力的使用同样遵循这个规律，最初的选择会影响行为自动增强的方向。”
 
 # 摘抄和点评
 
@@ -143,8 +143,8 @@ geng
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY0MjYxNzk5LDM3Mzg5NTIyLDEwMzg2Nz
-EwNDEsMTM0NzU5NTQ3OCw3MDMwNDkxMDgsNjY2MTk4Njc4LC0x
-NzAzOTUyMzE3LDE3NDYxOTU0ODcsOTAwNjY0Mjk4LC0yMDIzMD
-AwNTc5XX0=
+eyJoaXN0b3J5IjpbLTE1MjYwMTE5MTQsMzczODk1MjIsMTAzOD
+Y3MTA0MSwxMzQ3NTk1NDc4LDcwMzA0OTEwOCw2NjYxOTg2Nzgs
+LTE3MDM5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQyOTgsLTIwMj
+MwMDA1NzldfQ==
 -->
