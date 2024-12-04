@@ -127,9 +127,11 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 先学习后娱乐，大脑认为学习的行为是获得奖赏的。那么奖励系统会发挥作用，我们不但不抗拒学习，更愿意先学习，然后获得娱乐的机会。
 
-![zeng jiang](/assets/%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-%E5%A2%9E%E5%BC%BA%E5%9B%9E%E8%B7%AF2.jpg)
+在增强回路的起点，我们更容易做出起初选择，是学习是娱乐都是一念之差。但是，但进入了某种mo shi
 
-因此，**“先做什么”，这个起初选择尤为重要**。万事开头难，做好了第一个决定就会有好的连锁反应。强迫自己先做重要的事情，一旦进入正向的增强回路，你便能拥有强大的专注力。
+![增强回路起点做选择的难度最小](/assets/%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-%E5%A2%9E%E5%BC%BA%E5%9B%9E%E8%B7%AF2.jpg)
+
+因此，**“先做什么”，这个起初选择尤为重要**。做好了第一个决定就会有好的连锁反应。强迫自己先做重要的事情，一旦进入正向的增强回路，你便能拥有强大的专注力。
 
 
 # 摘抄和点评
@@ -163,8 +165,8 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQwMzcwOCwtMTkzMDkwMDkxMCwzNz
-M4OTUyMiwxMDM4NjcxMDQxLDEzNDc1OTU0NzgsNzAzMDQ5MTA4
-LDY2NjE5ODY3OCwtMTcwMzk1MjMxNywxNzQ2MTk1NDg3LDkwMD
-Y2NDI5OCwtMjAyMzAwMDU3OV19
+eyJoaXN0b3J5IjpbLTE2MDYyMjAyNjIsLTE5MzA5MDA5MTAsMz
+czODk1MjIsMTAzODY3MTA0MSwxMzQ3NTk1NDc4LDcwMzA0OTEw
+OCw2NjYxOTg2NzgsLTE3MDM5NTIzMTcsMTc0NjE5NTQ4Nyw5MD
+A2NjQyOTgsLTIwMjMwMDA1NzldfQ==
 -->
