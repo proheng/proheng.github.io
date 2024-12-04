@@ -84,7 +84,12 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 另外，还有一些事项值得留意。
 
-- 移除视线范围内的分心物件（我个人发现，保持桌面的简单整洁，确实能帮助我带着清晰的思路和平静的情绪开始工作和学习。）
+- 移除视线范围内的分心物件	
+
+我个人发现，保持桌面的简单整洁，确实能帮助我带着清晰的思路和平静的情绪开始工作和学习。
+
+
+- 
 
 # 摘抄和点评
 
@@ -112,7 +117,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzYwNTUwMzMsMTM0NzU5NTQ3OCw3MD
-MwNDkxMDgsNjY2MTk4Njc4LC0xNzAzOTUyMzE3LDE3NDYxOTU0
-ODcsOTAwNjY0Mjk4LC0yMDIzMDAwNTc5XX0=
+eyJoaXN0b3J5IjpbMjk5MzcyMTY5LDEzNDc1OTU0NzgsNzAzMD
+Q5MTA4LDY2NjE5ODY3OCwtMTcwMzk1MjMxNywxNzQ2MTk1NDg3
+LDkwMDY2NDI5OCwtMjAyMzAwMDU3OV19
 -->
