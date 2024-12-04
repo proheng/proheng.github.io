@@ -91,7 +91,11 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 - 把脑子的杂念写下来
 
-我们希望学习工作时全程投入，7个小球完全专注在事情上。但无可避免，我们的发散思考会引起副作用，就是杂念。这些杂念有可能也是重要的，例如，突然记起有些服务快过期了要续费zhi la
+我们希望学习工作时全程投入，7个小球完全专注在事情上。但无可避免，我们的发散思考会引起副作用，就是杂念。这些杂念有可能也是重要的，例如，突然记起有些服务快过期了要续费之类的。但是，在当前下，这些事并不是应该处理的。因此，就先写在一个本子里。这样，这些事不会一直占据我们的7个小球，影响思考。
+
+- 主动停下来
+
+
 
 - 
 
@@ -121,7 +125,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU3NjQ5MzgsMTM0NzU5NTQ3OCw3MD
-MwNDkxMDgsNjY2MTk4Njc4LC0xNzAzOTUyMzE3LDE3NDYxOTU0
-ODcsOTAwNjY0Mjk4LC0yMDIzMDAwNTc5XX0=
+eyJoaXN0b3J5IjpbMTIxMjAyNDE0NCwxMzQ3NTk1NDc4LDcwMz
+A0OTEwOCw2NjYxOTg2NzgsLTE3MDM5NTIzMTcsMTc0NjE5NTQ4
+Nyw5MDA2NjQyOTgsLTIwMjMwMDA1NzldfQ==
 -->
