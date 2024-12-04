@@ -97,7 +97,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 番茄时间设定为25分钟有一定的道理，人在前25分的工作效率会最高，渐渐就下降了。我经常在番茄时间结束后，我还一直坐着在工作，结果，一直耗了一个小时或者更多。心里一直想，我应该快做完了，不想给休息时间打断思维。这是有一定道理，可惜25分钟的效率会渐渐不知不觉地降低。低下的效率在高度专注的状态下，人是很难察觉的。预期继续做下去，我也需要在到25分钟的时候，简单回顾一下工作进度就可以休息。
 
-更重要的是**如何休息**
+更重要的是**如何休息**。专注后，大多数人都忍不住看看手机，刷刷视频或者朋友圈。这个做法确实违背了大脑的工作原理，因为，手机屏幕带给我们的更多信息的注入，
 
 - 
 
@@ -127,7 +127,8 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgwODMzNzcxLDEwMzg2NzEwNDEsMTM0Nz
-U5NTQ3OCw3MDMwNDkxMDgsNjY2MTk4Njc4LC0xNzAzOTUyMzE3
-LDE3NDYxOTU0ODcsOTAwNjY0Mjk4LC0yMDIzMDAwNTc5XX0=
+eyJoaXN0b3J5IjpbLTE4NjA3MzQyMDMsMTAzODY3MTA0MSwxMz
+Q3NTk1NDc4LDcwMzA0OTEwOCw2NjYxOTg2NzgsLTE3MDM5NTIz
+MTcsMTc0NjE5NTQ4Nyw5MDA2NjQyOTgsLTIwMjMwMDA1NzldfQ
+==
 -->
