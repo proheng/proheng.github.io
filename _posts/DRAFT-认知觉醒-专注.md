@@ -95,7 +95,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 - 主动停下来
 
-
+番茄时间设定为25分钟有一定的道理，人在前25分的工作效率会最高，渐渐就下降了。我经常在番茄时间结束后，我还一直坐着在工作，结果，一直耗了一个小时或者更多。
 
 - 
 
@@ -125,7 +125,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjAyNDE0NCwxMzQ3NTk1NDc4LDcwMz
+eyJoaXN0b3J5IjpbMTY4Mzk4MDYzNywxMzQ3NTk1NDc4LDcwMz
 A0OTEwOCw2NjYxOTg2NzgsLTE3MDM5NTIzMTcsMTc0NjE5NTQ4
 Nyw5MDA2NjQyOTgsLTIwMjMwMDA1NzldfQ==
 -->
