@@ -109,7 +109,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 ![双峰模式](/assets/%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-%E5%8F%8C%E5%B3%B0.jpg)
 
-如果把学习和娱乐的时间完全隔离，学习的时候不娱乐，娱乐的时候不学习，那么大脑确实能一张一弛的工作，当然，这个比较理想的状态。无论大人或者小孩，当今的社会对我们的要求越来越高，娱乐好像
+如果把学习和娱乐的时间完全隔离，学习的时候不娱乐，娱乐的时候不学习，那么大脑确实能一张一弛的工作，当然，这个比较理想的状态。无论大人或者小孩，当今的社会对我们的要求越来越高，娱乐好像变得很不应该。学习工作好像大大受到社会推崇。**然而，我们确实需要从内在解放自己的思维，“我们改变不了社会，外人对我们期望，s
 
 # 摘抄和点评
 
@@ -137,8 +137,8 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjc1NzgzNSwzNzM4OTUyMiwxMDM4Nj
-cxMDQxLDEzNDc1OTU0NzgsNzAzMDQ5MTA4LDY2NjE5ODY3OCwt
-MTcwMzk1MjMxNywxNzQ2MTk1NDg3LDkwMDY2NDI5OCwtMjAyMz
-AwMDU3OV19
+eyJoaXN0b3J5IjpbMTA1NzY0ODQ5LDM3Mzg5NTIyLDEwMzg2Nz
+EwNDEsMTM0NzU5NTQ3OCw3MDMwNDkxMDgsNjY2MTk4Njc4LC0x
+NzAzOTUyMzE3LDE3NDYxOTU0ODcsOTAwNjY0Mjk4LC0yMDIzMD
+AwNTc5XX0=
 -->
