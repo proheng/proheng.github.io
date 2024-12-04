@@ -106,7 +106,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 书本提出一个双峰模式，
 > 把可用的大块时间分成两部分：先在第一部分时间里（通常是上午或最开始学习的时间）进行深度学习，此时尽可能保持极度专注，形成第一个“峰”​；再在第二部分时间里处理其他事情，包括放松和娱乐，此时也应尽情投入，形成第二个“峰”​。
 
-
+![双峰模式](/assets/%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-%E5%8F%8C%E5%B3%B0.jpg)
 
  
 
@@ -136,8 +136,8 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDkyMjI4MDQsMzczODk1MjIsMTAzOD
-Y3MTA0MSwxMzQ3NTk1NDc4LDcwMzA0OTEwOCw2NjYxOTg2Nzgs
-LTE3MDM5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQyOTgsLTIwMj
-MwMDA1NzldfQ==
+eyJoaXN0b3J5IjpbMTI3Njc5MzM2MSwzNzM4OTUyMiwxMDM4Nj
+cxMDQxLDEzNDc1OTU0NzgsNzAzMDQ5MTA4LDY2NjE5ODY3OCwt
+MTcwMzk1MjMxNywxNzQ2MTk1NDg3LDkwMDY2NDI5OCwtMjAyMz
+AwMDU3OV19
 -->
