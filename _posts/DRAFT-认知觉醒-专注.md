@@ -127,7 +127,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 先学习后娱乐，大脑认为学习的行为是获得奖赏的。那么奖励系统会发挥作用，我们不但不抗拒学习，更愿意先学习，然后获得娱乐的机会。
 
-因此，“先做什么”，这个起初选择尤为重要**
+因此，**“先做什么”，这个起初选择尤为重要**。万事开头难，做好了第一个决定就会有好的连锁反应。强迫自己先做重要的事情，一旦进入正向的增强回路，你便能拥有强大的专注力。
 
 
 # 摘抄和点评
@@ -153,10 +153,15 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 
 
+
+> 现在你有空闲时间，摆在你面前的是一本书和一部手机，你拿哪个？其实拿起哪个来，你都可能花很多时间在上面，关键就在于那一刹那的选择。选择书的那一刻可能有点痛苦，一旦读进去就不痛苦了。
+
+
+
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQxODUwNjA4LC0xOTMwOTAwOTEwLDM3Mz
+eyJoaXN0b3J5IjpbNTU3NTEzNzI0LC0xOTMwOTAwOTEwLDM3Mz
 g5NTIyLDEwMzg2NzEwNDEsMTM0NzU5NTQ3OCw3MDMwNDkxMDgs
 NjY2MTk4Njc4LC0xNzAzOTUyMzE3LDE3NDYxOTU0ODcsOTAwNj
 Y0Mjk4LC0yMDIzMDAwNTc5XX0=
