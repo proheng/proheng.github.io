@@ -84,7 +84,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 另外，还有一些事项值得留意。
 
-
+- 移除视线范围内的分心物件（保持桌面工作）
 
 # 摘抄和点评
 
@@ -112,7 +112,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NzU5NTQ3OCw3MDMwNDkxMDgsNjY2MT
-k4Njc4LC0xNzAzOTUyMzE3LDE3NDYxOTU0ODcsOTAwNjY0Mjk4
-LC0yMDIzMDAwNTc5XX0=
+eyJoaXN0b3J5IjpbMTQ0NTgxNjQwNywxMzQ3NTk1NDc4LDcwMz
+A0OTEwOCw2NjYxOTg2NzgsLTE3MDM5NTIzMTcsMTc0NjE5NTQ4
+Nyw5MDA2NjQyOTgsLTIwMjMwMDA1NzldfQ==
 -->
