@@ -87,7 +87,11 @@ title:  《认知觉醒》第三章 专注——学习的核心
 - 移除视线范围内的分心物件	
 
 我个人发现，保持桌面的简单整洁，确实能帮助我带着清晰的思路和平静的情绪开始工作和学习。
-我们也要小心手机屏幕弹出来的信息干扰自己。所以，我在Mac，iPhone和iPad上，设定了打开某些APP的时候，si
+我们也要小心手机屏幕弹出来的信息干扰自己。所以，我在Mac，iPhone和iPad上，设定了打开某些APP的时候，系统会自动转成勿打扰模式。一切非紧急的信息都会暂时屏蔽掉，等到我，把APP关掉的时候，自动退出勿打扰，信息才会重新弹出来。
+
+- 把脑子的杂念写下来
+
+我们希望学习工作时qu a
 
 - 
 
@@ -117,7 +121,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjIyNDc2NCwxMzQ3NTk1NDc4LDcwMz
-A0OTEwOCw2NjYxOTg2NzgsLTE3MDM5NTIzMTcsMTc0NjE5NTQ4
-Nyw5MDA2NjQyOTgsLTIwMjMwMDA1NzldfQ==
+eyJoaXN0b3J5IjpbNjAxNzg3ODY1LDEzNDc1OTU0NzgsNzAzMD
+Q5MTA4LDY2NjE5ODY3OCwtMTcwMzk1MjMxNywxNzQ2MTk1NDg3
+LDkwMDY2NDI5OCwtMjAyMzAwMDU3OV19
 -->
