@@ -133,7 +133,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 因此，**“先做什么”，这个起初选择尤为重要**。做好了第一个决定就会有好的连锁反应。强迫自己先做重要的事情，一旦进入正向的增强回路，你便能拥有强大的专注力。
 
-要专注，我们不需要每日三省，靠意志力，逼自己。我们需要撬动大脑里的gan gan
+要专注，我们不需要每日三省，靠意志力，逼自己。我们需要撬动大脑里的杠杆，合理安排时间，劳逸结合，做出正确的初始选择，巧妙地释放潜力是（本能脑，情绪脑）的所谓“自制力”“行动力”。
 
 
 # 摘抄和点评
@@ -167,8 +167,8 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDcxNTQ1ODIsLTE5OTkzMDk2MSwtMT
-kzMDkwMDkxMCwzNzM4OTUyMiwxMDM4NjcxMDQxLDEzNDc1OTU0
-NzgsNzAzMDQ5MTA4LDY2NjE5ODY3OCwtMTcwMzk1MjMxNywxNz
-Q2MTk1NDg3LDkwMDY2NDI5OCwtMjAyMzAwMDU3OV19
+eyJoaXN0b3J5IjpbMTU4MjI4ODU4MiwtMTk5OTMwOTYxLC0xOT
+MwOTAwOTEwLDM3Mzg5NTIyLDEwMzg2NzEwNDEsMTM0NzU5NTQ3
+OCw3MDMwNDkxMDgsNjY2MTk4Njc4LC0xNzAzOTUyMzE3LDE3ND
+YxOTU0ODcsOTAwNjY0Mjk4LC0yMDIzMDAwNTc5XX0=
 -->
