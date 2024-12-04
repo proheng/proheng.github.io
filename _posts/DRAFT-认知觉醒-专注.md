@@ -101,7 +101,12 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 ## 双峰模式和先学后娱乐
 
-如果你有一整天时间完全自主安排，你知道你可以娱乐，也有一定学习工作任务，那么你会选择先做哪一个？tong z
+如果你有一整天时间完全自主安排，你知道你可以娱乐，也有一定学习工作任务，那么一早起来你会选择先做哪一个？还是两个间接着做？
+
+书本提出一个双峰模式，
+> 把可用的大块时间分成两部分：先在第一部分时间里（通常是上午或最开始学习的时间）进行深度学习，此时尽可能保持极度专注，形成第一个“峰”​；再在第二部分时间里处理其他事情，包括放松和娱乐，此时也应尽情投入，形成第二个“峰”​。
+
+
 
  
 
@@ -131,8 +136,8 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1NjQ0MzIsMzczODk1MjIsMTAzODY3MT
-A0MSwxMzQ3NTk1NDc4LDcwMzA0OTEwOCw2NjYxOTg2NzgsLTE3
-MDM5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQyOTgsLTIwMjMwMD
-A1NzldfQ==
+eyJoaXN0b3J5IjpbLTE3MDkyMjI4MDQsMzczODk1MjIsMTAzOD
+Y3MTA0MSwxMzQ3NTk1NDc4LDcwMzA0OTEwOCw2NjYxOTg2Nzgs
+LTE3MDM5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQyOTgsLTIwMj
+MwMDA1NzldfQ==
 -->
