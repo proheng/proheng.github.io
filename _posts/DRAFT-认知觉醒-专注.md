@@ -123,6 +123,11 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 先娱乐后学习，大脑认为学习就是对娱乐的惩罚，久而久之，大脑会对学习产生负面潜意识。
 
+> 反过来，我们也可能进入另一种状态。如果每天起床后我们能刻意避开轻松和娱乐的吸引，先去读书、锻炼或做作业，精力就会呈聚合状态，并自动增强。比如，起床后先去阅读，读得越多，脑子里的问题和感触就越多，反过来又会产生更强烈的阅读欲望，回路逐渐增强。
+
+先学习后娱乐，大脑认为学习的行为是获得奖赏的。那么xian
+
+
 # 摘抄和点评
 
 > 所谓极度专注，就是调动所有感官，全身心地投入一件事，或者说将100%的精力投入一件事。换句话说，极度专注与普通程度的专注之间的区别就是“7个小球”火力全开与只用“四五个小球”进行学习、练习或思考的区别。
@@ -149,7 +154,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzQ3MTQ1NjksLTE5MzA5MDA5MTAsMz
+eyJoaXN0b3J5IjpbLTIxMDkyNTg1NTQsLTE5MzA5MDA5MTAsMz
 czODk1MjIsMTAzODY3MTA0MSwxMzQ3NTk1NDc4LDcwMzA0OTEw
 OCw2NjYxOTg2NzgsLTE3MDM5NTIzMTcsMTc0NjE5NTQ4Nyw5MD
 A2NjQyOTgsLTIwMjMwMDA1NzldfQ==
