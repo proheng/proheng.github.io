@@ -101,7 +101,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 ## 双峰模式和先学后娱乐
 
-如果你有yi zheng t
+如果你有一整天时间完全自主安排，你知道你可以娱乐，也有一定学习工作任务，那么你会选择先做哪一个？tong z
 
  
 
@@ -131,8 +131,8 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNDgxODc2MywzNzM4OTUyMiwxMDM4Nj
-cxMDQxLDEzNDc1OTU0NzgsNzAzMDQ5MTA4LDY2NjE5ODY3OCwt
-MTcwMzk1MjMxNywxNzQ2MTk1NDg3LDkwMDY2NDI5OCwtMjAyMz
-AwMDU3OV19
+eyJoaXN0b3J5IjpbOTY1NjQ0MzIsMzczODk1MjIsMTAzODY3MT
+A0MSwxMzQ3NTk1NDc4LDcwMzA0OTEwOCw2NjYxOTg2NzgsLTE3
+MDM5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQyOTgsLTIwMjMwMD
+A1NzldfQ==
 -->
