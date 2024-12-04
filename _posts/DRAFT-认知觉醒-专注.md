@@ -125,7 +125,9 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 > 反过来，我们也可能进入另一种状态。如果每天起床后我们能刻意避开轻松和娱乐的吸引，先去读书、锻炼或做作业，精力就会呈聚合状态，并自动增强。比如，起床后先去阅读，读得越多，脑子里的问题和感触就越多，反过来又会产生更强烈的阅读欲望，回路逐渐增强。
 
-先学习后娱乐，大脑认为学习的行为是获得奖赏的。那么xian
+先学习后娱乐，大脑认为学习的行为是获得奖赏的。那么奖励系统会发挥作用，我们不但不抗拒学习，更愿意先学习，然后获得娱乐的机会。
+
+因此，“先做什么”，这个起初选择尤为重要**
 
 
 # 摘抄和点评
@@ -154,8 +156,8 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDkyNTg1NTQsLTE5MzA5MDA5MTAsMz
-czODk1MjIsMTAzODY3MTA0MSwxMzQ3NTk1NDc4LDcwMzA0OTEw
-OCw2NjYxOTg2NzgsLTE3MDM5NTIzMTcsMTc0NjE5NTQ4Nyw5MD
-A2NjQyOTgsLTIwMjMwMDA1NzldfQ==
+eyJoaXN0b3J5IjpbNTQxODUwNjA4LC0xOTMwOTAwOTEwLDM3Mz
+g5NTIyLDEwMzg2NzEwNDEsMTM0NzU5NTQ3OCw3MDMwNDkxMDgs
+NjY2MTk4Njc4LC0xNzAzOTUyMzE3LDE3NDYxOTU0ODcsOTAwNj
+Y0Mjk4LC0yMDIzMDAwNTc5XX0=
 -->
