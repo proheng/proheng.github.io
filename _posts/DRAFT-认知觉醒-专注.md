@@ -117,7 +117,9 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 更重要的是我们可以利用大脑有“增强回路”效应。简单地说，就是你做了一件事，它的结果会强化你做下一件事情的动机。“注意力的使用同样遵循这个规律，最初的选择会影响行为自动增强的方向。”
 
+![注意力增强回路](/assets/%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-%E5%A2%9E%E5%BC%BA%E5%9B%9E%E8%B7%AF1.jpg)
 
+> 如果我们一开始就娱乐，那么我们的注意力就会被好玩有趣的事情一路吸引，回路不断增强，注意力呈“无限扩散”状态。同时，情绪一旦适应了轻松有趣的状态，便会期待获取更多轻松有趣的信息，这样又形成了一个情绪增强回路。一天才刚开始，注意力和情绪就受到了影响，面对困难、枯燥的学习和工作时，就不容易进入状态了
 
 # 摘抄和点评
 
@@ -145,8 +147,8 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzA5MDA5MTAsMzczODk1MjIsMTAzOD
-Y3MTA0MSwxMzQ3NTk1NDc4LDcwMzA0OTEwOCw2NjYxOTg2Nzgs
-LTE3MDM5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQyOTgsLTIwMj
-MwMDA1NzldfQ==
+eyJoaXN0b3J5IjpbLTM5NjQ1NTcyNywtMTkzMDkwMDkxMCwzNz
+M4OTUyMiwxMDM4NjcxMDQxLDEzNDc1OTU0NzgsNzAzMDQ5MTA4
+LDY2NjE5ODY3OCwtMTcwMzk1MjMxNywxNzQ2MTk1NDg3LDkwMD
+Y2NDI5OCwtMjAyMzAwMDU3OV19
 -->
