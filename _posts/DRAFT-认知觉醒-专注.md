@@ -141,13 +141,13 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 > 所谓极度专注，就是调动所有感官，全身心地投入一件事，或者说将100%的精力投入一件事。换句话说，极度专注与普通程度的专注之间的区别就是“7个小球”火力全开与只用“四五个小球”进行学习、练习或思考的区别。
 
-极度专注就是要学习把7个小球全部用上。心无杂念，如果真的有，那么写下来，以后再说。
+极度专注就是要学习把7个小球全部用上。心无杂念，如果真的浮现了，那么写下来，以后再说。
 
 >**变聪明的秘诀就是先保持极度专注，想不出答案时再将注意力转换到另一件与此毫不相干的事情上。**即事前聚精会神，让意识极度投入；事后完全忘记，让意识彻底撒手。这样，灵感和答案就会大概率地出现。
 
 我也有同样的经历，在工作卡住的时候，离开工作台，做其他事情，灵感慢慢会浮现在脑海里。
 
-事实上，我工作上的任务是有一定的技术难度和知识上的学习梯度，需要我好几天，甚至一个更长的时间去思考，领悟，并且提出结局方案。在这段技术攻关时期，我感觉到我的潜意识一直在消化我学的新知识，一直在做发散性的思考，偶尔也会迸发出一些灵感，于是我会给自己的工作邮箱发送一份邮件，提醒自己我上班的时候，去验证一下，这样我可以让大脑在非工作时期继续发散，不担忧忘记一些灵感。
+事实上，我工作上的任务是有一定的技术难度和知识上的学习梯度，有时需要我好几天，甚至一个更长的时间去思考，领悟，并且提出结局方案，进行验证。在这段技术攻关时期，我感觉到我的潜意识一直在消化我学的新知识，一直在做发散性的思考，偶尔也会迸发出一些灵感，于是我会给自己的工作邮箱发送一份邮件，提醒自己我上班的时候，去验证一下，这样我可以让大脑在非工作时期继续发散，不担忧忘记一些灵感。
 
 > **好的学习模式是，在做A的时候彻底关注A，在做B的时候彻底关注B,A和B两件事情之间有非常清晰的界线。**如果在做A的时候想着B，在做B的时候又想着A，那么意识工作的深度不够，潜意识也无法顺利开启，这种边界不清的习惯对能力提升伤害很大。李大钊也说过：“要学就学个踏实，要玩就玩个痛快！”说明界线分明的习惯对人性情和能力的培养都很有好处。
 
@@ -182,10 +182,10 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 但是，成年人和青少年不同。成年人的学习多了一份自驱力，青少年人在多方面都还没清晰，尤其学习目的，情绪管理等，在学习知识上就会出现填鸭喂饭式的被动。因此要他们专注一件事，先让他们看到这件事的意义，和与他的切身利益尤为重要。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjAxNjYyMDQsLTE2MTk3MDA5NjUsMT
-Q3MzQwNDAyMywxMzUzMTQwNDc5LC0xMDgzMzM5NDI4LC01Mzgw
-NzkxNjEsMTU4MjI4ODU4MiwtMTk5OTMwOTYxLC0xOTMwOTAwOT
-EwLDM3Mzg5NTIyLDEwMzg2NzEwNDEsMTM0NzU5NTQ3OCw3MDMw
-NDkxMDgsNjY2MTk4Njc4LC0xNzAzOTUyMzE3LDE3NDYxOTU0OD
-csOTAwNjY0Mjk4LC0yMDIzMDAwNTc5XX0=
+eyJoaXN0b3J5IjpbMTg1MDE3NzQwMiwtMTYxOTcwMDk2NSwxND
+czNDA0MDIzLDEzNTMxNDA0NzksLTEwODMzMzk0MjgsLTUzODA3
+OTE2MSwxNTgyMjg4NTgyLC0xOTk5MzA5NjEsLTE5MzA5MDA5MT
+AsMzczODk1MjIsMTAzODY3MTA0MSwxMzQ3NTk1NDc4LDcwMzA0
+OTEwOCw2NjYxOTg2NzgsLTE3MDM5NTIzMTcsMTc0NjE5NTQ4Ny
+w5MDA2NjQyOTgsLTIwMjMwMDA1NzldfQ==
 -->
