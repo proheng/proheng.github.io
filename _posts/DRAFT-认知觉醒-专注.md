@@ -134,7 +134,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 因此，**“先做什么”，这个起初选择尤为重要**。做好了第一个决定就会有好的连锁反应。强迫自己先做重要的事情，一旦进入正向的增强回路，你便能拥有强大的专注力。
 
-要专注，我们不需要每日三省，靠意志力，逼自己。我们需要撬动大脑里的杠杆，合理安排时间，劳逸结合，做出正确的初始选择，巧妙地释放潜力是（本能脑，情绪脑）的所谓“自制力”“行动力”。
+要专注，我们不需要每日三省，光靠意志力，强迫自己，更没有必要让自己有负罪感（我小时候不学习打游戏确实多多少少带有一点无名负罪感，但是打篮球好想没有那么明显）。我们需要撬动大脑里的杠杆，合理安排时间，劳逸结合，做出正确的初始选择，巧妙地释放潜力是（本能脑，情绪脑）的所谓“自制力”“行动力”。
 
 
 # 摘抄和点评
@@ -182,7 +182,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 但是，成年人和青少年不同。成年人的学习多了一份自驱力，青少年人在多方面都还没清晰，尤其学习目的，情绪管理等，在学习知识上就会出现填鸭喂饭式的被动。因此要他们专注一件事，先让他们看到这件事的意义，和与他的切身利益尤为重要。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTc4NjI5LC0xNjE5NzAwOTY1LDE0Nz
+eyJoaXN0b3J5IjpbNzU2MzczMTEyLC0xNjE5NzAwOTY1LDE0Nz
 M0MDQwMjMsMTM1MzE0MDQ3OSwtMTA4MzMzOTQyOCwtNTM4MDc5
 MTYxLDE1ODIyODg1ODIsLTE5OTkzMDk2MSwtMTkzMDkwMDkxMC
 wzNzM4OTUyMiwxMDM4NjcxMDQxLDEzNDc1OTU0NzgsNzAzMDQ5
