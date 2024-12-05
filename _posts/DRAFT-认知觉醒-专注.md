@@ -177,11 +177,11 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 我们需要积极正面地顺势而为，所谓的“势”，就是我们无法超越的人体躯壳，我们没有必要“悬梁刺股”，“日以继夜”，“凿壁偷光”，“废寝忘食”地学习。我们更应该一张一弛，劳逸结合，先劳后逸。让自己螺旋式上升。
 
-我虽然快不惑之年才阅读到这本书，但是，书中的知识和建议鼓励着我继续学习工作进步。我也努力在尝试使用。
+我虽然快不惑之年才阅读到这本书，但书中的知识和建议，确实提升了我的学习和工作的效率，让我更正面积极地应对一些工作上的压力。我也一直努力通过实践z。
 
 但是，成年人和青少年不同。成年人的学习多了一份自驱力，青少年人在很多事上还找不到一定的方向，在学习知识方面还处于填鸭喂饭阶段。这样相对被动的精神状态先需要纠正过来。让青少年人明白
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTQyMTk0NiwxNTgyMjg4NTgyLC0xOT
+eyJoaXN0b3J5IjpbMTU2NzQzODI5OCwxNTgyMjg4NTgyLC0xOT
 k5MzA5NjEsLTE5MzA5MDA5MTAsMzczODk1MjIsMTAzODY3MTA0
 MSwxMzQ3NTk1NDc4LDcwMzA0OTEwOCw2NjYxOTg2NzgsLTE3MD
 M5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQyOTgsLTIwMjMwMDA1
