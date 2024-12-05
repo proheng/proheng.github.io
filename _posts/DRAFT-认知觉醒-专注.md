@@ -126,9 +126,9 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 > 反过来，我们也可能进入另一种状态。如果每天起床后我们能刻意避开轻松和娱乐的吸引，先去读书、锻炼或做作业，精力就会呈聚合状态，并自动增强。比如，起床后先去阅读，读得越多，脑子里的问题和感触就越多，反过来又会产生更强烈的阅读欲望，回路逐渐增强。
 
-先学习后娱乐，大脑认为学习的行为是会获得奖赏（gao su“能玩的时间一秒都不会少的”）。那么奖励系统会发挥作用，我们不但不抗拒学习，更愿意先学习，然后获得娱乐的机会。
+先学习后娱乐，大脑认为学习的行为是会获得奖赏（告诉自己：“先把学习做好，能玩的时间一秒都不会少的”）。那么奖励系统会发挥作用，我们不但不抗拒学习，更愿意先学习，然后获得娱乐的奖励。
 
-在增强回路的起点，我们更容易做出起初选择，是学习是娱乐都是一念之差。但是，但进入了某种模式后，增强回路不断加强，我们会越来越难改变选择了，娱乐中的，更难舍离。学习中的，会更容易继续下去。
+在增强回路的起点，我们更容易做出起初选择，是学习是娱乐都是一念之差。但是，但进入了某种模式后，增强回路不断加强，我们会越来越难往回走改变选择了。在娱乐中的，更难舍离。在学习中的，会更容易继续坚持下去。
 
 ![增强回路起点做选择的难度最小](/assets/%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-%E5%A2%9E%E5%BC%BA%E5%9B%9E%E8%B7%AF2.jpg)
 
@@ -182,10 +182,10 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 但是，成年人和青少年不同。成年人的学习多了一份自驱力，青少年人在多方面都还没清晰，尤其学习目的，情绪管理等，在学习知识上就会出现填鸭喂饭式的被动。因此要他们专注一件事，先让他们看到这件事的意义，和与他的切身利益尤为重要。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzA3NjYxMywtMTYxOTcwMDk2NSwxND
-czNDA0MDIzLDEzNTMxNDA0NzksLTEwODMzMzk0MjgsLTUzODA3
-OTE2MSwxNTgyMjg4NTgyLC0xOTk5MzA5NjEsLTE5MzA5MDA5MT
-AsMzczODk1MjIsMTAzODY3MTA0MSwxMzQ3NTk1NDc4LDcwMzA0
-OTEwOCw2NjYxOTg2NzgsLTE3MDM5NTIzMTcsMTc0NjE5NTQ4Ny
-w5MDA2NjQyOTgsLTIwMjMwMDA1NzldfQ==
+eyJoaXN0b3J5IjpbLTI4OTc4NjI5LC0xNjE5NzAwOTY1LDE0Nz
+M0MDQwMjMsMTM1MzE0MDQ3OSwtMTA4MzMzOTQyOCwtNTM4MDc5
+MTYxLDE1ODIyODg1ODIsLTE5OTkzMDk2MSwtMTkzMDkwMDkxMC
+wzNzM4OTUyMiwxMDM4NjcxMDQxLDEzNDc1OTU0NzgsNzAzMDQ5
+MTA4LDY2NjE5ODY3OCwtMTcwMzk1MjMxNywxNzQ2MTk1NDg3LD
+kwMDY2NDI5OCwtMjAyMzAwMDU3OV19
 -->
