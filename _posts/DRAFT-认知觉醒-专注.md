@@ -55,7 +55,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 有不少经典科学研究成果都是研究者在发散模式（非专注模式）中成就的。当然，发散模式下的思考是必须基于专注模式下所获得的信息资料。
 
-那么就意味着我们不必要为无法长时间极度专注而感到愧疚。相反，如果我们在极度专注期间，渐渐感觉越来越累，思考开始迟缓，就应该主动休息，转移注意力去做其他完全不相干的事情。
+那么就意味着我们不必要为无法长时间极度专注而感到愧疚。相反，如果我们在极度专注期间，渐渐感觉越来越累，思考开始迟缓，就应该**主动休息**，转移注意力去做其他完全不相干的事情。
 
 ## 间歇专注
 
@@ -181,9 +181,9 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 但是，成年人和青少年不同。成年人的学习多了一份自驱力，青少年人在多方面都还没清晰，尤其学习目的，情绪管理等，在学习知识上就会出现填鸭喂饭式的被动。因此要他们专注一件事，先让他们看到这件事的意义，和与他的切身利益尤为重要。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTA3NTU2LC01MzgwNzkxNjEsMTU4Mj
-I4ODU4MiwtMTk5OTMwOTYxLC0xOTMwOTAwOTEwLDM3Mzg5NTIy
-LDEwMzg2NzEwNDEsMTM0NzU5NTQ3OCw3MDMwNDkxMDgsNjY2MT
-k4Njc4LC0xNzAzOTUyMzE3LDE3NDYxOTU0ODcsOTAwNjY0Mjk4
-LC0yMDIzMDAwNTc5XX0=
+eyJoaXN0b3J5IjpbLTEwODMzMzk0MjgsLTUzODA3OTE2MSwxNT
+gyMjg4NTgyLC0xOTk5MzA5NjEsLTE5MzA5MDA5MTAsMzczODk1
+MjIsMTAzODY3MTA0MSwxMzQ3NTk1NDc4LDcwMzA0OTEwOCw2Nj
+YxOTg2NzgsLTE3MDM5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQy
+OTgsLTIwMjMwMDA1NzldfQ==
 -->
