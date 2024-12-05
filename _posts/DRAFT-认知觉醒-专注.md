@@ -73,7 +73,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 > 反观那些轻松的学霸，他们学习时**从不过度消耗自己，只要感到精力不足，就停下来主动休息，这反而使他们精力桶的水位得到快速回升**。如上图所示，他们的精力曲线呈波浪状，这种循环能使精力水平一直保持在高位，所以即使接近一天的尾声，他们依然有能力抵御诱惑，不会滑入意志失控的深渊。
 
-因此，我们从小身边就有一些所谓天才，他们好像不一直在学习，成绩反而比你好，学习得也很轻松。我身边就有一位从小往大的同学，他从来不参加补习班，但成绩一直很优秀。
+因此，我们从小身边就有一些所谓天才，他们好像不一直在学习，该玩的时候从不耽误，成绩反而比你好，学习得也很轻松。我身边就有一位从小往大的同学，他从来不参加补习班，但成绩一直很优秀。
 
 ### 番茄时间
 
@@ -181,9 +181,10 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 但是，成年人和青少年不同。成年人的学习多了一份自驱力，青少年人在多方面都还没清晰，尤其学习目的，情绪管理等，在学习知识上就会出现填鸭喂饭式的被动。因此要他们专注一件事，先让他们看到这件事的意义，和与他的切身利益尤为重要。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MzE0MDQ3OSwtMTA4MzMzOTQyOCwtNT
-M4MDc5MTYxLDE1ODIyODg1ODIsLTE5OTkzMDk2MSwtMTkzMDkw
-MDkxMCwzNzM4OTUyMiwxMDM4NjcxMDQxLDEzNDc1OTU0NzgsNz
-AzMDQ5MTA4LDY2NjE5ODY3OCwtMTcwMzk1MjMxNywxNzQ2MTk1
-NDg3LDkwMDY2NDI5OCwtMjAyMzAwMDU3OV19
+eyJoaXN0b3J5IjpbMTQ3MzQwNDAyMywxMzUzMTQwNDc5LC0xMD
+gzMzM5NDI4LC01MzgwNzkxNjEsMTU4MjI4ODU4MiwtMTk5OTMw
+OTYxLC0xOTMwOTAwOTEwLDM3Mzg5NTIyLDEwMzg2NzEwNDEsMT
+M0NzU5NTQ3OCw3MDMwNDkxMDgsNjY2MTk4Njc4LC0xNzAzOTUy
+MzE3LDE3NDYxOTU0ODcsOTAwNjY0Mjk4LC0yMDIzMDAwNTc5XX
+0=
 -->
