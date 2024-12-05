@@ -86,8 +86,8 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 - 移除视线范围内的分心物件	
 
-我个人发现，保持桌面的简单整洁（东西不一定少，但是必须放在该在的位置，这样思维可以安稳di），确实能帮助我带着清晰的思路和平静的情绪开始工作和学习。
-我们也要小心手机屏幕弹出来的信息干扰自己。所以，我在Mac，iPhone和iPad上，设定了打开某些APP的时候，系统会自动转成勿打扰模式。一切非紧急的信息都会暂时屏蔽掉，等到我，把APP关掉的时候，自动退出勿打扰，信息才会重新弹出来。
+我个人发现，保持桌面的简单整洁（桌面的东西不一定少，但是必须放在该在的位置，这样思维可以安稳地专注），确实能帮助我带着清晰的思路和平静的情绪开始工作和学习。
+我们也要小心受到手机屏幕弹出来的信息干扰。所以，我在Mac，iPhone和iPad上，设定了打开某些APP的时候，系统会自动转成勿打扰模式。一切非紧急的信息都会暂时屏蔽掉，等到我完成某个任务，把APP关掉的时候，系统会自动退出勿打扰，信息才会重新弹出来。
 
 - 把脑子的杂念写下来
 
@@ -181,10 +181,10 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 但是，成年人和青少年不同。成年人的学习多了一份自驱力，青少年人在多方面都还没清晰，尤其学习目的，情绪管理等，在学习知识上就会出现填鸭喂饭式的被动。因此要他们专注一件事，先让他们看到这件事的意义，和与他的切身利益尤为重要。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODI2MjUzMiwxNDczNDA0MDIzLDEzNT
-MxNDA0NzksLTEwODMzMzk0MjgsLTUzODA3OTE2MSwxNTgyMjg4
-NTgyLC0xOTk5MzA5NjEsLTE5MzA5MDA5MTAsMzczODk1MjIsMT
-AzODY3MTA0MSwxMzQ3NTk1NDc4LDcwMzA0OTEwOCw2NjYxOTg2
-NzgsLTE3MDM5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQyOTgsLT
-IwMjMwMDA1NzldfQ==
+eyJoaXN0b3J5IjpbLTIxMDE3MDc2MjQsMTQ3MzQwNDAyMywxMz
+UzMTQwNDc5LC0xMDgzMzM5NDI4LC01MzgwNzkxNjEsMTU4MjI4
+ODU4MiwtMTk5OTMwOTYxLC0xOTMwOTAwOTEwLDM3Mzg5NTIyLD
+EwMzg2NzEwNDEsMTM0NzU5NTQ3OCw3MDMwNDkxMDgsNjY2MTk4
+Njc4LC0xNzAzOTUyMzE3LDE3NDYxOTU0ODcsOTAwNjY0Mjk4LC
+0yMDIzMDAwNTc5XX0=
 -->
