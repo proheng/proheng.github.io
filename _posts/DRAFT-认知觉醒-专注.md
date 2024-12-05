@@ -30,7 +30,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 ## 极度专注
 
-在学习和工作的过程中，我们肯定感受过全心投入专注的感觉，也肯定过做白日梦。但，更多的时候是，我们坐在书案前，咬着笔头，尝试完成一份作业。我们时而看题思考，时而看看窗外。这种状态算专注吗？那么就看我们7个小球里面，有多少个是看题目了。
+在学习和工作的过程中，我们肯定感受过全心投入，专注的感觉，也肯定过做白日梦。但，更多的时候是，我们坐在书案前，咬着笔头，尝试完成一份作业。我们时而看题思考，时而看看窗外。这种状态算专注吗？那么就看我们7个小球里面，有多少个是看题目了。
 
 “成长就是克服天性的过程”，我们不仅要追求专注，还要追求“**极度专注**”。
 
@@ -181,9 +181,9 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 但是，成年人和青少年不同。成年人的学习多了一份自驱力，青少年人在多方面都还没清晰，尤其学习目的，情绪管理等，在学习知识上就会出现填鸭喂饭式的被动。因此要他们专注一件事，先让他们看到这件事的意义，和与他的切身利益尤为重要。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDc1MjI2OSwtNTM4MDc5MTYxLDE1OD
-IyODg1ODIsLTE5OTkzMDk2MSwtMTkzMDkwMDkxMCwzNzM4OTUy
-MiwxMDM4NjcxMDQxLDEzNDc1OTU0NzgsNzAzMDQ5MTA4LDY2Nj
-E5ODY3OCwtMTcwMzk1MjMxNywxNzQ2MTk1NDg3LDkwMDY2NDI5
-OCwtMjAyMzAwMDU3OV19
+eyJoaXN0b3J5IjpbLTIwMTg0NTg0NDUsLTUzODA3OTE2MSwxNT
+gyMjg4NTgyLC0xOTk5MzA5NjEsLTE5MzA5MDA5MTAsMzczODk1
+MjIsMTAzODY3MTA0MSwxMzQ3NTk1NDc4LDcwMzA0OTEwOCw2Nj
+YxOTg2NzgsLTE3MDM5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQy
+OTgsLTIwMjMwMDA1NzldfQ==
 -->
