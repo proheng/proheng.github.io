@@ -63,7 +63,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 就间歇专注而言，“**就是只要开始学习就全力以赴，尽量保持极度专注的状态，哪怕保持专注的时间很短，也是有意义的；一旦发现自己开始因为精力不足而分心走神，就主动停下来调整片刻。**”而且，“**想办法制造多个极度专注的片段，然后将这些片段加起来，就可以得到长期极度专注了。**”
 
-以下是几个书本的截图分别说明一直专注的精力曲线和间歇专注的精力曲线
+以下是几个书本的截图分别说明一直专注的精力曲线和间歇专注的精力曲线的对比。
 
 ![一直专注的精力曲线](/assets/%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-%E4%B8%80%E7%9B%B4%E4%B8%93%E6%B3%A8%E7%B2%BE%E5%8A%9B%E6%9B%B2%E7%BA%BF.jpg)
 
@@ -181,9 +181,9 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 但是，成年人和青少年不同。成年人的学习多了一份自驱力，青少年人在多方面都还没清晰，尤其学习目的，情绪管理等，在学习知识上就会出现填鸭喂饭式的被动。因此要他们专注一件事，先让他们看到这件事的意义，和与他的切身利益尤为重要。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODMzMzk0MjgsLTUzODA3OTE2MSwxNT
-gyMjg4NTgyLC0xOTk5MzA5NjEsLTE5MzA5MDA5MTAsMzczODk1
-MjIsMTAzODY3MTA0MSwxMzQ3NTk1NDc4LDcwMzA0OTEwOCw2Nj
-YxOTg2NzgsLTE3MDM5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQy
-OTgsLTIwMjMwMDA1NzldfQ==
+eyJoaXN0b3J5IjpbMTM1MzE0MDQ3OSwtMTA4MzMzOTQyOCwtNT
+M4MDc5MTYxLDE1ODIyODg1ODIsLTE5OTkzMDk2MSwtMTkzMDkw
+MDkxMCwzNzM4OTUyMiwxMDM4NjcxMDQxLDEzNDc1OTU0NzgsNz
+AzMDQ5MTA4LDY2NjE5ODY3OCwtMTcwMzk1MjMxNywxNzQ2MTk1
+NDg3LDkwMDY2NDI5OCwtMjAyMzAwMDU3OV19
 -->
