@@ -150,7 +150,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 > **好的学习模式是，在做A的时候彻底关注A，在做B的时候彻底关注B,A和B两件事情之间有非常清晰的界线。**如果在做A的时候想着B，在做B的时候又想着A，那么意识工作的深度不够，潜意识也无法顺利开启，这种边界不清的习惯对能力提升伤害很大。李大钊也说过：“要学就学个踏实，要玩就玩个痛快！”说明界线分明的习惯对人性情和能力的培养都很有好处。
 
-所谓不要三心二意，要一心一意。**只要不断开小差，拉一拉不回来，你就y意识到，可能需要休息了。**
+所谓不要三心二意，要一心一意。**只要不断开小差，拉一拉不回来，你就应该意识到，可能需要休息了。** 而休息不要耍手机，去作业写与大脑信息无关的事情。做个饭，吃点东西，散散步，浇浇花，写几个毛笔字，喝杯茶……其实，除了耍手机，我们生活充满
 
 > 一个人要想达到长期极度专注的状态，需要多种要素共同配合，比如**难度**、**兴趣**、**环境**、**情绪**、**意义**等。
 > - 学习内容不能太难，否则人很容易因畏难情绪而逃避走神；·
@@ -169,7 +169,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MDc4Mjk4OSwxNTgyMjg4NTgyLC0xOT
+eyJoaXN0b3J5IjpbLTcyMjcwMjI1NiwxNTgyMjg4NTgyLC0xOT
 k5MzA5NjEsLTE5MzA5MDA5MTAsMzczODk1MjIsMTAzODY3MTA0
 MSwxMzQ3NTk1NDc4LDcwMzA0OTEwOCw2NjYxOTg2NzgsLTE3MD
 M5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQyOTgsLTIwMjMwMDA1
