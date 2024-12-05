@@ -95,7 +95,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 - 主动停下来，以25分钟为标准，但灵活掌握
 
-番茄时间设定为25分钟有一定的道理，人在前25分的工作效率会最高，渐渐就下降了。我经常在番茄时间结束后，还一直坐着在工作，结果，一直耗了一个小时或者更多。心里一直想，我应该快做完了，不想给休息时间打断思维。这是可以理解的。可惜25分钟后效率会渐渐不知不觉地降低。er qie很难察觉的。与其继续做下去，我需要注意在到25分钟的时候，简单回顾一下工作进度就可以休息。如果真的工作不能离手，那么就需要留意自己额外专注的时间，不要超出太多，以至于自己渐渐陷入低效率状态。
+番茄时间设定为25分钟有一定的道理，人在前25分的工作效率会最高，渐渐就下降了。我经常在番茄时间结束后，还一直坐着在工作，结果，一直耗了一个小时或者更多。心里一直想，我应该快做完了，不想给休息时间打断思维。这是可以理解的。可惜25分钟后效率会渐渐不知不觉地降低，而且我们不容易察觉到。因此，我需要做一些仪式性的动作，例如到25分钟的时候，简单回顾一下工作进度然后休，又或者用一个30分钟沙漏，允许自己25fen。如果真的工作不能离手，那么就需要留意自己额外专注的时间，不要超出太多，以至于自己渐渐陷入低效率状态。
 
 更重要的是**如何休息**。专注后，大多数人都忍不住看看手机，刷刷视频或者朋友圈。这个做法确实违背了大脑的工作原理。因为，手机屏幕带给我们的是更多信息的注入。玩手机只有让我们的好奇心得到满足，心情舒服一点，大脑反而没有得到真正休息。正确的休息建议是，小睡，散步，慢跑，我也会吃一点健康的零食，喝点水，上厕所。做一些和信息无太多相关的事情。让大脑脱离专注模式，进入发散模式，短暂休息。
 
@@ -181,10 +181,10 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 但是，成年人和青少年不同。成年人的学习多了一份自驱力，青少年人在多方面都还没清晰，尤其学习目的，情绪管理等，在学习知识上就会出现填鸭喂饭式的被动。因此要他们专注一件事，先让他们看到这件事的意义，和与他的切身利益尤为重要。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTUwMTkyNTcsMTQ3MzQwNDAyMywxMz
-UzMTQwNDc5LC0xMDgzMzM5NDI4LC01MzgwNzkxNjEsMTU4MjI4
-ODU4MiwtMTk5OTMwOTYxLC0xOTMwOTAwOTEwLDM3Mzg5NTIyLD
-EwMzg2NzEwNDEsMTM0NzU5NTQ3OCw3MDMwNDkxMDgsNjY2MTk4
-Njc4LC0xNzAzOTUyMzE3LDE3NDYxOTU0ODcsOTAwNjY0Mjk4LC
-0yMDIzMDAwNTc5XX0=
+eyJoaXN0b3J5IjpbMTcxMDQxMTQxNywxNDczNDA0MDIzLDEzNT
+MxNDA0NzksLTEwODMzMzk0MjgsLTUzODA3OTE2MSwxNTgyMjg4
+NTgyLC0xOTk5MzA5NjEsLTE5MzA5MDA5MTAsMzczODk1MjIsMT
+AzODY3MTA0MSwxMzQ3NTk1NDc4LDcwMzA0OTEwOCw2NjYxOTg2
+NzgsLTE3MDM5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQyOTgsLT
+IwMjMwMDA1NzldfQ==
 -->
