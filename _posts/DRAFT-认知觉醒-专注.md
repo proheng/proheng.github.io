@@ -173,11 +173,13 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 # 个人收获
 
-我越是阅读这本书越意识到，我们所渴求培养的特质，例如，毅力，耐心，专注，刻苦等等，并不仅仅靠主观意志。然而，主观意志只是一个启动键更需要的是科学的助力。我们需要积极正面的顺势而为，所谓的“势”，就是我们无法超越的
+我越是阅读这本书越意识到，我们所渴求培养的特质，例如，毅力，耐心，专注，刻苦等等，并不仅仅靠主观意志。然而，主观意志只是一个启动键，让我们去思考培养的方法。要实现培养的目标，我们更需要的是科学的助力。
+
+我们需要积极正面地顺势而为，所谓的“势”，就是我们无法超越的人体躯壳，我们没有必要“悬梁刺股”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDMwMzQ0MSwxNTgyMjg4NTgyLC0xOT
-k5MzA5NjEsLTE5MzA5MDA5MTAsMzczODk1MjIsMTAzODY3MTA0
-MSwxMzQ3NTk1NDc4LDcwMzA0OTEwOCw2NjYxOTg2NzgsLTE3MD
-M5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQyOTgsLTIwMjMwMDA1
-NzldfQ==
+eyJoaXN0b3J5IjpbOTk3NTk4ODcwLDE1ODIyODg1ODIsLTE5OT
+kzMDk2MSwtMTkzMDkwMDkxMCwzNzM4OTUyMiwxMDM4NjcxMDQx
+LDEzNDc1OTU0NzgsNzAzMDQ5MTA4LDY2NjE5ODY3OCwtMTcwMz
+k1MjMxNywxNzQ2MTk1NDg3LDkwMDY2NDI5OCwtMjAyMzAwMDU3
+OV19
 -->
