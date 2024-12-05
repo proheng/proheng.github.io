@@ -163,14 +163,14 @@ title:  《认知觉醒》第三章 专注——学习的核心
 > - 如果一个人能强烈感受到学习的意义，他的注意力也会更加集中
 
 难度，兴趣，环境，情绪，意义。
-在清晰的部分，已经说明了情绪需要稳定，其他方面在后面的章节都会论述。先在这里打个伏笔。先记住吧。
+在清晰的部分，之前的读书笔记已经说明了情绪需要清晰而且稳定。其他方面在后面的章节都会论述。先在这里打个伏笔。先记住吧。
 
 
 > 现在你有空闲时间，摆在你面前的是一本书和一部手机，你拿哪个？其实拿起哪个来，你都可能花很多时间在上面，关键就在于那一刹那的选择。选择书的那一刻可能有点痛苦，一旦读进去就不痛苦了。
 
 无论是看书，还是玩手机，还是做其他时间，一旦开始，而且投入了的话，我们往往会一直做下去，而不知不觉时间就过去了。
 
-事实上，如果，养成良好的习惯，一早就看书，下午，晚上有时间在玩手机，就是书本提出的双峰模式，那么，这个手机和书本的选择就没有什么悬念和困难了。
+事实上，如果，**养成良好的习惯**，一早就看书，下午或晚上有时间再玩手机，就是书本提出的双峰模式。那么，在习惯的护航下，这个手机和书本的选择就没有什么悬念和困难了。
 
 # 个人收获
 
@@ -182,10 +182,10 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 但是，成年人和青少年不同。成年人的学习多了一份自驱力，青少年人在多方面都还没清晰，尤其学习目的，情绪管理等，在学习知识上就会出现填鸭喂饭式的被动。因此要他们专注一件事，先让他们看到这件事的意义，和与他的切身利益尤为重要。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyNzk3NzYxLC0xNjE5NzAwOTY1LDE0Nz
-M0MDQwMjMsMTM1MzE0MDQ3OSwtMTA4MzMzOTQyOCwtNTM4MDc5
-MTYxLDE1ODIyODg1ODIsLTE5OTkzMDk2MSwtMTkzMDkwMDkxMC
-wzNzM4OTUyMiwxMDM4NjcxMDQxLDEzNDc1OTU0NzgsNzAzMDQ5
-MTA4LDY2NjE5ODY3OCwtMTcwMzk1MjMxNywxNzQ2MTk1NDg3LD
-kwMDY2NDI5OCwtMjAyMzAwMDU3OV19
+eyJoaXN0b3J5IjpbMTIxMzc2OTA4Niw0MzI3OTc3NjEsLTE2MT
+k3MDA5NjUsMTQ3MzQwNDAyMywxMzUzMTQwNDc5LC0xMDgzMzM5
+NDI4LC01MzgwNzkxNjEsMTU4MjI4ODU4MiwtMTk5OTMwOTYxLC
+0xOTMwOTAwOTEwLDM3Mzg5NTIyLDEwMzg2NzEwNDEsMTM0NzU5
+NTQ3OCw3MDMwNDkxMDgsNjY2MTk4Njc4LC0xNzAzOTUyMzE3LD
+E3NDYxOTU0ODcsOTAwNjY0Mjk4LC0yMDIzMDAwNTc5XX0=
 -->
