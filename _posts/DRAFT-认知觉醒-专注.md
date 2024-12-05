@@ -167,14 +167,14 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 > 现在你有空闲时间，摆在你面前的是一本书和一部手机，你拿哪个？其实拿起哪个来，你都可能花很多时间在上面，关键就在于那一刹那的选择。选择书的那一刻可能有点痛苦，一旦读进去就不痛苦了。
 
-无论是看书，还是玩手机，还是做其他时间，一旦开始，而且投入了的话，我们往往会一直zuo xi
+无论是看书，还是玩手机，还是做其他时间，一旦开始，而且投入了的话，我们往往会一直做下去，而不知不觉时间就过去了。而我们获得的是这个行动的结果。我个人也刷过手
 
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjQ4MjQ1NCwxNTgyMjg4NTgyLC0xOT
-k5MzA5NjEsLTE5MzA5MDA5MTAsMzczODk1MjIsMTAzODY3MTA0
-MSwxMzQ3NTk1NDc4LDcwMzA0OTEwOCw2NjYxOTg2NzgsLTE3MD
-M5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQyOTgsLTIwMjMwMDA1
-NzldfQ==
+eyJoaXN0b3J5IjpbLTE0MDYwMzUyNzEsMTU4MjI4ODU4MiwtMT
+k5OTMwOTYxLC0xOTMwOTAwOTEwLDM3Mzg5NTIyLDEwMzg2NzEw
+NDEsMTM0NzU5NTQ3OCw3MDMwNDkxMDgsNjY2MTk4Njc4LC0xNz
+AzOTUyMzE3LDE3NDYxOTU0ODcsOTAwNjY0Mjk4LC0yMDIzMDAw
+NTc5XX0=
 -->
