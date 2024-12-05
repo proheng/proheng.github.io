@@ -174,18 +174,19 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 # 个人收获
 
-我越是阅读这本书越意识到，我们所渴求培养的特质，例如，毅力，耐心，专注，刻苦等等，并不仅仅靠主观意志。然而，主观意志只是一个启动键，让我们去思考培养的方法。要实现培养的目标，我们更需要的是科学的助力。
+我越是阅读这本书越意识到，我们所渴求培养的特质，例如，毅力，耐心，专注，刻苦等等，并不仅仅靠主观意志。然而，主观意志只是一个启动键，让我们去思考如何培养的方法。要实现培养的目标，我们更需要合理的科学助力。
 
-我们需要积极正面地顺势而为，所谓的“势”，就是我们无法超越的人体躯壳，我们没有必要“悬梁刺股”，“日以继夜”，“凿壁偷光”，“废寝忘食”地学习。我们更应该一张一弛，劳逸结合，先劳后逸。让自己螺旋式上升。
+我们需要积极正面地顺势而为，所谓的“势”，就是我们无法超越的人体极限（这里主要是大脑的极限），我们没有必要“悬梁刺股”，“日以继夜”，“凿壁偷光”，“废寝忘食”地学习。我们更应该一张一弛，劳逸结合，先劳后逸。让自己螺旋式上升。
 
 我虽然快不惑之年才阅读到这本书，但书中的知识和建议，确实提升了我的学习和工作的效率，让我更正面积极地应对一些工作上的压力。我也一直努力通过实践和调整这些建议，获得属于自己的最佳方略。
 
 但是，成年人和青少年不同。成年人的学习多了一份自驱力，青少年人在多方面都还没清晰，尤其学习目的，情绪管理等，在学习知识上就会出现填鸭喂饭式的被动。因此要他们专注一件事，先让他们看到这件事的意义，和与他的切身利益尤为重要。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzc2OTA4Niw0MzI3OTc3NjEsLTE2MT
-k3MDA5NjUsMTQ3MzQwNDAyMywxMzUzMTQwNDc5LC0xMDgzMzM5
-NDI4LC01MzgwNzkxNjEsMTU4MjI4ODU4MiwtMTk5OTMwOTYxLC
-0xOTMwOTAwOTEwLDM3Mzg5NTIyLDEwMzg2NzEwNDEsMTM0NzU5
-NTQ3OCw3MDMwNDkxMDgsNjY2MTk4Njc4LC0xNzAzOTUyMzE3LD
-E3NDYxOTU0ODcsOTAwNjY0Mjk4LC0yMDIzMDAwNTc5XX0=
+eyJoaXN0b3J5IjpbNjA2MDE0MjQ5LDEyMTM3NjkwODYsNDMyNz
+k3NzYxLC0xNjE5NzAwOTY1LDE0NzM0MDQwMjMsMTM1MzE0MDQ3
+OSwtMTA4MzMzOTQyOCwtNTM4MDc5MTYxLDE1ODIyODg1ODIsLT
+E5OTkzMDk2MSwtMTkzMDkwMDkxMCwzNzM4OTUyMiwxMDM4Njcx
+MDQxLDEzNDc1OTU0NzgsNzAzMDQ5MTA4LDY2NjE5ODY3OCwtMT
+cwMzk1MjMxNywxNzQ2MTk1NDg3LDkwMDY2NDI5OCwtMjAyMzAw
+MDU3OV19
 -->
