@@ -25,7 +25,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 我们甚至能把一个信息和信息发生的情景完全结合来记忆。例如，我们记住课堂上老师教的一个单词，可能有很多种方法，有的同学会联想到一个他已经熟悉的单词，然后，让新的单词轻松地挂在了他已有的知识网络上。有的同学则联想到一首流行歌里唱的歌词，就有这个单词，这样也轻松记住了。还有的同学或者在学习的过程中，此情此景给他的印象十分时刻，也记住了这个单词。
 
-我们从以上的例子可以看出，无论用哪一种方法学习，我们都在做**背景关联**。虽然是一个单词，但记忆和感知都漂浮在更多的信息之上。当然，一定程度上这是好事，也不算分心。然而，这样的状态下，一不留神潜意识就会越带越偏离，最后，浮想联翩，那么，就真的走神了。
+我们从以上的例子可以看出，无论用哪一种方法学习，我们都在做**背景关联**。虽然是一个单词，但记忆和感知都漂浮在更多的信息之上。当然，一定程度上这是好事，也不算分心。然而，这样的状态下，一不留神，我们会被潜意识越带越偏离，最后，浮想联翩，那么，就真的走神了。
 
 
 ## 极度专注
@@ -181,9 +181,9 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 但是，成年人和青少年不同。成年人的学习多了一份自驱力，青少年人在多方面都还没清晰，尤其学习目的，情绪管理等，在学习知识上就会出现填鸭喂饭式的被动。因此要他们专注一件事，先让他们看到这件事的意义，和与他的切身利益尤为重要。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDYzNjMyMjQsLTUzODA3OTE2MSwxNT
-gyMjg4NTgyLC0xOTk5MzA5NjEsLTE5MzA5MDA5MTAsMzczODk1
-MjIsMTAzODY3MTA0MSwxMzQ3NTk1NDc4LDcwMzA0OTEwOCw2Nj
-YxOTg2NzgsLTE3MDM5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQy
-OTgsLTIwMjMwMDA1NzldfQ==
+eyJoaXN0b3J5IjpbMTkyMDc1MjI2OSwtNTM4MDc5MTYxLDE1OD
+IyODg1ODIsLTE5OTkzMDk2MSwtMTkzMDkwMDkxMCwzNzM4OTUy
+MiwxMDM4NjcxMDQxLDEzNDc1OTU0NzgsNzAzMDQ5MTA4LDY2Nj
+E5ODY3OCwtMTcwMzk1MjMxNywxNzQ2MTk1NDg3LDkwMDY2NDI5
+OCwtMjAyMzAwMDU3OV19
 -->
