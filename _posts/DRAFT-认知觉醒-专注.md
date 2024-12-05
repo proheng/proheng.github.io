@@ -173,9 +173,9 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 # 个人收获
 
-我越是阅读zhe b
+我越是阅读这本书越意识到，我们所渴求培养的特质，例如，毅力，耐心，专注，刻苦等等，除了主观意志外，更需要的是科学的助力。我们需要j
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5NDc1MDcyLDE1ODIyODg1ODIsLTE5OT
+eyJoaXN0b3J5IjpbLTY1MTQyNjE1LDE1ODIyODg1ODIsLTE5OT
 kzMDk2MSwtMTkzMDkwMDkxMCwzNzM4OTUyMiwxMDM4NjcxMDQx
 LDEzNDc1OTU0NzgsNzAzMDQ5MTA4LDY2NjE5ODY3OCwtMTcwMz
 k1MjMxNywxNzQ2MTk1NDg3LDkwMDY2NDI5OCwtMjAyMzAwMDU3
