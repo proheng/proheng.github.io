@@ -5,7 +5,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 ![enter image description here](/assets/%E8%84%91%E5%9B%BE%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-%E4%B8%93%E6%B3%A8.png)
 
-**关键词**：极度专注，主动休息，专注模式，发散模式，难度，兴趣，环境，情绪，意义，间歇专注，主动休息，循环往复。
+**关键词**：极度专注，主动休息，专注模式，发散模式，难度，兴趣，环境，情绪，意义，间歇专注，主动休息，循环往复，要事先做。
 
 # 为什么要读这一章
 
@@ -140,7 +140,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 > 所谓极度专注，就是调动所有感官，全身心地投入一件事，或者说将100%的精力投入一件事。换句话说，极度专注与普通程度的专注之间的区别就是“7个小球”火力全开与只用“四五个小球”进行学习、练习或思考的区别。
 
-极度专注。
+极度专注就是要学习把7个小球全部用上。心无杂念，如果真的有，那么写下来，以后
 
 >**变聪明的秘诀就是先保持极度专注，想不出答案时再将注意力转换到另一件与此毫不相干的事情上。**即事前聚精会神，让意识极度投入；事后完全忘记，让意识彻底撒手。这样，灵感和答案就会大概率地出现。
 
@@ -167,8 +167,9 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjI4ODU4MiwtMTk5OTMwOTYxLC0xOT
-MwOTAwOTEwLDM3Mzg5NTIyLDEwMzg2NzEwNDEsMTM0NzU5NTQ3
-OCw3MDMwNDkxMDgsNjY2MTk4Njc4LC0xNzAzOTUyMzE3LDE3ND
-YxOTU0ODcsOTAwNjY0Mjk4LC0yMDIzMDAwNTc5XX0=
+eyJoaXN0b3J5IjpbMTEyNTQyNjI3NSwxNTgyMjg4NTgyLC0xOT
+k5MzA5NjEsLTE5MzA5MDA5MTAsMzczODk1MjIsMTAzODY3MTA0
+MSwxMzQ3NTk1NDc4LDcwMzA0OTEwOCw2NjYxOTg2NzgsLTE3MD
+M5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQyOTgsLTIwMjMwMDA1
+NzldfQ==
 -->
