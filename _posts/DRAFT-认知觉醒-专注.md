@@ -116,7 +116,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 首先，越是靠近早上，个人精力越好，越能专注，效率越高。
 
-更重要的是我们可以利用大脑有“增强回路”效应。简单地说，就是你做了一件事，它的结果会强化你做下一件事情的动机。“注意力的使用同样遵循这个规律，最初的选择会影响行为自动增强的方向。”
+更重要的是我们可以利用大脑有**增强回路**效应。简单地说，就是你做了一件事，它的结果会强化你做下一件事情的动机。“注意力的使用同样遵循这个规律，最初的选择会影响行为自动增强的方向。”
 
 ![注意力增强回路](/assets/%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-%E5%A2%9E%E5%BC%BA%E5%9B%9E%E8%B7%AF1.jpg)
 
@@ -182,10 +182,10 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 但是，成年人和青少年不同。成年人的学习多了一份自驱力，青少年人在多方面都还没清晰，尤其学习目的，情绪管理等，在学习知识上就会出现填鸭喂饭式的被动。因此要他们专注一件事，先让他们看到这件事的意义，和与他的切身利益尤为重要。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTQxNjEzMiwtMTYxOTcwMDk2NSwxND
-czNDA0MDIzLDEzNTMxNDA0NzksLTEwODMzMzk0MjgsLTUzODA3
-OTE2MSwxNTgyMjg4NTgyLC0xOTk5MzA5NjEsLTE5MzA5MDA5MT
-AsMzczODk1MjIsMTAzODY3MTA0MSwxMzQ3NTk1NDc4LDcwMzA0
-OTEwOCw2NjYxOTg2NzgsLTE3MDM5NTIzMTcsMTc0NjE5NTQ4Ny
-w5MDA2NjQyOTgsLTIwMjMwMDA1NzldfQ==
+eyJoaXN0b3J5IjpbLTE5NTk2NzMzNjUsLTE2MTk3MDA5NjUsMT
+Q3MzQwNDAyMywxMzUzMTQwNDc5LC0xMDgzMzM5NDI4LC01Mzgw
+NzkxNjEsMTU4MjI4ODU4MiwtMTk5OTMwOTYxLC0xOTMwOTAwOT
+EwLDM3Mzg5NTIyLDEwMzg2NzEwNDEsMTM0NzU5NTQ3OCw3MDMw
+NDkxMDgsNjY2MTk4Njc4LC0xNzAzOTUyMzE3LDE3NDYxOTU0OD
+csOTAwNjY0Mjk4LC0yMDIzMDAwNTc5XX0=
 -->
