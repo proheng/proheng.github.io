@@ -17,7 +17,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 # 内容概述
 
-首先，为什么我们需要专注，因为，只有在高度专注的时候，我们理智大脑会全力工作，对外部信心进行吸收，分析，消耗，产出新思想。而这是一个需要大量能耗的过程。我们不希望再这个过程中，我们的能耗被分散到与手头上无关的事情上。
+首先，为什么我们需要专注，因为，只有在高度专注的时候，我们理智大脑会全力工作，对外部信进行吸收，分析，消耗，产出新思想。而这是一个需要大量能耗的过程。我们不希望再这个过程中，我们的能耗被分散到与手头上无关的事情上。
 
 然而，高度专注的状态下，我们的感官知觉会被一定程度地钝化，让大脑可以更深入忘我地思考。这个并不符合我们人类的生存需要，因此我们大脑是无法长期处于这里专注的状态中。
 
@@ -181,9 +181,9 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 但是，成年人和青少年不同。成年人的学习多了一份自驱力，青少年人在多方面都还没清晰，尤其学习目的，情绪管理等，在学习知识上就会出现填鸭喂饭式的被动。因此要他们专注一件事，先让他们看到这件事的意义，和与他的切身利益尤为重要。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODA3OTE2MSwxNTgyMjg4NTgyLC0xOT
-k5MzA5NjEsLTE5MzA5MDA5MTAsMzczODk1MjIsMTAzODY3MTA0
-MSwxMzQ3NTk1NDc4LDcwMzA0OTEwOCw2NjYxOTg2NzgsLTE3MD
-M5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQyOTgsLTIwMjMwMDA1
-NzldfQ==
+eyJoaXN0b3J5IjpbLTIwODE3NDIyMTAsLTUzODA3OTE2MSwxNT
+gyMjg4NTgyLC0xOTk5MzA5NjEsLTE5MzA5MDA5MTAsMzczODk1
+MjIsMTAzODY3MTA0MSwxMzQ3NTk1NDc4LDcwMzA0OTEwOCw2Nj
+YxOTg2NzgsLTE3MDM5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQy
+OTgsLTIwMjMwMDA1NzldfQ==
 -->
