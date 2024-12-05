@@ -162,17 +162,17 @@ title:  《认知觉醒》第三章 专注——学习的核心
 > - 如果一个人能强烈感受到学习的意义，他的注意力也会更加集中
 
 难度，兴趣，环境，情绪，意义。
-在清晰的部分，已经说明了情绪需要稳定，其他方面za
+在清晰的部分，已经说明了情绪需要稳定，其他方面在后面的章节都会论述。先在这里打个伏笔。先记住吧。
 
 
 > 现在你有空闲时间，摆在你面前的是一本书和一部手机，你拿哪个？其实拿起哪个来，你都可能花很多时间在上面，关键就在于那一刹那的选择。选择书的那一刻可能有点痛苦，一旦读进去就不痛苦了。
 
-
+无论是看书，还是玩手机，还是做其他时间，一旦开始，而且投入了的话，我们往往会一直zuo xi
 
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTA4OTA1MywxNTgyMjg4NTgyLC0xOT
+eyJoaXN0b3J5IjpbLTI0MjQ4MjQ1NCwxNTgyMjg4NTgyLC0xOT
 k5MzA5NjEsLTE5MzA5MDA5MTAsMzczODk1MjIsMTAzODY3MTA0
 MSwxMzQ3NTk1NDc4LDcwMzA0OTEwOCw2NjYxOTg2NzgsLTE3MD
 M5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQyOTgsLTIwMjMwMDA1
