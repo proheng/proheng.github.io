@@ -167,14 +167,17 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 > 现在你有空闲时间，摆在你面前的是一本书和一部手机，你拿哪个？其实拿起哪个来，你都可能花很多时间在上面，关键就在于那一刹那的选择。选择书的那一刻可能有点痛苦，一旦读进去就不痛苦了。
 
-无论是看书，还是玩手机，还是做其他时间，一旦开始，而且投入了的话，我们往往会一直做下去，而不知不觉时间就过去了。而我们获得的是这个行动的结果。我个人也刷过手
+无论是看书，还是玩手机，还是做其他时间，一旦开始，而且投入了的话，我们往往会一直做下去，而不知不觉时间就过去了。
+
+事实上，如果，养成良好的习惯，一早就看书，下午，晚上有时间在玩手机，就是书本提出的双峰模式，那么，这个手机和书本的选择就没有什么悬念和困难了。
 
 # 个人收获
 
+我越是阅读zhe b
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDYwMzUyNzEsMTU4MjI4ODU4MiwtMT
-k5OTMwOTYxLC0xOTMwOTAwOTEwLDM3Mzg5NTIyLDEwMzg2NzEw
-NDEsMTM0NzU5NTQ3OCw3MDMwNDkxMDgsNjY2MTk4Njc4LC0xNz
-AzOTUyMzE3LDE3NDYxOTU0ODcsOTAwNjY0Mjk4LC0yMDIzMDAw
-NTc5XX0=
+eyJoaXN0b3J5IjpbOTA5NDc1MDcyLDE1ODIyODg1ODIsLTE5OT
+kzMDk2MSwtMTkzMDkwMDkxMCwzNzM4OTUyMiwxMDM4NjcxMDQx
+LDEzNDc1OTU0NzgsNzAzMDQ5MTA4LDY2NjE5ODY3OCwtMTcwMz
+k1MjMxNywxNzQ2MTk1NDg3LDkwMDY2NDI5OCwtMjAyMzAwMDU3
+OV19
 -->
