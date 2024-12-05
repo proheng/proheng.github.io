@@ -140,11 +140,11 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 > 所谓极度专注，就是调动所有感官，全身心地投入一件事，或者说将100%的精力投入一件事。换句话说，极度专注与普通程度的专注之间的区别就是“7个小球”火力全开与只用“四五个小球”进行学习、练习或思考的区别。
 
-极度专注就是要学习把7个小球全部用上。心无杂念，如果真的有，那么写下来，以后
+极度专注就是要学习把7个小球全部用上。心无杂念，如果真的有，那么写下来，以后再说。
 
 >**变聪明的秘诀就是先保持极度专注，想不出答案时再将注意力转换到另一件与此毫不相干的事情上。**即事前聚精会神，让意识极度投入；事后完全忘记，让意识彻底撒手。这样，灵感和答案就会大概率地出现。
 
-我也有同样的经历，在工作卡主的时候，离开工作台，做其他事情，灵感慢慢会浮现在脑海里。
+我也有同样的经历，在工作卡主的时候，离开工作台，做其他事情，灵感慢慢会浮现在脑海里。事实上，我工作上有时候，有一些工作任务有一定的技术难度和知识的学习梯度，需要我好几天，甚至一个更长d
 
 > **好的学习模式是，在做A的时候彻底关注A，在做B的时候彻底关注B,A和B两件事情之间有非常清晰的界线。**如果在做A的时候想着B，在做B的时候又想着A，那么意识工作的深度不够，潜意识也无法顺利开启，这种边界不清的习惯对能力提升伤害很大。李大钊也说过：“要学就学个踏实，要玩就玩个痛快！”说明界线分明的习惯对人性情和能力的培养都很有好处。
 
@@ -167,9 +167,9 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTQyNjI3NSwxNTgyMjg4NTgyLC0xOT
-k5MzA5NjEsLTE5MzA5MDA5MTAsMzczODk1MjIsMTAzODY3MTA0
-MSwxMzQ3NTk1NDc4LDcwMzA0OTEwOCw2NjYxOTg2NzgsLTE3MD
-M5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQyOTgsLTIwMjMwMDA1
-NzldfQ==
+eyJoaXN0b3J5IjpbMTk3NDExODg4LDE1ODIyODg1ODIsLTE5OT
+kzMDk2MSwtMTkzMDkwMDkxMCwzNzM4OTUyMiwxMDM4NjcxMDQx
+LDEzNDc1OTU0NzgsNzAzMDQ5MTA4LDY2NjE5ODY3OCwtMTcwMz
+k1MjMxNywxNzQ2MTk1NDg3LDkwMDY2NDI5OCwtMjAyMzAwMDU3
+OV19
 -->
