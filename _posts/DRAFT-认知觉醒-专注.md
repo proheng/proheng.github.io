@@ -144,7 +144,7 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 >**变聪明的秘诀就是先保持极度专注，想不出答案时再将注意力转换到另一件与此毫不相干的事情上。**即事前聚精会神，让意识极度投入；事后完全忘记，让意识彻底撒手。这样，灵感和答案就会大概率地出现。
 
-我也有同样的经历，在工作卡主的时候，离开工作台，做其他事情，灵感慢慢会浮现在脑海里。事实上，我有一些工作上的需求是有一定的技术难度和知识上的学习梯度，需要我好几天，甚至一个更长的时间去思考，领悟，并且提出结局方案。在这段技术攻关时期，我感觉到我的潜意识yi zhi
+我也有同样的经历，在工作卡主的时候，离开工作台，做其他事情，灵感慢慢会浮现在脑海里。事实上，我有一些工作上的需求是有一定的技术难度和知识上的学习梯度，需要我好几天，甚至一个更长的时间去思考，领悟，并且提出结局方案。在这段技术攻关时期，我感觉到我的潜意识一直在消化我学的新知识，一直在做发散性的思考，偶尔也会迸发出一些灵感，于是我会给自己的工作邮箱发送一份当我上班的时候，我可以轻松地把一些思考到的
 
 > **好的学习模式是，在做A的时候彻底关注A，在做B的时候彻底关注B,A和B两件事情之间有非常清晰的界线。**如果在做A的时候想着B，在做B的时候又想着A，那么意识工作的深度不够，潜意识也无法顺利开启，这种边界不清的习惯对能力提升伤害很大。李大钊也说过：“要学就学个踏实，要玩就玩个痛快！”说明界线分明的习惯对人性情和能力的培养都很有好处。
 
@@ -167,9 +167,9 @@ title:  《认知觉醒》第三章 专注——学习的核心
 # 个人收获
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDE2NTY0MCwxNTgyMjg4NTgyLC0xOT
-k5MzA5NjEsLTE5MzA5MDA5MTAsMzczODk1MjIsMTAzODY3MTA0
-MSwxMzQ3NTk1NDc4LDcwMzA0OTEwOCw2NjYxOTg2NzgsLTE3MD
-M5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQyOTgsLTIwMjMwMDA1
-NzldfQ==
+eyJoaXN0b3J5IjpbLTEyNTc5NDM3MDksMTU4MjI4ODU4MiwtMT
+k5OTMwOTYxLC0xOTMwOTAwOTEwLDM3Mzg5NTIyLDEwMzg2NzEw
+NDEsMTM0NzU5NTQ3OCw3MDMwNDkxMDgsNjY2MTk4Njc4LC0xNz
+AzOTUyMzE3LDE3NDYxOTU0ODcsOTAwNjY0Mjk4LC0yMDIzMDAw
+NTc5XX0=
 -->
