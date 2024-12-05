@@ -179,11 +179,11 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 我虽然快不惑之年才阅读到这本书，但书中的知识和建议，确实提升了我的学习和工作的效率，让我更正面积极地应对一些工作上的压力。我也一直努力通过实践和调整这些建议，获得属于自己的最佳方略。
 
-但是，成年人和青少年不同。成年人的学习多了一份自驱力，青少年人在多方面都还没清晰，尤其学习目的，情绪管理等，在学习知识上就会出现填鸭喂饭式的被动。因此要他们专注一件事，先让他们看到这件事的意义，和与他的切身利益尤为重要。因此，我们小时候，老师老生常谈，“学习态度”，我到现在ca
+但是，成年人和青少年不同。成年人的学习多了一份自驱力，青少年人在多方面都还没清晰，尤其学习目的，情绪管理等，在学习知识上就会出现填鸭喂饭式的被动。因此要他们专注一件事，先让他们看到这件事的意义，和与他的切身利益尤为重要。因此，我们小时候，老师老生常谈，“学习态度”，我到现在才领悟到，学习态度是从学习到意义而引发，而学习的意义舍得越细致越高，所引发的学习态度更为深刻和
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2OTY0ODcyLDE1ODIyODg1ODIsLTE5OT
-kzMDk2MSwtMTkzMDkwMDkxMCwzNzM4OTUyMiwxMDM4NjcxMDQx
-LDEzNDc1OTU0NzgsNzAzMDQ5MTA4LDY2NjE5ODY3OCwtMTcwMz
-k1MjMxNywxNzQ2MTk1NDg3LDkwMDY2NDI5OCwtMjAyMzAwMDU3
-OV19
+eyJoaXN0b3J5IjpbMTM1ODkxODA2OSwxNTgyMjg4NTgyLC0xOT
+k5MzA5NjEsLTE5MzA5MDA5MTAsMzczODk1MjIsMTAzODY3MTA0
+MSwxMzQ3NTk1NDc4LDcwMzA0OTEwOCw2NjYxOTg2NzgsLTE3MD
+M5NTIzMTcsMTc0NjE5NTQ4Nyw5MDA2NjQyOTgsLTIwMjMwMDA1
+NzldfQ==
 -->
