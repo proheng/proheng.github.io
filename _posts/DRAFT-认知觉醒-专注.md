@@ -103,13 +103,14 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 如果你有一整天时间完全自主安排，你知道你可以娱乐，也有一定学习工作任务，那么一早起来你会选择先做哪一个？还是两个间接着做？
 
-书本提出一个双峰模式，
+书本提出一个双峰模式：
+
 > 把可用的大块时间分成两部分：先在第一部分时间里（通常是上午或最开始学习的时间）进行深度学习，此时尽可能保持极度专注，形成第一个“峰”​；再在第二部分时间里处理其他事情，包括放松和娱乐，此时也应尽情投入，形成第二个“峰”​。
 > 双峰模式最大的好处就是兼顾了要事优先和劳逸结合，它让我们在提高学习效率的同时不再害怕娱乐的干扰，我们甚至可以主动拥抱娱乐，只要娱乐活动是自己主动安排的，且在完成重要的任务之后进行，这种放松就是积极可取的。
 
 ![双峰模式](/assets/%E8%AE%A4%E7%9F%A5%E8%A7%89%E9%86%92-%E5%8F%8C%E5%B3%B0.jpg)
 
-如果把学习和娱乐的时间完全隔离，学习的时候不娱乐，娱乐的时候不学习，那么大脑确实能一张一弛的工作，当然，这个比较理想的状态。无论大人或者小孩，当今的社会对我们的要求越来越高，娱乐好像变得很不应该。学习工作好像大大受到社会推崇。**然而，我们确实需要从内在解放自己的思维，我们改变不了社会，外人对我们期望，乃至要求，但是，我们可以选择符合自己精力，能力的工作学习方法。如果，以上的双峰模式对你有帮助，你大可以很自信坚持这样模式，work hard then play hard。** 当然，娱乐有很多种，我同意书本说得，用体育运动来代替沉迷电子游戏。培养多方面的兴趣爱好，琴棋书画等等。
+如果把学习和娱乐的时间完全隔离，学习的时候不娱乐，娱乐的时候不学习，那么大脑确实能一张一弛的工作。当然，这个比较理想的状态。无论大人或者小孩，当今的社会对我们的要求越来越高，娱乐好像变得很不应该。学习工作好像大大受到社会推崇。**然而，我们确实需要从内在解放自己的思维，我们改变不了社会，外人对我们期望，乃至要求，但是，我们可以主动选择符合自己精力，能力的工作学习方法。如果，以上的双峰模式对你有帮助，你大可以很自信坚持这样模式，work hard then play hard。** 当然，娱乐有很多种，我同意书本说得，用体育运动来代替沉迷电子游戏。培养多方面的兴趣爱好，琴棋书画等等。
 
 另外，为什么要先学习后娱乐（要是第一）
 
@@ -181,10 +182,10 @@ title:  《认知觉醒》第三章 专注——学习的核心
 
 但是，成年人和青少年不同。成年人的学习多了一份自驱力，青少年人在多方面都还没清晰，尤其学习目的，情绪管理等，在学习知识上就会出现填鸭喂饭式的被动。因此要他们专注一件事，先让他们看到这件事的意义，和与他的切身利益尤为重要。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTk3MDA5NjUsMTQ3MzQwNDAyMywxMz
-UzMTQwNDc5LC0xMDgzMzM5NDI4LC01MzgwNzkxNjEsMTU4MjI4
-ODU4MiwtMTk5OTMwOTYxLC0xOTMwOTAwOTEwLDM3Mzg5NTIyLD
-EwMzg2NzEwNDEsMTM0NzU5NTQ3OCw3MDMwNDkxMDgsNjY2MTk4
-Njc4LC0xNzAzOTUyMzE3LDE3NDYxOTU0ODcsOTAwNjY0Mjk4LC
-0yMDIzMDAwNTc5XX0=
+eyJoaXN0b3J5IjpbMTI0NTQxNjEzMiwtMTYxOTcwMDk2NSwxND
+czNDA0MDIzLDEzNTMxNDA0NzksLTEwODMzMzk0MjgsLTUzODA3
+OTE2MSwxNTgyMjg4NTgyLC0xOTk5MzA5NjEsLTE5MzA5MDA5MT
+AsMzczODk1MjIsMTAzODY3MTA0MSwxMzQ3NTk1NDc4LDcwMzA0
+OTEwOCw2NjYxOTg2NzgsLTE3MDM5NTIzMTcsMTc0NjE5NTQ4Ny
+w5MDA2NjQyOTgsLTIwMjMwMDA1NzldfQ==
 -->
