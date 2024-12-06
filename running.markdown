@@ -14,7 +14,7 @@ layout: post
     {% if post.categories contains "running" %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
-        <small>({{ post.date | date_to_long_string }})</small>
+        <small>({{ post.date | date: "%B %d, %Y" }})</small>
       </li>
     {% endif %}
   {% endfor %}
