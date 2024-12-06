@@ -14,10 +14,10 @@ layout: post
 
 <ul>
     <li>
-      <a href="/reading">读书笔记</a>
+      <a href="/reading">书海无涯，漫漫啃……（读书笔记）</a>
     </li>
     <li>
-      <a href="/running">跑步笔记</a>
+      <a href="/running">长途跋涉，慢慢爬……（跑步记录）</a>
     </li>
 </ul>
 
