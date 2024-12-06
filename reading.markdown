@@ -7,10 +7,10 @@ layout: post
 ---
 
 
-<h1>Posts in "Running"</h1>
+<h1>啃书笔记</h1>
 <ul>
   {% for post in site.posts %}
-    {% if post.categories contains "running" %}
+    {% if post.categories contains "reading" %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
         {{post.categories}}
