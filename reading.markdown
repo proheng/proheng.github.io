@@ -13,7 +13,6 @@ layout: post
     {% if post.categories contains "reading" %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
-        {{post.categories}}
         <small>({{ post.date | date: "%Y-%d-%m" }})</small>
       </li>
     {% endif %}

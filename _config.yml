@@ -1,4 +1,4 @@
 # _config.yml
 
-title: "一枚码农读的书"
+title: "一枚码农边跑边读的故事"
 permalink: /:categories/:year/:month/:day/:title.html
