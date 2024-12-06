@@ -1,3 +1,4 @@
 # _config.yml
 
 title: "一枚码农读的书"
+permalink: /:categories/:year/:month/:day/:title.html
