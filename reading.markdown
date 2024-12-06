@@ -14,7 +14,7 @@ layout: post
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
         {{post.categories}}
-        <small>({{ post.date | date: "%B %d, %Y" }})</small>
+        <small>({{ post.date | date: "%Y-%d-%m" }})</small>
       </li>
     {% endif %}
   {% endfor %}
