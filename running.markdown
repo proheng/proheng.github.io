@@ -7,15 +7,13 @@ layout: post
 ---
 
 
-
 <h1>Posts in "Running"</h1>
 <ul>
   {% for post in site.posts %}
-    {% if post.categories contains "running" %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
+        {{post.categories}}
         <small>({{ post.date | date: "%B %d, %Y" }})</small>
       </li>
-    {% endif %}
   {% endfor %}
 </ul>
