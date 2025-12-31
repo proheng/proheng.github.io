@@ -3,3 +3,5 @@
 title: "一枚码农边跑边读的故事"
 permalink: /:categories/:year/:month/:day/:title.html
 theme: minima
+exclude:
+  - CLAUDE.md
